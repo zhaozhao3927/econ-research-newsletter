@@ -12,11 +12,13 @@
 <body>
   <h1>Behavioral & Experimental Economics Weekly</h1>
   <p>Archive of generated issues.</p>
-  
+  {% for issue in issues %}
   <div class="issue">
-    <a href="issues/becon-weekly-2026-05-27.html">Issue #7 - 2026-05-27</a>
-    <div>30 papers</div>
+    <a href="issues/becon-weekly-{{ issue.publishDate }}.html">Issue #{{ issue.issueNumber }} - {{ issue.publishDate }}</a>
+    <div>{{ issue.papers|length }} papers</div>
   </div>
-  
+  {% else %}
+  <p>No issues yet. Run the weekly script first.</p>
+  {% endfor %}
 </body>
 </html>

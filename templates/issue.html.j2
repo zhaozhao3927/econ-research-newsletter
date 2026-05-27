@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ issue.title }} - {{ issue.publishDate }}</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; background: #f6f3ed; color: #222; }
+    .card { background: #fff; border: 1px solid #ddd; padding: 1rem; border-radius: 8px; margin: 1rem 0; }
+    .meta { color: #666; font-size: 0.9rem; margin-bottom: 0.5rem; }
+    .authors { color: #444; font-size: 0.95rem; margin: 0.4rem 0 0.7rem; }
+    .filters { margin: 1rem 0 1.25rem; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .filter-btn {
+      border: 1px solid #bbb;
+      background: #fff;
+      color: #222;
+      border-radius: 999px;
+      padding: 0.35rem 0.8rem;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    .filter-btn.active {
+      background: #222;
+      color: #fff;
+      border-color: #222;
+    }
+  </style>
+</head>
+<body>
+  <h1>{{ issue.title }}</h1>
+  <p>Issue #{{ issue.issueNumber }} | {{ issue.publishDate }}</p>
+  <p><a href="../index.html">Archive</a></p>
+  <h3>{{ issue.intro.kicker }}</h3>
+  <p>{{ issue.intro.text }}</p>
+  <div class="filters">
+    <button class="filter-btn active" data-journal="all" type="button">All Journals</button>
+    {% for journal in issue.papers | map(attribute='journal') | unique | list | sort %}
+    <button class="filter-btn" data-journal="{{ journal }}" type="button">{{ journal }}</button>
+    {% endfor %}
+  </div>
+  {% for p in issue.papers %}
+  <div class="card" data-journal="{{ p.journal }}">
+    <h3>{{ p.title }}</h3>
+    <div class="authors">
+      Authors:
+      {% if p.authors and (p.authors | length) > 0 %}
+      {{ p.authors | join(", ") }}
+      {% else %}
+      Not available
+      {% endif %}
+    </div>
+    <div class="meta">{{ p.journal }} | {{ p.publishedDate }} | {{ p.doi }}</div>
+    <p><b>RQ:</b> {{ p.rq }}</p>
+    <p><b>Method:</b> {{ p.method }}</p>
+    <p><b>Key Finding:</b> {{ p.keyFinding }}</p>
+    <p><b>Why It Matters:</b> {{ p.whyItMatters }}</p>
+    {% if p.sourceUrl %}<p><a href="{{ p.sourceUrl }}" target="_blank" rel="noopener">Read source</a></p>{% endif %}
+  </div>
+  {% endfor %}
+  <script>
+    (function () {
+      const buttons = Array.from(document.querySelectorAll(".filter-btn"));
+      const cards = Array.from(document.querySelectorAll(".card[data-journal]"));
+      function applyFilter(journal) {
+        cards.forEach((card) => {
+          const match = journal === "all" || card.dataset.journal === journal;
+          card.style.display = match ? "" : "none";
+        });
+        buttons.forEach((btn) => {
+          btn.classList.toggle("active", btn.dataset.journal === journal);
+        });
+      }
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => applyFilter(btn.dataset.journal));
+      });
+    })();
+  </script>
+</body>
+</html>

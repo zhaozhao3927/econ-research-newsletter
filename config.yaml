@@ -1,0 +1,54 @@
+newsletter:
+  title: "Behavioral & Experimental Economics Weekly"
+  github_pages_url: ""  # set after GitHub repo creation
+
+feeds:
+  - name: AER
+    url: "https://www.aeaweb.org/journals/aer/issues/rss"
+  - name: QJE
+    url: "https://academic.oup.com/rss/site_5504/3365.xml"
+  - name: JPE
+    url: "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe"
+  - name: REStud
+    url: "https://academic.oup.com/rss/site_5508/3369.xml"
+  - name: Econometrica
+    url: "https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss"
+  - name: AEJ-Applied
+    url: "https://www.aeaweb.org/journals/app/issues/rss"
+  - name: AEJ-Micro
+    url: "https://www.aeaweb.org/journals/mic/issues/rss"
+  - name: AEJ-Macro
+    url: "https://www.aeaweb.org/journals/mac/issues/rss"
+  - name: AEJ-Policy
+    url: "https://www.aeaweb.org/journals/pol/issues/rss"
+  - name: REStat
+    url: "https://direct.mit.edu/rest/pages/rss.xml"
+  - name: JEEA
+    url: "https://academic.oup.com/rss/site_5523/3388.xml"
+  - name: EJ
+    url: "https://academic.oup.com/rss/site_5488/3348.xml"
+  - name: ExpEcon
+    url: "https://link.springer.com/search.rss?facet-journal-id=10683"
+  - name: JEBO
+    url: "https://rss.sciencedirect.com/publication/science/01672681"
+  - name: GEB
+    url: "https://rss.sciencedirect.com/publication/science/08998256"
+  - name: NBER
+    url: "https://nber.org/rss/new_working_papers.xml"
+  - name: PsychScience
+    url: "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=pssa&type=etoc&feed=rss"
+  - name: NatureHB
+    url: "https://www.nature.com/nathumbehav.rss"
+  - name: JExpPsychGen
+    url: "https://www.apa.org/pubs/journals/xge/rss.xml"
+
+api:
+  model: claude-sonnet-4-6
+  max_papers_per_issue: 30
+
+cache:
+  path: cache/summaries.json
+
+scheduler:
+  day: monday
+  time: "08:00"

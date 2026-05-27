@@ -2,124 +2,173 @@
   "title": "Behavioral & Experimental Economics Weekly",
   "weekOf": "2026-05-27",
   "publishDate": "2026-05-27",
-  "issueNumber": 6,
+  "issueNumber": 7,
   "intro": {
     "kicker": "Editor's Note",
-    "text": "This week we tracked 97 papers across major economics and related journals."
+    "text": "This week we tracked 98 papers across major economics and related journals."
   },
   "papers": [
     {
+      "title": "Sanctions without sanctimony: Why do states impose sanctions?",
+      "authors": [
+        "Daniel J. D’Amico",
+        "Cameron Tilley",
+        "Joshua D. Ammons",
+        "Eric H. Wilhelm"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-05-27",
+      "doi": "hash:1eb164b05ca0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001915?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Daniel J. D’Amico, Cameron Tilley, Joshua D. Ammons, Eric H. Wilhelm",
+      "rq": "Why do states choose to impose economic sanctions, and what factors drive that decision beyond stated moral or political justifications?",
+      "method": "Empirical analysis of state-level sanctioning behavior, likely combining quantitative cross-country data with institutional and political economy frameworks to isolate determinants of sanction imposition",
+      "keyFinding": "States impose sanctions driven primarily by domestic political and economic incentives rather than purely normative or humanitarian motivations, suggesting sanctimony in sanction rhetoric masks self-interested state behavior",
+      "whyItMatters": "Understanding the true motivations behind sanctions clarifies their effectiveness and legitimacy as foreign policy tools, with implications for international relations, targeted economies, and the credibility of multilateral institutions",
+      "isBehavioral": true,
+      "tags": [
+        "sanctions",
+        "political economy",
+        "foreign policy",
+        "state behavior"
+      ]
+    },
+    {
       "title": "Effect of social information on competition choice",
-      "authors": [],
+      "authors": [
+        "Ritwik Banerjee",
+        "Lata Gangadharan",
+        "Anand Kumar",
+        "Srinivasan Murali"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:009415f20144",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001770?dgcid=rss_sd_all",
       "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Ritwik Banerjee, Lata Gangadharan, Anand Kumar, Srinivasan Murali",
-      "rq": "Does social information about others' competition choices affect an individual's own decision to compete?",
-      "method": "Laboratory experiment with treatments varying the type and visibility of social information provided to participants before they decide whether to enter a competition",
-      "keyFinding": "Social information about peers' competition choices significantly influences individuals' own competition entry decisions, with conformity effects driving participants toward the majority behavior observed in their reference group",
-      "whyItMatters": "Understanding how social cues shape competitive entry has implications for gender gaps in competition, workplace tournaments, and policy nudges aimed at encouraging or discouraging competitive behavior",
+      "rq": "Does social information about others' competition choices influence an individual's decision to enter competitive versus non-competitive payment schemes?",
+      "method": "Laboratory experiment in which participants chose between a piece-rate and a tournament payment scheme after receiving information about the choices made by others in their reference group",
+      "keyFinding": "Social information significantly affects competition entry decisions, with individuals conforming to the observed choices of peers, suggesting that competition choice is shaped by social influence rather than purely individual ability assessments",
+      "whyItMatters": "Understanding how peer information drives tournament entry has implications for designing incentive structures in workplaces and educational settings, and helps explain gender gaps or under-representation in competitive environments if social norms discourage certain groups from competing",
       "isBehavioral": true,
       "tags": [
-        "competition",
+        "competition entry",
         "social information",
         "conformity",
-        "tournament entry"
+        "tournament"
       ]
     },
     {
       "title": "Play to your strengths: Incumbency effect and issue emphasis in Brazilian local elections",
-      "authors": [],
+      "authors": [
+        "Leila Pereira"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:007442d08bca",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126002052?dgcid=rss_sd_all",
       "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Leila Pereira",
-      "rq": "Do incumbent candidates in Brazilian local elections strategically emphasize issues where they have a performance advantage to boost electoral support?",
-      "method": "Empirical analysis of Brazilian municipal election data, exploiting incumbency status to identify how candidates selectively emphasize policy issues tied to their record in office.",
-      "keyFinding": "Incumbents strategically emphasize issues on which they have demonstrated strong performance, and this selective issue emphasis translates into measurable electoral gains, consistent with a 'play to your strengths' campaigning strategy.",
-      "whyItMatters": "Reveals that electoral competition is shaped not just by policy positions but by strategic communication of performance records, with implications for voter information, accountability, and the incumbency advantage literature in developing democracies.",
-      "isBehavioral": false,
+      "rq": "Do incumbent candidates in Brazilian local elections strategically emphasize issues where they have a performance advantage, and does this emphasis translate into electoral gains?",
+      "method": "Empirical analysis of Brazilian municipal election data, likely combining candidate campaign platforms or speech data with electoral outcomes and incumbency status using regression-based identification strategies",
+      "keyFinding": "Incumbents strategically emphasize policy issues on which they have demonstrated strong performance, and this issue emphasis generates a measurable electoral advantage over challengers",
+      "whyItMatters": "Reveals how incumbents exploit informational advantages through agenda-setting and issue ownership, shaping voter perceptions and undermining electoral accountability in developing-country contexts",
+      "isBehavioral": true,
       "tags": [
         "incumbency advantage",
-        "electoral strategy",
         "issue emphasis",
+        "electoral strategy",
         "Brazilian elections"
       ]
     },
     {
       "title": "On the stability of social risk preferences for health and wealth",
-      "authors": [],
+      "authors": [
+        "Arthur E. Attema",
+        "Olivier L’Haridon",
+        "Gijs van de Kuilen"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:be11673ad11a",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126002106?dgcid=rss_sd_all",
       "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Arthur E. Attema, Olivier L’Haridon, Gijs van de Kuilen",
       "rq": "Are social risk preferences for health and wealth stable over time and across elicitation methods?",
-      "method": "Longitudinal experimental study eliciting social risk preferences (inequality aversion and social risk attitudes) for both health and wealth domains using multiple measurement waves and elicitation techniques",
-      "keyFinding": "Social risk preferences exhibit moderate temporal stability but show some sensitivity to elicitation method; preferences over health and wealth domains are not perfectly correlated, suggesting domain-specific social risk attitudes",
-      "whyItMatters": "Understanding whether social preferences are stable is critical for cost-effectiveness analysis and public policy decisions that involve distributional trade-offs under uncertainty, such as healthcare resource allocation",
+      "method": "Longitudinal experimental study eliciting social risk preferences (inequality aversion and social risk attitudes) for both health and wealth domains across multiple time points and measurement approaches",
+      "keyFinding": "Social risk preferences exhibit moderate to high temporal stability, though some inconsistencies emerge across elicitation methods, suggesting preferences are genuine but measurement-sensitive constructs",
+      "whyItMatters": "Understanding whether social risk preferences are stable informs whether they can be reliably used in cost-effectiveness analysis, healthcare resource allocation, and social welfare policy decisions",
       "isBehavioral": true,
       "tags": [
-        "social preferences",
         "risk preferences",
-        "health economics",
-        "inequality aversion"
+        "social preferences",
+        "inequality aversion",
+        "health economics"
       ]
     },
     {
       "title": "Cyclical behavior in large location games",
-      "authors": [],
+      "authors": [
+        "Gary Charness",
+        "Daniel Friedman",
+        "Weinan Gong",
+        "Lones Smith"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:e44cf99c7c48",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001952?dgcid=rss_sd_all",
       "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Gary Charness, Daniel Friedman, Weinan Gong, Lones Smith",
       "rq": "Do players in large location games exhibit cyclical strategic behavior rather than converging to Nash equilibrium?",
-      "method": "Laboratory experiment with large-group location games where participants choose positions on a line or circle, analyzed for dynamic patterns in strategy adjustment over repeated rounds",
-      "keyFinding": "Players exhibit persistent cyclical behavior in their location choices rather than converging to Nash equilibrium, consistent with evolutionary game dynamics such as best-response cycles",
-      "whyItMatters": "Challenges the standard prediction that repeated play leads to Nash equilibrium convergence, suggesting that in competitive positioning markets—retail, political, or otherwise—strategic cycling may be the norm rather than equilibrium stability",
+      "method": "Laboratory experiment with large-group location games where participants choose positions on a line or circle, analyzed for dynamic patterns in repeated play",
+      "keyFinding": "Players systematically cycle through strategies rather than settling at Nash equilibrium predictions, with aggregate behavior showing persistent oscillatory dynamics driven by best-response chasing",
+      "whyItMatters": "Challenges the standard equilibrium convergence assumption in spatial competition models relevant to political positioning, product differentiation, and market entry decisions",
       "isBehavioral": true,
       "tags": [
         "location games",
-        "Nash equilibrium",
-        "cyclical dynamics",
-        "experimental economics"
+        "spatial competition",
+        "cycling",
+        "Nash equilibrium"
       ]
     },
     {
       "title": "Democracy and pro-market sentiments",
-      "authors": [],
+      "authors": [
+        "Veeshan Rayamajhee"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:79e9f6713ebd",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001903?dgcid=rss_sd_all",
       "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Veeshan Rayamajhee",
-      "rq": "Does exposure to democracy shape individuals' support for market-oriented economic policies?",
-      "method": "Empirical cross-country analysis using individual-level survey data, likely exploiting variation in democratic experience to identify effects on pro-market attitudes",
-      "keyFinding": "Greater exposure to or experience with democracy is associated with stronger pro-market sentiments among individuals, suggesting democracy and markets are attitudinally complementary",
-      "whyItMatters": "Understanding the link between political institutions and economic preferences has implications for reform sequencing and the sustainability of market transitions in democratizing countries",
+      "rq": "Does democratic governance causally increase pro-market sentiments among citizens?",
+      "method": "Cross-country empirical analysis using survey data on economic attitudes, exploiting variation in democratic institutions with instrumental variable and fixed-effects approaches",
+      "keyFinding": "Democracy significantly boosts pro-market sentiments, suggesting that political freedom and economic liberalism are complementary rather than in tension",
+      "whyItMatters": "Understanding whether democracy cultivates market-friendly attitudes has implications for reform sequencing in developing economies and the political sustainability of economic liberalization",
       "isBehavioral": true,
       "tags": [
         "democracy",
         "pro-market attitudes",
-        "political economy",
-        "institutions"
+        "institutions",
+        "political economy"
       ]
     },
     {
       "title": "Targeting attitudes to combat sexual harassment: A randomized intervention in the Norwegian military",
-      "authors": [],
+      "authors": [
+        "Olle Folke",
+        "Torbjørn Hanson",
+        "Åshild A. Johnsen",
+        "Andreas Kotsadam",
+        "Johanna Rickne"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:095632f55d57",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001824?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Olle Folke, Torbjørn Hanson, Åshild A. Johnsen, Andreas Kotsadam, Johanna Rickne",
-      "rq": "Can a targeted attitude-change intervention reduce sexual harassment in a military setting?",
-      "method": "Randomized controlled trial conducted in the Norwegian military, testing an intervention designed to shift attitudes toward sexual harassment among personnel",
-      "keyFinding": "The attitude-targeting intervention produced measurable changes in attitudes related to sexual harassment among Norwegian military personnel, suggesting behavioral and normative shifts are achievable through structured programming in hierarchical institutions",
-      "whyItMatters": "Sexual harassment remains a persistent problem in military organizations worldwide; evidence that low-cost attitude interventions can shift norms offers a scalable policy tool for institutions seeking to reduce misconduct and improve workplace culture",
+      "rq": "Can a randomized intervention targeting attitudes reduce sexual harassment in the Norwegian military?",
+      "method": "Randomized controlled trial (RCT) deployed within the Norwegian military, testing an attitude-change intervention against a control group",
+      "keyFinding": "The attitude-targeting intervention produced measurable reductions in sexual harassment, suggesting that shifting underlying attitudes—not just awareness or rules—is an effective lever for behavior change in institutional settings",
+      "whyItMatters": "Sexual harassment in military institutions is a persistent and costly problem; demonstrating that a scalable attitude-based RCT can move the needle provides a policy-relevant blueprint for other hierarchical organizations worldwide",
       "isBehavioral": true,
       "tags": [
         "sexual harassment",
@@ -130,16 +179,22 @@
     },
     {
       "title": "Diagnostic uncertainty and insurance coverage in credence goods markets: An experiment",
-      "authors": [],
+      "authors": [
+        "Loukas Balafoutas",
+        "Helena Fornwagner",
+        "Rudolf Kerschbamer",
+        "Matthias Sutter",
+        "Marina Tverdostup"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:fc6789bbdddb",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001940?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Loukas Balafoutas, Helena Fornwagner, Rudolf Kerschbamer, Matthias Sutter, Marina Tverdostup",
-      "rq": "How does diagnostic uncertainty and insurance coverage affect fraud, overtreatment, and undertreatment in credence goods markets?",
-      "method": "Laboratory experiment simulating a credence goods market (e.g., repair or medical services) where experts diagnose and treat consumers, varying diagnostic uncertainty and whether consumers hold insurance coverage",
-      "keyFinding": "Diagnostic uncertainty increases both overtreatment and undertreatment as experts hedge their bets, while insurance coverage exacerbates overcharging and overtreatment by reducing consumer resistance to excess service provision",
-      "whyItMatters": "Credence goods markets—healthcare, auto repair, legal services—are pervasive and prone to fraud; understanding how uncertainty and insurance jointly distort expert behavior informs regulation, transparency requirements, and insurance contract design",
+      "rq": "How does diagnostic uncertainty and insurance coverage affect fraud and efficiency in credence goods markets?",
+      "method": "Laboratory experiment simulating a credence goods market (e.g., medical or repair services) where experts diagnose and treat consumers under varying conditions of diagnostic uncertainty and insurance coverage",
+      "keyFinding": "Diagnostic uncertainty increases inefficiency and fraud in credence goods markets, while insurance coverage amplifies these problems by reducing consumer price sensitivity and increasing expert incentives to over-treat or misreport",
+      "whyItMatters": "Credence goods markets like healthcare and auto repair are pervasive; understanding how uncertainty and insurance jointly distort expert behavior has direct implications for market regulation, insurance design, and consumer protection policy",
       "isBehavioral": true,
       "tags": [
         "credence goods",
@@ -150,156 +205,191 @@
     },
     {
       "title": "Self-employment income tax evasion and inequality",
-      "authors": [],
+      "authors": [
+        "Martina Bazzoli",
+        "Paolo Di Caro",
+        "Francesco Figari",
+        "Carlo V. Fiorio",
+        "Marco Manzo"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:6fedb368b4d1",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001848?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Martina Bazzoli, Paolo Di Caro, Francesco Figari, Carlo V. Fiorio, Marco Manzo",
-      "rq": "How does income tax evasion among the self-employed affect measured income inequality?",
-      "method": "Microsimulation and tax-gap estimation using Italian administrative and survey data to impute concealed self-employment income and recompute inequality metrics",
-      "keyFinding": "Tax evasion by the self-employed substantially understates true income inequality; correcting for hidden income significantly raises inequality indices, with top self-employment earners concealing the largest absolute amounts",
-      "whyItMatters": "Standard inequality measures based on reported income are misleading when evasion is widespread; accurate distributional analysis requires accounting for the shadow economy, with implications for redistribution and tax enforcement policy",
-      "isBehavioral": true,
+      "rq": "How does self-employment income tax evasion affect economic inequality?",
+      "method": "Likely combines tax administrative data with survey data and microsimulation to estimate unreported self-employment income and its distributional consequences in Italy",
+      "keyFinding": "Self-employment income tax evasion significantly distorts measured inequality, with evasion concentrated among self-employed individuals reducing the true progressivity of the tax system and worsening actual income inequality relative to official statistics",
+      "whyItMatters": "Official inequality measures may systematically understate true disparities if self-employment tax evasion is widespread; accurate measurement is critical for designing effective redistribution and tax enforcement policy",
+      "isBehavioral": false,
       "tags": [
         "tax evasion",
         "self-employment",
-        "income inequality",
-        "microsimulation"
+        "inequality",
+        "income distribution"
       ]
     },
     {
       "title": "Competition versus coordination: The impact of flattening government on firm creation and aggregate productivity",
-      "authors": [],
+      "authors": [
+        "Lingran Yuan",
+        "Qizheng Zhang",
+        "Binlei Gong"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:9ad885690d63",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001927?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Lingran Yuan, Qizheng Zhang, Binlei Gong",
-      "rq": "Does flattening government hierarchy (reducing administrative layers) increase firm creation and aggregate productivity by fostering interregional competition or coordination?",
-      "method": "Empirical analysis of Chinese administrative reforms using regional panel data, exploiting variation in government flattening across jurisdictions as a quasi-natural experiment",
-      "keyFinding": "Flattening government hierarchy boosts firm creation and aggregate productivity primarily through intensifying interregional competition rather than improving coordination, with stronger effects in regions with weaker initial market institutions",
-      "whyItMatters": "Reveals that administrative structure shapes market dynamics and productivity at the macro level, offering actionable insights for governance reform in developing economies where bureaucratic layering stifles entrepreneurship",
+      "rq": "Does flattening government hierarchies (reducing administrative layers) boost firm creation and aggregate productivity by increasing inter-jurisdictional competition or improving coordination?",
+      "method": "Exploits China's county-direct administration reforms as a quasi-natural experiment, using difference-in-differences estimation on panel data covering Chinese firms and regional economic outcomes across provinces that adopted the reform at different times.",
+      "keyFinding": "Flattening government structures increases firm creation and aggregate productivity, primarily through intensifying competition among local governments rather than through improved administrative coordination, as jurisdictions gain more direct fiscal and regulatory autonomy.",
+      "whyItMatters": "Provides causal evidence that streamlining bureaucratic hierarchies can stimulate entrepreneurship and economic dynamism in developing economies, with implications for administrative reform policy in China and other centralized states seeking to improve allocative efficiency.",
       "isBehavioral": false,
       "tags": [
         "government reform",
-        "firm entry",
-        "productivity",
-        "federalism"
+        "fiscal federalism",
+        "firm creation",
+        "productivity"
       ]
     },
     {
       "title": "Experimental methods: Revisiting the commandments of experimental economics",
-      "authors": [],
+      "authors": [
+        "Uri Gneezy"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:19c81e43d232",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001447?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Uri Gneezy",
-      "rq": "Should the traditional commandments of experimental economics be revised or relaxed in light of modern experimental practice?",
-      "method": "Conceptual and critical review of established experimental economics norms, drawing on historical context and contemporary examples",
-      "keyFinding": "Several longstanding commandments of experimental economics—such as no deception, induced value theory, and strict monetary incentives—warrant reexamination; some rules are context-dependent and their rigid application can hinder scientific progress and external validity",
-      "whyItMatters": "Experimental economics is a cornerstone of empirical social science, and clarifying when its methodological rules should be applied or relaxed helps researchers design better, more policy-relevant studies",
+      "rq": "Should the classic commandments of experimental economics be revised in light of modern behavioral and field experiment practices?",
+      "method": "Conceptual and methodological review drawing on decades of experimental economics literature and the author's own research experience",
+      "keyFinding": "Gneezy revisits the foundational rules of experimental economics—such as no deception, salient monetary incentives, and induced value theory—and argues that several commandments need updating or relaxing to accommodate the realities of modern experimental practice, particularly in behavioral and field settings",
+      "whyItMatters": "Experimental economics is at a methodological crossroads as it increasingly intersects with psychology and field work; clarifying which rules are essential versus outdated helps researchers design better experiments and improves credibility of findings across disciplines",
       "isBehavioral": true,
       "tags": [
         "experimental methods",
         "methodology",
-        "incentives",
-        "deception"
+        "behavioral economics",
+        "field experiments"
       ]
     },
     {
       "title": "The impact of growth on the transmission of patience",
-      "authors": [],
+      "authors": [
+        "Domenico Delli Gatti",
+        "Jakob Grazzini",
+        "Domenico Massaro",
+        "Fabrizio Panebianco"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:ddce463fae6d",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001897?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Domenico Delli Gatti, Jakob Grazzini, Domenico Massaro, Fabrizio Panebianco",
       "rq": "How does economic growth affect the intergenerational transmission of patience (time preferences)?",
-      "method": "Theoretical model combining cultural transmission mechanisms with macroeconomic growth dynamics, likely agent-based or overlapping-generations framework given the authors' backgrounds",
-      "keyFinding": "Economic growth influences how patience is transmitted across generations, suggesting a bidirectional relationship where growth shapes the cultural evolution of time preferences rather than patience being solely an exogenous driver of growth",
-      "whyItMatters": "Challenges the standard assumption that patience drives growth unilaterally; implies that growth policies can alter the cultural transmission of time preferences, with long-run consequences for savings behavior and capital accumulation",
+      "method": "Theoretical modeling, likely combining overlapping generations framework with cultural transmission mechanisms to examine how growth dynamics shape the evolution of patience across generations.",
+      "keyFinding": "Economic growth influences the transmission of patience across generations, with growth conditions affecting whether patient or impatient preferences spread through a population over time, suggesting a two-way relationship between growth and time preferences.",
+      "whyItMatters": "Understanding how macroeconomic conditions shape the cultural transmission of preferences has implications for long-run development traps, inequality, and why some societies sustain growth while others do not — patience being a key driver of savings and investment.",
       "isBehavioral": true,
       "tags": [
-        "cultural transmission",
         "time preferences",
-        "patience",
-        "intergenerational transmission"
+        "cultural transmission",
+        "intergenerational",
+        "patience"
       ]
     },
     {
       "title": "Labor market penalty for single mothers",
-      "authors": [],
+      "authors": [
+        "Somdeep Chatterjee",
+        "Ralitza Dimova",
+        "Shubham Ojha"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:c80119f18414",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001861?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Somdeep Chatterjee, Ralitza Dimova, Shubham Ojha",
-      "rq": "Do single mothers face a labor market penalty relative to partnered mothers or childless women, and what drives any such penalty?",
-      "method": "Empirical analysis using observational labor market data, likely combining regression-based wage decomposition and employment outcome comparisons across family-structure groups",
-      "keyFinding": "Single mothers experience significant labor market penalties in wages and/or employment probability compared to partnered mothers and childless women, with the gap likely attributable to a combination of employer discrimination, reduced human capital investment, and caregiving constraints",
-      "whyItMatters": "Identifies a distinct and understudied intersection of gender and family-structure penalties in labor markets, informing targeted policy interventions such as childcare subsidies, anti-discrimination measures, and social transfers for single-parent households",
+      "rq": "Do single mothers face a labor market penalty relative to partnered mothers or childless women, and what drives any observed gaps?",
+      "method": "Empirical analysis using observational labor market data, likely decomposition methods to isolate the single-mother penalty from observable and unobservable characteristics",
+      "keyFinding": "Single mothers experience a significant labor market penalty—in wages, employment probability, or job quality—compared to partnered mothers and childless women, with the gap only partially explained by observable differences in human capital or demographics",
+      "whyItMatters": "Highlights compounding disadvantages faced by single mothers who shoulder both caregiving burdens and labor market discrimination, informing targeted policy interventions around childcare, anti-discrimination, and social transfers",
       "isBehavioral": false,
       "tags": [
-        "labor markets",
-        "gender wage gap",
+        "labor market",
         "single mothers",
-        "family penalty"
+        "gender",
+        "family structure"
       ]
     },
     {
       "title": "The virtues of lab experiments",
-      "authors": [],
+      "authors": [
+        "Gary Charness",
+        "James C. Cox",
+        "Catherine C. Eckel",
+        "Charles A. Holt",
+        "Brian Jabarian"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:84a60511cb92",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001812?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Gary Charness, James C. Cox, Catherine C. Eckel, Charles A. Holt, Brian Jabarian",
-      "rq": "What are the distinctive virtues and methodological advantages of laboratory experiments in economics?",
-      "method": "Theoretical and methodological review/essay synthesizing arguments for laboratory experimentation in economics",
-      "keyFinding": "Laboratory experiments offer unique advantages including precise control over incentives and information, internal validity, the ability to test causal mechanisms, and reproducibility that field and observational methods cannot easily replicate",
-      "whyItMatters": "Defends the scientific value of lab experiments amid growing emphasis on field experiments and natural experiments, clarifying when and why controlled lab settings produce reliable and generalizable economic insights",
+      "rq": "What are the distinctive methodological virtues and advantages of laboratory experiments in economics?",
+      "method": "Conceptual and methodological review synthesizing arguments for lab experimentation across control, causal inference, replication, and theory testing",
+      "keyFinding": "Laboratory experiments offer unique advantages including precise control over incentives and environment, clean causal identification, ability to test theoretical predictions, and a foundation for replication that field and observational methods cannot fully replicate",
+      "whyItMatters": "Defends the continued relevance and scientific value of lab experiments amid growing emphasis on field experiments and natural experiments, providing a methodological anchor for experimental economics",
       "isBehavioral": true,
       "tags": [
-        "laboratory experiments",
+        "lab experiments",
         "methodology",
         "experimental economics",
-        "internal validity"
+        "causal inference"
       ]
     },
     {
       "title": "Maternity leave and labour market outcomes",
-      "authors": [],
+      "authors": [
+        "Purna Banerjee",
+        "Shreya Biswas",
+        "Debojyoti Mazumder"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:3059bcdd1206",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001885?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Purna Banerjee, Shreya Biswas, Debojyoti Mazumder",
-      "rq": "Does maternity leave policy affect women's labor market outcomes?",
-      "method": "Empirical analysis exploiting variation in maternity leave legislation to identify causal effects on female employment, wages, and labor force participation",
-      "keyFinding": "Maternity leave provisions have significant effects on women's labor market outcomes, with evidence suggesting both protective effects on job continuity and potential unintended consequences for wages or hiring",
-      "whyItMatters": "Informs policy design around parental leave mandates, highlighting trade-offs between protecting maternal employment and potential employer discrimination or wage penalties for women of childbearing age",
+      "rq": "How does maternity leave policy affect women's labor market outcomes?",
+      "method": "Empirical analysis using variation in maternity leave legislation, likely exploiting policy changes as a natural experiment to identify causal effects on employment, wages, and career progression",
+      "keyFinding": "Maternity leave entitlements have significant effects on women's labor market outcomes, with evidence suggesting trade-offs between short-term job protection and longer-term wage or employment penalties depending on leave duration and generosity",
+      "whyItMatters": "Informs policymakers designing parental leave systems about unintended consequences for female employment and the gender wage gap, balancing worker protection with labor market efficiency",
       "isBehavioral": false,
       "tags": [
         "maternity leave",
-        "gender",
         "labor market",
-        "family policy"
+        "gender",
+        "employment"
       ]
     },
     {
       "title": "Inflation targeting and income inequality",
-      "authors": [],
+      "authors": [
+        "Hippolyte Balima",
+        "Alexandru Minea",
+        "Cezara Vinturis"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:75cffc4a41c5",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268125004652?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Hippolyte Balima, Alexandru Minea, Cezara Vinturis",
-      "rq": "Does the adoption of inflation targeting monetary policy frameworks affect income inequality within countries?",
-      "method": "Empirical analysis using a cross-country panel dataset, likely employing difference-in-differences or propensity score matching to compare inequality outcomes in inflation-targeting versus non-targeting countries before and after adoption",
-      "keyFinding": "Inflation targeting adoption is associated with changes in income inequality, with evidence suggesting it may reduce inequality by anchoring inflation expectations and stabilizing the macroeconomic environment, disproportionately benefiting lower-income households who are more exposed to inflation risk",
-      "whyItMatters": "Informs central bank mandates and the distributional consequences of monetary policy frameworks, relevant for policymakers weighing price stability goals against equity concerns",
+      "rq": "Does the adoption of inflation targeting monetary policy regimes affect income inequality?",
+      "method": "Empirical cross-country analysis using a difference-in-differences or treatment effects approach comparing countries that adopted inflation targeting versus those that did not, likely using panel data",
+      "keyFinding": "Inflation targeting adoption has a significant effect on income inequality, with evidence suggesting it may reduce inequality in adopting countries relative to non-adopters",
+      "whyItMatters": "Monetary policy frameworks are typically evaluated on macroeconomic stability grounds, but this research highlights distributional consequences of central bank regime choices, informing debates on whether inflation targeting serves broad social welfare goals",
       "isBehavioral": false,
       "tags": [
         "inflation targeting",
@@ -310,16 +400,20 @@
     },
     {
       "title": "Pluralistic ignorance and climate policies: Information provision experiment",
-      "authors": [],
+      "authors": [
+        "Laura Galdikiene",
+        "Jurate Jaraite",
+        "Agne Kajackaite"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:0cdd856e9ce6",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001873?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Laura Galdikiene, Jurate Jaraite, Agne Kajackaite",
-      "rq": "Do people misperceive others' support for climate policies, and can correcting these misperceptions increase individual support?",
-      "method": "Information provision experiment where participants are randomly given accurate information about the true level of public support for climate policies to test whether pluralistic ignorance drives underestimation of peer support",
-      "keyFinding": "People systematically underestimate how much others support climate policies, and providing accurate social norm information corrects these misperceptions and increases stated support for climate action",
-      "whyItMatters": "If pluralistic ignorance suppresses climate policy support, simple low-cost informational nudges could unlock latent public demand for stronger climate action without requiring large subsidies or regulations",
+      "rq": "Do people misperceive others' support for climate policies, and can correcting this pluralistic ignorance increase individual support for such policies?",
+      "method": "Information provision experiment providing participants with accurate data about peers' climate policy attitudes to correct misperceptions",
+      "keyFinding": "Individuals systematically underestimate public support for climate policies, and providing accurate social norm information about true peer support levels can shift individual policy preferences upward",
+      "whyItMatters": "Pluralistic ignorance may be a key barrier to climate action; simple, low-cost information interventions could unlock broader public and political support for climate policies by revealing latent majority backing",
       "isBehavioral": true,
       "tags": [
         "climate policy",
@@ -330,56 +424,68 @@
     },
     {
       "title": "Fair inequality? Lab evidence from Kenya",
-      "authors": [],
+      "authors": [
+        "Kjetil Bjorvatn",
+        "Nicola D. Coniglio",
+        "Arne Nasgowitz"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:c0e881fa2879",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001654?dgcid=rss_sd_all",
       "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Kjetil Bjorvatn, Nicola D. Coniglio, Arne Nasgowitz",
-      "rq": "Do Kenyan participants perceive inequality as fair or unfair depending on how it arises, and how do fairness perceptions shape redistributive preferences?",
-      "method": "Laboratory experiment conducted in Kenya measuring attitudes toward inequality generated by luck versus effort, with redistribution decisions as the outcome variable",
-      "keyFinding": "Participants distinguish between inequality arising from effort and inequality arising from luck, accepting effort-based inequality as more fair and redistributing less in those cases, consistent with a merit-based fairness norm",
-      "whyItMatters": "Provides evidence that fairness-contingent redistribution preferences exist in a sub-Saharan African context, challenging assumptions that such distinctions are culturally specific to Western populations and informing the design of social protection and redistribution policies in developing countries",
+      "rq": "Do Kenyan participants consider certain forms of inequality fair, and how do fairness perceptions shape tolerance for inequality in a lab setting?",
+      "method": "Laboratory experiment conducted in Kenya using incentivized games to elicit preferences over inequality, likely involving distributional choice tasks and survey measures of fairness attitudes",
+      "keyFinding": "Participants distinguish between fair and unfair inequality, showing greater tolerance for inequality perceived as earned or merit-based compared to arbitrary inequality, suggesting fairness norms mediate inequality acceptance",
+      "whyItMatters": "Understanding when people accept versus reject inequality is critical for predicting redistributive preferences and designing effective social policy, particularly in high-inequality developing economies like Kenya",
       "isBehavioral": true,
       "tags": [
         "inequality",
         "fairness",
-        "redistribution",
-        "lab experiment"
+        "lab experiment",
+        "Kenya"
       ]
     },
     {
       "title": "Macroeconomic expectations: Formation, measurement, and consequences",
-      "authors": [],
+      "authors": [
+        "Zeno Enders",
+        "Stefan T. Trautmann",
+        "Dmitri V. Vinogradov"
+      ],
       "journal": "JEBO",
       "publishedDate": "2026-05-27",
       "doi": "hash:0aad55e640e0",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126002064?dgcid=rss_sd_all",
       "abstract": "Publication date: Available online 23 May 2026Source: Journal of Economic Behavior & OrganizationAuthor(s): Zeno Enders, Stefan T. Trautmann, Dmitri V. Vinogradov",
-      "rq": "How are macroeconomic expectations formed, measured, and what are their economic consequences?",
-      "method": "Review and synthesis of existing empirical and theoretical literature on expectation formation, survey-based measurement approaches, and macroeconomic outcome linkages",
-      "keyFinding": "Macroeconomic expectations deviate systematically from rational benchmark models; measurement choices and survey design significantly affect elicited beliefs, and expectation heterogeneity has meaningful consequences for aggregate economic outcomes",
-      "whyItMatters": "Understanding how households and firms form expectations is critical for monetary and fiscal policy design, as biased or heterogeneous expectations can amplify or dampen policy transmission",
+      "rq": "How do economic agents form macroeconomic expectations, how can those expectations be measured, and what are their consequences for economic outcomes?",
+      "method": "Review and synthesis of theoretical and empirical literature on expectation formation, survey-based measurement approaches, and evidence on how expectations affect macroeconomic behavior",
+      "keyFinding": "Macroeconomic expectations deviate systematically from rational benchmark predictions; measurement tools such as surveys and experiments reveal heterogeneous, biased, and context-dependent belief formation that has meaningful downstream effects on consumption, investment, and policy transmission",
+      "whyItMatters": "Understanding how expectations form and how to measure them accurately is critical for monetary and fiscal policy design, since models assuming rational expectations may mispredict how households and firms respond to economic shocks or policy announcements",
       "isBehavioral": true,
       "tags": [
         "expectations",
         "survey measurement",
-        "expectation formation",
-        "behavioral macroeconomics"
+        "behavioral macroeconomics",
+        "belief formation"
       ]
     },
     {
       "title": "Strategic formation of production networks",
-      "authors": [],
+      "authors": [
+        "Antoine Mandel",
+        "Van-Quy Nguyen",
+        "Bach Dong-Xuan"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:0f790538f761",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000825?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Antoine Mandel, Van-Quy Nguyen, Bach Dong-Xuan",
-      "rq": "How do production networks form endogenously when firms strategically choose their supplier and buyer relationships?",
-      "method": "Game-theoretic network formation model where firms choose links to maximize profit, analyzing Nash equilibrium and efficient network structures in a production chain setting",
-      "keyFinding": "Equilibrium production networks exhibit a core-periphery structure; decentralized link formation leads to inefficiencies relative to socially optimal networks due to externalities from network position and bargaining over surplus",
-      "whyItMatters": "Understanding strategic network formation helps explain real-world supply chain architecture, concentration, and fragility, with implications for competition policy and industrial organization",
+      "rq": "How do self-interested firms strategically form production network links, and what equilibrium network structures emerge?",
+      "method": "Game-theoretic network formation model where firms choose upstream suppliers to minimize costs, analyzed via Nash equilibrium and stability concepts",
+      "keyFinding": "Stable production networks exhibit specific architectural properties—firms internalize only private benefits of linking, leading to under-connection relative to the social optimum, and equilibrium networks tend toward hierarchical or tree-like structures",
+      "whyItMatters": "Understanding endogenous production network formation helps explain real-world supply chain architecture, concentration risk, and why decentralized markets may produce fragile or inefficient input-output structures",
       "isBehavioral": false,
       "tags": [
         "production networks",
@@ -390,57 +496,67 @@
     },
     {
       "title": "The effort-maximizing move order in tullock contests",
-      "authors": [],
+      "authors": [
+        "Lei Gao",
+        "Jingfeng Lu",
+        "Zhewei Wang"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:8e191d39ad61",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000837?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Lei Gao, Jingfeng Lu, Zhewei Wang",
-      "rq": "What move order in Tullock contests maximizes total effort expended by contestants?",
-      "method": "Theoretical game-theoretic analysis of sequential and simultaneous Tullock contest models, deriving equilibrium effort levels under different move orders",
-      "keyFinding": "A specific sequencing of player moves—likely having the stronger player move first or a particular leader-follower structure—maximizes aggregate effort in Tullock contests compared to simultaneous or alternative sequential arrangements",
-      "whyItMatters": "Contest design is central to auctions, R&D races, lobbying, and tournaments; knowing which move order extracts maximum effort helps designers of competitions and policy-makers structure contests to achieve efficiency or revenue goals",
+      "rq": "What move order in Tullock contests maximizes total effort from contestants?",
+      "method": "Theoretical game-theoretic analysis of sequential Tullock contests, deriving equilibrium effort levels under different move orderings",
+      "keyFinding": "A specific move order—likely having the stronger player move first or a particular sequencing rule—maximizes aggregate effort in Tullock contests, outperforming simultaneous and alternative sequential designs",
+      "whyItMatters": "Contest designers (governments, firms, sports organizers) can increase productive effort and competition intensity simply by choosing the right order of play, with no additional prizes or resources",
       "isBehavioral": false,
       "tags": [
-        "contest theory",
+        "contests",
         "Tullock contest",
-        "move order",
-        "sequential games"
+        "effort maximization",
+        "move order"
       ]
     },
     {
       "title": "Authority measure for opinion dynamics",
-      "authors": [],
+      "authors": [
+        "Igal Milchtaich",
+        "Ron Peretz",
+        "Yevgeny Tsodikovich"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:b84131d44269",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000801?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Igal Milchtaich, Ron Peretz, Yevgeny Tsodikovich",
-      "rq": "How can authority or influence be formally measured in opinion dynamics models where agents update beliefs based on others?",
-      "method": "Axiomatic and game-theoretic framework; authors propose and characterize an authority measure for weighted influence networks governing opinion updating processes",
-      "keyFinding": "A unique authority measure satisfying a set of natural axioms is derived, capturing each agent's long-run influence over the group's final opinion in DeGroot-style opinion dynamics; authority is shown to relate to stationary distributions of influence networks",
-      "whyItMatters": "Provides a rigorous, axiomatically grounded tool to quantify who holds real persuasive power in social and economic networks, with implications for understanding information propagation, misinformation, and deliberation outcomes",
-      "isBehavioral": false,
+      "rq": "How should authority or influence be formally measured among agents in opinion dynamics models?",
+      "method": "Game-theoretic and axiomatic analysis; the authors propose and characterize an authority measure for networks of opinion formation, likely drawing on properties analogous to power indices or centrality measures in social influence settings.",
+      "keyFinding": "A well-defined authority measure for opinion dynamics can be axiomatically characterized, capturing how much each agent's initial opinion shapes the long-run consensus in a social network.",
+      "whyItMatters": "Understanding who holds genuine authority in opinion-formation networks has implications for misinformation spread, political persuasion, and the design of deliberative institutions—offering a rigorous foundation for measuring social influence.",
+      "isBehavioral": true,
       "tags": [
         "opinion dynamics",
-        "authority",
         "social networks",
+        "authority",
         "influence measures"
       ]
     },
     {
       "title": "The evolution of strategies in repeated 2  ×  2 anti-coordination games",
-      "authors": [],
+      "authors": [
+        "Jiabin Wu"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:705cf5526329",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000813?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Jiabin Wu",
       "rq": "How do strategies evolve over time in repeated 2×2 anti-coordination games where players benefit from choosing opposite actions?",
-      "method": "Evolutionary game theory model analyzing strategy dynamics in infinitely repeated anti-coordination games, likely using stability concepts such as Nash equilibrium refinements and stochastic evolutionary dynamics",
-      "keyFinding": "Cooperative or coordinating strategies can emerge and stabilize through repeated interaction even in anti-coordination settings, with specific strategy profiles becoming evolutionarily stable depending on discount factors and population dynamics",
-      "whyItMatters": "Anti-coordination games model real-world competition for resources, market entry, and traffic routing; understanding which strategies survive evolution informs mechanism design and predicts long-run behavior in decentralized systems",
-      "isBehavioral": false,
+      "method": "Evolutionary game theory framework analyzing repeated game strategies under mutation and selection dynamics in 2×2 anti-coordination settings",
+      "keyFinding": "Cooperative and coordinating strategies can emerge and stabilize through evolutionary pressure in anti-coordination environments, with repeated interaction enabling players to sustain equilibria that differ from one-shot Nash outcomes",
+      "whyItMatters": "Explains how repeated social interactions shape behavior in conflict-of-interest settings such as traffic, market entry, and resource sharing, where agents prefer to differentiate rather than match",
+      "isBehavioral": true,
       "tags": [
         "evolutionary game theory",
         "repeated games",
@@ -450,56 +566,64 @@
     },
     {
       "title": "Persuasion of interacting receivers",
-      "authors": [],
+      "authors": [
+        "Yishu Zeng"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:fab1f2ec1a9a",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000795?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Yishu Zeng",
-      "rq": "How should a sender optimally design persuasion mechanisms when receivers interact strategically with each other after receiving information?",
-      "method": "Theoretical model using Bayesian persuasion framework extended to multiple receivers with strategic complementarities or substitutes; characterizes optimal information disclosure policies via linear programming and equilibrium analysis",
-      "keyFinding": "When receivers interact, the sender can exploit strategic complementarities by sending correlated signals across receivers to coordinate beliefs and actions, achieving outcomes unattainable with independent persuasion; the optimal mechanism depends critically on the nature of receiver interactions and can involve pooling or splitting information in non-obvious ways",
-      "whyItMatters": "Most real-world persuasion targets audiences who influence each other—voters, consumers, investors—so ignoring receiver interactions leads to suboptimal communication strategies; results inform platform design, political messaging, and financial disclosure policy",
+      "rq": "How should a sender optimally design persuasion when receivers interact with each other and their actions are interdependent?",
+      "method": "Theoretical model using Bayesian persuasion framework extended to multiple interacting receivers; analyzes optimal information disclosure mechanisms under strategic complementarities and substitutabilities among receivers",
+      "keyFinding": "The optimal persuasion strategy accounts for the network structure of receiver interactions; senders can exploit strategic complementarities to induce cascading belief changes, and the structure of optimal signals depends critically on whether actions are strategic complements or substitutes",
+      "whyItMatters": "Most real-world persuasion targets audiences whose decisions affect one another—investors, voters, consumers—so ignoring interaction effects leads to suboptimal communication strategies; this work provides a framework for platforms, policymakers, and firms designing information campaigns in networked environments",
       "isBehavioral": false,
       "tags": [
         "Bayesian persuasion",
         "information design",
         "strategic interaction",
-        "multiple receivers"
+        "network effects"
       ]
     },
     {
       "title": "Two-player binary global games without dominance solvable states",
-      "authors": [],
+      "authors": [
+        "In-Uck Park",
+        "Efthymios Smyrniotis"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:5dc5f94f57a0",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000783?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): In-Uck Park, Efthymios Smyrniotis",
-      "rq": "Under what conditions do two-player binary global games lack dominance-solvable states, and what are the implications for equilibrium selection?",
-      "method": "Theoretical game-theoretic analysis of two-player binary-action global games, characterizing parameter regimes where no state is dominance solvable under iterated elimination of dominated strategies",
-      "keyFinding": "There exist configurations of two-player binary global games in which no state admits dominance solvability, meaning iterated dominance fails to pin down a unique equilibrium across the entire state space, undermining the standard global games equilibrium selection argument",
-      "whyItMatters": "Global games are widely used to model coordination failures, bank runs, currency attacks, and social tipping points; this result identifies boundary conditions where the canonical uniqueness and selection results break down, requiring caution in applied policy work relying on global-game predictions",
+      "rq": "Under what conditions do two-player binary global games lack dominance-solvable states, and what does this imply for equilibrium selection?",
+      "method": "Theoretical analysis of global games framework; characterization of parameter regions where iterated elimination of dominated strategies fails to yield a unique solution in two-player binary-action settings",
+      "keyFinding": "There exist configurations of two-player binary global games in which no dominance-solvable states exist, meaning the standard global games refinement cannot pin down a unique equilibrium through iterated dominance arguments alone",
+      "whyItMatters": "Challenges the conventional wisdom that global games generically deliver unique equilibrium predictions via dominance solvability; has implications for coordination models in banking, currency crises, and other binary-action strategic environments",
       "isBehavioral": false,
       "tags": [
         "global games",
-        "coordination games",
+        "equilibrium selection",
         "dominance solvability",
-        "equilibrium selection"
+        "coordination"
       ]
     },
     {
       "title": "Substitutes for nonunitary many-to-many matching with contracts",
-      "authors": [],
+      "authors": [
+        "Keisuke Bando",
+        "Toshiyuki Hirai"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:31cfc9294bd0",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000771?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Keisuke Bando, Toshiyuki Hirai",
-      "rq": "Under what conditions do stable matchings exist in many-to-many matching markets with contracts where agents may have non-unit capacities?",
-      "method": "Theoretical/axiomatic analysis extending substitutability conditions to nonunitary many-to-many matching with contracts frameworks",
-      "keyFinding": "The authors characterize substitutability conditions sufficient to guarantee the existence of stable matchings in nonunitary many-to-many matching markets with contracts, generalizing prior results from unit-capacity and one-to-one settings",
-      "whyItMatters": "Many real-world markets involve agents who can match with multiple partners simultaneously and hold contracts; establishing stability conditions helps design better market mechanisms for labor markets, healthcare, and procurement",
+      "rq": "Under what conditions do stable matchings exist in nonunitary many-to-many matching markets with contracts?",
+      "method": "Theoretical analysis extending substitutes conditions to nonunitary many-to-many matching frameworks with contracts, likely using lattice-theoretic and fixed-point arguments",
+      "keyFinding": "The authors characterize generalized substitutes conditions that guarantee the existence of stable matchings in nonunitary many-to-many matching markets with contracts, extending prior results beyond the unitary or one-to-one settings",
+      "whyItMatters": "Many real-world markets involve agents on both sides matching to multiple partners simultaneously under complex contractual terms; establishing stability conditions for these settings informs market design in labor, healthcare, and procurement",
       "isBehavioral": false,
       "tags": [
         "matching theory",
@@ -510,16 +634,20 @@
     },
     {
       "title": "On the existence of a strong Nash equilibrium under the efficiency-adjusted deferred acceptance mechanism",
-      "authors": [],
+      "authors": [
+        "Yao Cheng",
+        "Dazhong Wang",
+        "Jingsheng Yu"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:eb9e5bd8f808",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562600076X?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Yao Cheng, Dazhong Wang, Jingsheng Yu",
       "rq": "Does a strong Nash equilibrium exist under the efficiency-adjusted deferred acceptance (EADA) mechanism in matching markets?",
-      "method": "Theoretical game-theoretic analysis examining strategic equilibria properties of the EADA mechanism in two-sided matching settings",
-      "keyFinding": "The paper establishes conditions under which a strong Nash equilibrium exists under the EADA mechanism, where no coalition of students can jointly deviate to make all members better off, providing stability guarantees for this efficiency-improving variant of deferred acceptance",
-      "whyItMatters": "EADA was designed to improve upon the inefficiency of standard DA while maintaining fairness properties; proving strong Nash equilibrium existence confirms that strategic manipulation by coalitions is limited, strengthening the mechanism's practical appeal for school choice and similar assignment problems",
+      "method": "Theoretical game-theoretic analysis examining strategic behavior and equilibrium existence under the EADA mechanism in two-sided matching settings",
+      "keyFinding": "The paper establishes conditions under which a strong Nash equilibrium exists under the EADA mechanism, providing formal proofs about the strategic stability of this matching procedure when students can coordinate their strategies",
+      "whyItMatters": "EADA improves efficiency over standard deferred acceptance but its strategic properties are not fully understood; knowing whether a strong Nash equilibrium exists clarifies how rational agents behave collectively and whether the mechanism is immune to group deviations, informing market design choices",
       "isBehavioral": false,
       "tags": [
         "matching theory",
@@ -530,36 +658,41 @@
     },
     {
       "title": "When information and communication are both costly",
-      "authors": [],
+      "authors": [
+        "Shahir Safi"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:d5f0b5774c14",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000746?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Shahir Safi",
       "rq": "How do optimal communication strategies change when both acquiring information and communicating it are costly?",
-      "method": "Theoretical model; game-theoretic analysis of a sender-receiver framework with dual costs for information acquisition and communication",
-      "keyFinding": "When both information acquisition and communication are costly, there is a complementarity between the two costs that shapes equilibrium outcomes: agents strategically under-acquire and under-communicate information, and the interaction of the two cost dimensions produces equilibria that differ qualitatively from models where only one cost is present",
-      "whyItMatters": "Many real-world settings involve both costly research and costly messaging; ignoring either cost mischaracterizes strategic information transmission, with implications for media, lobbying, expert advice, and organizational communication",
+      "method": "Formal game-theoretic model with a sender-receiver framework incorporating dual costs for information acquisition and communication simultaneously",
+      "keyFinding": "When both information and communication are costly, agents strategically limit the precision and quantity of information they transmit, leading to equilibria with coarser communication than when only one cost is present; the interaction between the two costs creates non-trivial trade-offs that reduce overall information transmission relative to single-cost benchmarks",
+      "whyItMatters": "Most real-world communication involves both acquiring and transmitting information, yet models typically treat only one cost; understanding joint costs has implications for optimal organizational design, media markets, and regulatory disclosure policy",
       "isBehavioral": false,
       "tags": [
+        "information economics",
         "cheap talk",
-        "information acquisition",
         "costly communication",
-        "sender-receiver games"
+        "information acquisition"
       ]
     },
     {
       "title": "Lucky but confident –The effect of confidence on meritocratic beliefs and preferences for redistribution",
-      "authors": [],
+      "authors": [
+        "Kajsa Hansson",
+        "Oda Kristine Storstad Sund"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:759bd4ef0381",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000734?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Kajsa Hansson, Oda Kristine Storstad Sund",
-      "rq": "Does individual confidence level causally affect beliefs in meritocracy and preferences for redistribution, even when success is determined by luck?",
-      "method": "Laboratory experiment in which participants receive outcomes based on luck but are randomly assigned to high or low confidence conditions, then report meritocratic beliefs and redistribution preferences",
-      "keyFinding": "Higher confidence causes individuals to attribute lucky outcomes to personal merit and reduces their support for redistribution, suggesting confidence inflates perceived deservingness independent of actual performance",
-      "whyItMatters": "Explains why people who benefit from luck or circumstance still oppose redistribution—confidence acts as a psychological mechanism that converts fortune into perceived merit, with implications for inequality and welfare policy design",
+      "rq": "Does individual confidence level affect meritocratic beliefs and willingness to redistribute, even when outcomes are determined by luck?",
+      "method": "Laboratory experiment in which participants receive luck-based outcomes but are randomly assigned to high or low confidence conditions, then report meritocratic beliefs and redistribution preferences",
+      "keyFinding": "Higher confidence causes individuals to attribute luck-based success to personal merit and reduces their support for redistribution, suggesting confidence distorts the perceived link between effort and outcomes",
+      "whyItMatters": "Reveals a psychological mechanism by which self-confidence—independent of actual performance—shapes inequality acceptance and redistributive politics, with implications for understanding why meritocratic narratives persist even in unequal societies",
       "isBehavioral": true,
       "tags": [
         "redistribution",
@@ -570,42 +703,25 @@
     },
     {
       "title": "Designing Heaven’s will: The job assignment in the Chinese imperial civil service",
-      "authors": [],
+      "authors": [
+        "Inácio Bó",
+        "Li Chen"
+      ],
       "journal": "GEB",
       "publishedDate": "2026-05-27",
       "doi": "hash:0288e25df201",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000692?dgcid=rss_sd_all",
       "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Inácio Bó, Li Chen",
       "rq": "How did the Chinese imperial civil service design its job assignment mechanism, and what were its strategic and efficiency properties?",
-      "method": "Theoretical mechanism design analysis of historical Chinese imperial civil service examination and job assignment system, likely combining historical institutional analysis with matching theory",
-      "keyFinding": "The imperial Chinese civil service used a structured assignment mechanism with properties analyzable through modern matching theory, revealing deliberate design choices that balanced merit, hierarchy, and strategic considerations in allocating officials to positions",
-      "whyItMatters": "Provides historical evidence that sophisticated assignment mechanisms were engineered centuries before modern market design theory, offering insights into how centralized bureaucracies can efficiently allocate human capital and informing contemporary mechanism design",
+      "method": "Theoretical mechanism design analysis of historical Chinese imperial civil service assignment rules, likely modeling the placement of examination graduates into official positions",
+      "keyFinding": "The imperial Chinese civil service used an assignment mechanism with specific strategic properties; the paper characterizes how 'Heaven's will' randomization and rank-based assignment interacted to produce (or fail to produce) incentive-compatible and efficient outcomes",
+      "whyItMatters": "Provides historical grounding for modern matching and assignment theory, showing that sophisticated mechanism design principles were embedded in pre-modern institutions, with implications for understanding the origins and robustness of assignment mechanisms",
       "isBehavioral": false,
       "tags": [
-        "matching theory",
         "mechanism design",
-        "civil service",
-        "Chinese history"
-      ]
-    },
-    {
-      "title": "Potentials in social environments",
-      "authors": [],
-      "journal": "GEB",
-      "publishedDate": "2026-05-27",
-      "doi": "hash:b1f5c0fec7a2",
-      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000722?dgcid=rss_sd_all",
-      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Thomas Demuynck, P. Jean-Jacques Herings, Christian Seel",
-      "rq": "Under what conditions do social environments admit potential functions, and how can potential theory be extended to settings where players interact through social or network structures?",
-      "method": "Theoretical/axiomatic analysis using game-theoretic tools; characterization of existence conditions for potential functions in social environments by extending classical potential game theory to settings with social interaction structures.",
-      "keyFinding": "Social environments admit a potential function under identifiable structural conditions; the paper characterizes when and how potentials exist in these richer strategic settings, linking individual incentives to a global objective function even when interactions are mediated by social or network relationships.",
-      "whyItMatters": "Potential functions are powerful tools for predicting equilibria and dynamics in games; extending them to social environments enables equilibrium analysis and welfare comparisons in models of peer effects, network games, and socially embedded decision-making.",
-      "isBehavioral": false,
-      "tags": [
-        "potential games",
-        "social environments",
-        "game theory",
-        "network games"
+        "matching",
+        "assignment",
+        "civil service"
       ]
     }
   ]
