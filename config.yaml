@@ -1,7 +1,3 @@
-newsletter:
-  title: "Behavioral & Experimental Economics Weekly"
-  github_pages_url: ""  # set after GitHub repo creation
-
 feeds:
   - name: AER
     url: "https://www.aeaweb.org/journals/aer/issues/rss"
@@ -29,6 +25,8 @@ feeds:
     url: "https://academic.oup.com/rss/site_5488/3348.xml"
   - name: ExpEcon
     url: "https://link.springer.com/search.rss?facet-journal-id=10683"
+  - name: ManagementScience
+    url: "https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc"
   - name: JEBO
     url: "https://rss.sciencedirect.com/publication/science/01672681"
   - name: GEB
@@ -44,7 +42,48 @@ feeds:
 
 api:
   model: claude-sonnet-4-6
-  max_papers_per_issue: 30
+  max_papers_per_issue: 0
+  ai_top_journals:
+    - AER
+    - QJE
+    - JPE
+    - Econometrica
+    - REStud
+    - AEJ-Applied
+    - AEJ-Micro
+    - AEJ-Policy
+    - REStat
+    - JEEA
+    - EJ
+    - NBER
+    - ExpEcon
+    - ManagementScience
+
+newsletter:
+  title: "Behavioral & Experimental Economics Weekly"
+  github_pages_url: ""  # set after GitHub repo creation
+  journal_vitality_order:
+    - AER
+    - QJE
+    - JPE
+    - Econometrica
+    - REStud
+    - AEJ-Applied
+    - AEJ-Micro
+    - AEJ-Policy
+    - REStat
+    - JEEA
+    - EJ
+    - NBER
+    - ExpEcon
+    - ManagementScience
+    - JEBO
+    - GEB
+    - PsychScience
+    - NatureHB
+    - JExpPsychGen
+    - AEJ-Macro
+    - Other
 
 cache:
   path: cache/summaries.json

@@ -24,6 +24,13 @@
       color: #fff;
       border-color: #222;
     }
+    .summary-note { color: #444; margin-bottom: 0.8rem; }
+    .diagnostics { margin-top: 2rem; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; }
+    .diagnostics h3 { margin-top: 0; }
+    .diag-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+    .diag-table th, .diag-table td { border-bottom: 1px solid #eee; padding: 0.45rem 0.4rem; text-align: left; vertical-align: top; }
+    .diag-ok { color: #2e7d32; }
+    .diag-err { color: #b71c1c; white-space: pre-wrap; }
   </style>
 </head>
 <body>
@@ -32,14 +39,23 @@
   <p><a href="../index.html">Archive</a></p>
   <h3>{{ issue.intro.kicker }}</h3>
   <p>{{ issue.intro.text }}</p>
+  <div id="filter-summary" class="summary-note">Showing all updates: {{ issue.papers | length }}</div>
   <div class="filters">
-    <button class="filter-btn active" data-journal="all" type="button">All Journals</button>
-    {% for journal in issue.papers | map(attribute='journal') | unique | list | sort %}
-    <button class="filter-btn" data-journal="{{ journal }}" type="button">{{ journal }}</button>
+    <button class="filter-btn active" data-journal="all" type="button">
+      All Journals ({{ issue.papers | length }})
+    </button>
+    {% for journal in issue.journalOrder %}
+    <button class="filter-btn" data-journal="{{ journal }}" type="button">
+      {{ journal }} ({{ issue.journalCounts.get(journal, 0) }})
+    </button>
     {% endfor %}
   </div>
   {% for p in issue.papers %}
-  <div class="card" data-journal="{{ p.journal }}">
+  <div
+    class="card"
+    data-journal="{{ p.journal }}"
+    data-group="{% if p.journal in issue.journalOrder and p.journal != 'Other' %}{{ p.journal }}{% else %}Other{% endif %}"
+  >
     <h3>{{ p.title }}</h3>
     <div class="authors">
       Authors:
@@ -50,6 +66,7 @@
       {% endif %}
     </div>
     <div class="meta">{{ p.journal }} | {{ p.publishedDate }} | {{ p.doi }}</div>
+    <p><b>Abstract:</b> {{ p.abstract or "Not available" }}</p>
     <p><b>RQ:</b> {{ p.rq }}</p>
     <p><b>Method:</b> {{ p.method }}</p>
     <p><b>Key Finding:</b> {{ p.keyFinding }}</p>
@@ -61,19 +78,58 @@
     (function () {
       const buttons = Array.from(document.querySelectorAll(".filter-btn"));
       const cards = Array.from(document.querySelectorAll(".card[data-journal]"));
+      const summary = document.getElementById("filter-summary");
+
       function applyFilter(journal) {
+        let shown = 0;
         cards.forEach((card) => {
-          const match = journal === "all" || card.dataset.journal === journal;
+          const match = journal === "all" || card.dataset.group === journal;
           card.style.display = match ? "" : "none";
+          if (match) shown += 1;
         });
         buttons.forEach((btn) => {
           btn.classList.toggle("active", btn.dataset.journal === journal);
         });
+        if (summary) {
+          if (journal === "all") {
+            summary.textContent = `Showing all updates: ${shown}`;
+          } else {
+            summary.textContent = `Showing ${journal} updates: ${shown}`;
+          }
+        }
       }
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => applyFilter(btn.dataset.journal));
       });
     })();
   </script>
+  {% if issue.feedDiagnostics and (issue.feedDiagnostics | length) > 0 %}
+  <div class="diagnostics">
+    <h3>Feed Diagnostics</h3>
+    <p class="meta">Use this table to distinguish "no new papers this week" from "feed fetch failed".</p>
+    <table class="diag-table">
+      <thead>
+        <tr>
+          <th>Journal</th>
+          <th>Recent (7d)</th>
+          <th>Total Feed Items</th>
+          <th>Status</th>
+          <th>Error</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for d in issue.feedDiagnostics %}
+        <tr>
+          <td>{{ d.journal }}</td>
+          <td>{{ d.recentEntries }}</td>
+          <td>{{ d.totalEntries }}</td>
+          <td>{{ d.status if d.status else "n/a" }}</td>
+          <td class="{% if d.error %}diag-err{% else %}diag-ok{% endif %}">{% if d.error %}{{ d.error }}{% else %}ok{% endif %}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% endif %}
 </body>
 </html>

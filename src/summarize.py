@@ -125,6 +125,7 @@ def summarize_all(
     cache_path = config.get("cache", {}).get("path", "cache/summaries.json")
     cache = _load_cache(cache_path)
     model = config.get("api", {}).get("model", "claude-sonnet-4-6")
+    ai_top_journals = set(config.get("api", {}).get("ai_top_journals", []))
 
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     use_api = bool(api_key and anthropic is not None)
@@ -141,13 +142,18 @@ def summarize_all(
     api_success = 0
     api_fail = 0
     cache_hits = 0
+    skipped_non_top = 0
     total = len(papers)
     for i, p in enumerate(papers, start=1):
         doi = p.get("doi", "")
+        journal = p.get("journal", "")
         cached = cache.get(doi) if doi and not force_refresh else None
         if cached and not _is_empty_summary(cached):
             summary = cached
             cache_hits += 1
+        elif ai_top_journals and journal not in ai_top_journals:
+            summary = _fallback_summary(p)
+            skipped_non_top += 1
         elif use_api:
             if i == 1 or i % 10 == 0 or i == total:
                 print(f"[summarize] progress {i}/{total}")
@@ -171,7 +177,7 @@ def summarize_all(
 
     _save_cache(cache_path, cache)
     print(
-        f"[summarize] stats: cache_hits={cache_hits}, api_success={api_success}, api_fail={api_fail}, total={len(papers)}"
+        f"[summarize] stats: cache_hits={cache_hits}, api_success={api_success}, api_fail={api_fail}, skipped_non_top={skipped_non_top}, total={len(papers)}"
     )
     intro = f"This week we tracked {len(out)} papers across major economics and related journals."
     return out, intro
@@ -192,10 +198,16 @@ def main() -> None:
     with open(args.config, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
     with open(args.input, "r", encoding="utf-8") as f:
-        papers = json.load(f)
+        raw_input = json.load(f)
+    if isinstance(raw_input, dict):
+        papers = raw_input.get("papers", [])
+        diagnostics = raw_input.get("feedDiagnostics", [])
+    else:
+        papers = raw_input
+        diagnostics = []
 
     papers_with_summaries, intro = summarize_all(config, papers, force_refresh=args.force)
-    payload = {"papers": papers_with_summaries, "intro": intro}
+    payload = {"papers": papers_with_summaries, "intro": intro, "feedDiagnostics": diagnostics}
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
     print(f"[summarize] wrote {len(papers_with_summaries)} papers -> {args.output}")

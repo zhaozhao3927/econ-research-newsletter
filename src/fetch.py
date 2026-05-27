@@ -73,8 +73,9 @@ def _extract_authors(entry, abstract: str) -> list[str]:
     return []
 
 
-def fetch_papers(config: dict) -> list[dict]:
+def fetch_papers(config: dict) -> tuple[list[dict], list[dict]]:
     papers: list[dict] = []
+    diagnostics: list[dict] = []
     for feed in config.get("feeds", []):
         name = feed.get("name", "Unknown")
         url = feed.get("url", "")
@@ -82,9 +83,12 @@ def fetch_papers(config: dict) -> list[dict]:
             continue
         try:
             parsed = feedparser.parse(url)
+            total_entries = len(getattr(parsed, "entries", []))
+            recent_entries = 0
             for entry in parsed.entries:
                 if not _within_days(entry, 7):
                     continue
+                recent_entries += 1
                 title = (getattr(entry, "title", "") or "").strip()
                 if not title:
                     continue
@@ -112,13 +116,33 @@ def fetch_papers(config: dict) -> list[dict]:
                         "abstract": abstract,
                     }
                 )
+            diagnostics.append(
+                {
+                    "journal": name,
+                    "url": url,
+                    "status": getattr(parsed, "status", None),
+                    "totalEntries": total_entries,
+                    "recentEntries": recent_entries,
+                    "error": "",
+                }
+            )
         except Exception as exc:
             print(f"[fetch] skipped {name}: {exc}")
+            diagnostics.append(
+                {
+                    "journal": name,
+                    "url": url,
+                    "status": None,
+                    "totalEntries": 0,
+                    "recentEntries": 0,
+                    "error": str(exc),
+                }
+            )
     # Dedup by DOI
     dedup: dict[str, dict] = {}
     for p in papers:
         dedup[p["doi"]] = p
-    return list(dedup.values())
+    return list(dedup.values()), diagnostics
 
 
 def main() -> None:
@@ -129,9 +153,9 @@ def main() -> None:
 
     with open(args.config, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
-    papers = fetch_papers(config)
+    papers, diagnostics = fetch_papers(config)
     with open(args.output, "w", encoding="utf-8") as f:
-        json.dump(papers, f, indent=2, ensure_ascii=False)
+        json.dump({"papers": papers, "feedDiagnostics": diagnostics}, f, indent=2, ensure_ascii=False)
     print(f"[fetch] wrote {len(papers)} papers -> {args.output}")
 
 
