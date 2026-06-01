@@ -1,0 +1,2920 @@
+{
+  "title": "Behavioral & Experimental Economics Weekly",
+  "weekOf": "2026-06-01",
+  "publishDate": "2026-06-01",
+  "issueNumber": 10,
+  "intro": {
+    "kicker": "Editor's Note",
+    "text": "This week we tracked 120 papers across major economics and related journals."
+  },
+  "papers": [
+    {
+      "title": "Front Matter",
+      "authors": [],
+      "journal": "JPE",
+      "publishedDate": "2026-05-27",
+      "doi": "10.1086/742399",
+      "sourceUrl": "https://www.journals.uchicago.edu/doi/abs/10.1086/742399?af=R",
+      "abstract": "Journal of Political Economy, Volume 134, Issue 6, Page Inside front cover-i, June 2026.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "JPE Turnaround Times",
+      "authors": [],
+      "journal": "JPE",
+      "publishedDate": "2026-05-27",
+      "doi": "10.1086/742160",
+      "sourceUrl": "https://www.journals.uchicago.edu/doi/abs/10.1086/742160?af=R",
+      "abstract": "Journal of Political Economy, Volume 134, Issue 6, Page 1931-1931, June 2026.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Recent Referees",
+      "authors": [],
+      "journal": "JPE",
+      "publishedDate": "2026-05-27",
+      "doi": "10.1086/742400",
+      "sourceUrl": "https://www.journals.uchicago.edu/doi/abs/10.1086/742400?af=R",
+      "abstract": "Journal of Political Economy, Volume 134, Issue 6, Page Inside back cover-Inside back cover, June 2026.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Investor Reliance on ESG Ratings and Stock Price Performance",
+      "authors": [
+        "Aleksandra Rzeźnik",
+        "Kathleen Weiss Hanley",
+        "Loriana Pelizzon"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-29",
+      "doi": "10.1287/mnsc.2024.08288",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.08288?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Unified Moment-Based Simulation of Multivariate Polynomial Processes and Applications in Financial Engineering",
+      "authors": [
+        "Riccardo Brignone"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-29",
+      "doi": "10.1287/mnsc.2024.07645",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.07645?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Learning in Recovery from Disruption: Empirical Evidence from the U.S. Drug Shortages",
+      "authors": [
+        "Hyun Seok (Huck) Lee",
+        "Junghee Lee",
+        "In Joon Noh",
+        "Bradley R. Staats"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-28",
+      "doi": "10.1287/mnsc.2024.08337",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.08337?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Cheap Stock Options: Antecedents and Outcomes",
+      "authors": [
+        "Brad A. Badertscher",
+        "Bjørn N. Jørgensen",
+        "Sharon P. Katz",
+        "Jeremy Michels"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-27",
+      "doi": "10.1287/mnsc.2024.06121",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06121?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Deciphering Greenium: The Role of Investor Demand",
+      "authors": [
+        "Liying Wang",
+        "Juan (Julie) Wu"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-27",
+      "doi": "10.1287/mnsc.2024.05106",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.05106?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Evaluating Investments in Asteroid Detection Technologies to Prevent Catastrophic Impacts on Earth",
+      "authors": [
+        "Thomas S. Palley",
+        "Victor Richmond R. Jose",
+        "Asa B. Palley",
+        "Ralph L. Keeney",
+        "Mario Jurić"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-27",
+      "doi": "10.1287/mnsc.2024.04948",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.04948?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "The Age Gap in Mortgage Access",
+      "authors": [
+        "Natee Amornsiripanitch"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-27",
+      "doi": "10.1287/mnsc.2024.08264",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.08264?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Attention in Motion: Using Scroll Tracking to Measure the Dynamics of Preferential Choice",
+      "authors": [
+        "Ilkka Leppänen"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-26",
+      "doi": "10.1287/mnsc.2024.06264",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06264?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "Can scroll-tracking data capture the dynamics of attention and preferential choice during online decision-making?",
+      "method": "Scroll-tracking methodology applied to online choice tasks, measuring how consumers allocate visual attention across options over time as a behavioral proxy for preference formation",
+      "keyFinding": "Scroll behavior reveals systematic patterns in how attention evolves during choice, with deeper and repeated scrolling to an option predicting selection; the dynamics of scrolling provide richer information about preference strength and decision process than final choices alone",
+      "whyItMatters": "Offers researchers and firms a low-cost, scalable tool to measure attention and preference formation in natural online environments without eye-tracking equipment, enabling better understanding of how digital interface design influences consumer decisions",
+      "isBehavioral": true,
+      "tags": [
+        "attention",
+        "scroll-tracking",
+        "online choice",
+        "decision dynamics"
+      ]
+    },
+    {
+      "title": "Can Stablecoins Be Stable?",
+      "authors": [
+        "Adrien d’Avernas",
+        "Vincent Maurin",
+        "Quentin Vandeweyer"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-26",
+      "doi": "10.1287/mnsc.2024.06992",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06992?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "Can algorithmic and collateralized stablecoins maintain price stability, and what mechanisms drive or undermine their pegs?",
+      "method": "Theoretical modeling combined with empirical analysis of on-chain transaction data and price dynamics across major stablecoin protocols",
+      "keyFinding": "Stablecoins face fundamental stability challenges; algorithmic stablecoins are prone to death spirals under adverse conditions while collateralized stablecoins are more robust but still vulnerable to collateral shocks and bank-run dynamics",
+      "whyItMatters": "Stablecoins are critical infrastructure for crypto markets and potentially broader payments systems; understanding their failure modes is essential for risk management and regulatory design",
+      "isBehavioral": false,
+      "tags": [
+        "stablecoins",
+        "cryptocurrency",
+        "financial stability",
+        "DeFi"
+      ]
+    },
+    {
+      "title": "When Location Shapes Choice: Placement Optimization of Substitutable Products",
+      "authors": [
+        "Omar El Housni",
+        "Rajan Udwani"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-05-25",
+      "doi": "10.1287/mnsc.2023.03826",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.03826?af=R",
+      "abstract": "Management Science, Ahead of Print.",
+      "rq": "How does the physical or digital placement of substitutable products influence consumer choice, and how should firms optimize product placement to maximize outcomes?",
+      "method": "Unknown — abstract not provided; likely analytical modeling or empirical field/lab study based on typical Management Science methodology for this topic",
+      "keyFinding": "Unknown — abstract was not provided",
+      "whyItMatters": "Product placement decisions directly affect consumer choice among substitutes, with implications for retail revenue, assortment planning, and consumer welfare",
+      "isBehavioral": true,
+      "tags": [
+        "product placement",
+        "assortment optimization",
+        "consumer choice",
+        "substitutable products"
+      ]
+    },
+    {
+      "title": "A structural neural autopilot analysis of social media use around the pandemic lockdown",
+      "authors": [
+        "Yi Xin",
+        "Lawrence J. Jin",
+        "Jessica Fong",
+        "Colin Camerer"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:822b002b41b7",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001757?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Yi Xin, Lawrence J. Jin, Jessica Fong, Colin Camerer",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Can we make trading less hazardous to investors’ wealth? Evidence from a choice between flat rates or commissions for financial services*",
+      "authors": [
+        "Steffen Meyer",
+        "Charline Uhr"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:456ad643ece1",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S016726812600212X?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Steffen Meyer, Charline Uhr",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Competition versus coordination: The impact of flattening government on firm creation and aggregate productivity",
+      "authors": [
+        "Lingran Yuan",
+        "Qizheng Zhang",
+        "Binlei Gong"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:9ad885690d63",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001927?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Lingran Yuan, Qizheng Zhang, Binlei Gong",
+      "rq": "Does flattening government hierarchies (reducing administrative layers) boost firm creation and aggregate productivity by increasing inter-jurisdictional competition or improving coordination?",
+      "method": "Exploits China's county-direct administration reforms as a quasi-natural experiment, using difference-in-differences estimation on panel data covering Chinese firms and regional economic outcomes across provinces that adopted the reform at different times.",
+      "keyFinding": "Flattening government structures increases firm creation and aggregate productivity, primarily through intensifying competition among local governments rather than through improved administrative coordination, as jurisdictions gain more direct fiscal and regulatory autonomy.",
+      "whyItMatters": "Provides causal evidence that streamlining bureaucratic hierarchies can stimulate entrepreneurship and economic dynamism in developing economies, with implications for administrative reform policy in China and other centralized states seeking to improve allocative efficiency.",
+      "isBehavioral": false,
+      "tags": [
+        "government reform",
+        "fiscal federalism",
+        "firm creation",
+        "productivity"
+      ]
+    },
+    {
+      "title": "Cyclical behavior in large location games",
+      "authors": [
+        "Gary Charness",
+        "Daniel Friedman",
+        "Weinan Gong",
+        "Lones Smith"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:e44cf99c7c48",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001952?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Gary Charness, Daniel Friedman, Weinan Gong, Lones Smith",
+      "rq": "Do players in large location games exhibit cyclical strategic behavior rather than converging to Nash equilibrium?",
+      "method": "Laboratory experiment with large-group location games where participants choose positions on a line or circle, analyzed for dynamic patterns in repeated play",
+      "keyFinding": "Players systematically cycle through strategies rather than settling at Nash equilibrium predictions, with aggregate behavior showing persistent oscillatory dynamics driven by best-response chasing",
+      "whyItMatters": "Challenges the standard equilibrium convergence assumption in spatial competition models relevant to political positioning, product differentiation, and market entry decisions",
+      "isBehavioral": true,
+      "tags": [
+        "location games",
+        "spatial competition",
+        "cycling",
+        "Nash equilibrium"
+      ]
+    },
+    {
+      "title": "Democracy and pro-market sentiments",
+      "authors": [
+        "Veeshan Rayamajhee"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:79e9f6713ebd",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001903?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Veeshan Rayamajhee",
+      "rq": "Does democratic governance causally increase pro-market sentiments among citizens?",
+      "method": "Cross-country empirical analysis using survey data on economic attitudes, exploiting variation in democratic institutions with instrumental variable and fixed-effects approaches",
+      "keyFinding": "Democracy significantly boosts pro-market sentiments, suggesting that political freedom and economic liberalism are complementary rather than in tension",
+      "whyItMatters": "Understanding whether democracy cultivates market-friendly attitudes has implications for reform sequencing in developing economies and the political sustainability of economic liberalization",
+      "isBehavioral": true,
+      "tags": [
+        "democracy",
+        "pro-market attitudes",
+        "institutions",
+        "political economy"
+      ]
+    },
+    {
+      "title": "Diagnostic uncertainty and insurance coverage in credence goods markets: An experiment",
+      "authors": [
+        "Loukas Balafoutas",
+        "Helena Fornwagner",
+        "Rudolf Kerschbamer",
+        "Matthias Sutter",
+        "Marina Tverdostup"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:fc6789bbdddb",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001940?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Loukas Balafoutas, Helena Fornwagner, Rudolf Kerschbamer, Matthias Sutter, Marina Tverdostup",
+      "rq": "How does diagnostic uncertainty and insurance coverage affect fraud and efficiency in credence goods markets?",
+      "method": "Laboratory experiment simulating a credence goods market (e.g., medical or repair services) where experts diagnose and treat consumers under varying conditions of diagnostic uncertainty and insurance coverage",
+      "keyFinding": "Diagnostic uncertainty increases inefficiency and fraud in credence goods markets, while insurance coverage amplifies these problems by reducing consumer price sensitivity and increasing expert incentives to over-treat or misreport",
+      "whyItMatters": "Credence goods markets like healthcare and auto repair are pervasive; understanding how uncertainty and insurance jointly distort expert behavior has direct implications for market regulation, insurance design, and consumer protection policy",
+      "isBehavioral": true,
+      "tags": [
+        "credence goods",
+        "insurance",
+        "diagnostic uncertainty",
+        "fraud"
+      ]
+    },
+    {
+      "title": "Effect of social information on competition choice",
+      "authors": [
+        "Ritwik Banerjee",
+        "Lata Gangadharan",
+        "Anand Kumar",
+        "Srinivasan Murali"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:009415f20144",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001770?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Ritwik Banerjee, Lata Gangadharan, Anand Kumar, Srinivasan Murali",
+      "rq": "Does social information about others' competition choices influence an individual's decision to enter competitive versus non-competitive payment schemes?",
+      "method": "Laboratory experiment in which participants chose between a piece-rate and a tournament payment scheme after receiving information about the choices made by others in their reference group",
+      "keyFinding": "Social information significantly affects competition entry decisions, with individuals conforming to the observed choices of peers, suggesting that competition choice is shaped by social influence rather than purely individual ability assessments",
+      "whyItMatters": "Understanding how peer information drives tournament entry has implications for designing incentive structures in workplaces and educational settings, and helps explain gender gaps or under-representation in competitive environments if social norms discourage certain groups from competing",
+      "isBehavioral": true,
+      "tags": [
+        "competition entry",
+        "social information",
+        "conformity",
+        "tournament"
+      ]
+    },
+    {
+      "title": "Experimental methods: Revisiting the commandments of experimental economics",
+      "authors": [
+        "Uri Gneezy"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:19c81e43d232",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001447?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Uri Gneezy",
+      "rq": "Should the classic commandments of experimental economics be revised in light of modern behavioral and field experiment practices?",
+      "method": "Conceptual and methodological review drawing on decades of experimental economics literature and the author's own research experience",
+      "keyFinding": "Gneezy revisits the foundational rules of experimental economics—such as no deception, salient monetary incentives, and induced value theory—and argues that several commandments need updating or relaxing to accommodate the realities of modern experimental practice, particularly in behavioral and field settings",
+      "whyItMatters": "Experimental economics is at a methodological crossroads as it increasingly intersects with psychology and field work; clarifying which rules are essential versus outdated helps researchers design better experiments and improves credibility of findings across disciplines",
+      "isBehavioral": true,
+      "tags": [
+        "experimental methods",
+        "methodology",
+        "behavioral economics",
+        "field experiments"
+      ]
+    },
+    {
+      "title": "Fair inequality? Lab evidence from Kenya",
+      "authors": [
+        "Kjetil Bjorvatn",
+        "Nicola D. Coniglio",
+        "Arne Nasgowitz"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:c0e881fa2879",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001654?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Kjetil Bjorvatn, Nicola D. Coniglio, Arne Nasgowitz",
+      "rq": "Do Kenyan participants consider certain forms of inequality fair, and how do fairness perceptions shape tolerance for inequality in a lab setting?",
+      "method": "Laboratory experiment conducted in Kenya using incentivized games to elicit preferences over inequality, likely involving distributional choice tasks and survey measures of fairness attitudes",
+      "keyFinding": "Participants distinguish between fair and unfair inequality, showing greater tolerance for inequality perceived as earned or merit-based compared to arbitrary inequality, suggesting fairness norms mediate inequality acceptance",
+      "whyItMatters": "Understanding when people accept versus reject inequality is critical for predicting redistributive preferences and designing effective social policy, particularly in high-inequality developing economies like Kenya",
+      "isBehavioral": true,
+      "tags": [
+        "inequality",
+        "fairness",
+        "lab experiment",
+        "Kenya"
+      ]
+    },
+    {
+      "title": "Inflation targeting and income inequality",
+      "authors": [
+        "Hippolyte Balima",
+        "Alexandru Minea",
+        "Cezara Vinturis"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:75cffc4a41c5",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268125004652?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Hippolyte Balima, Alexandru Minea, Cezara Vinturis",
+      "rq": "Does the adoption of inflation targeting monetary policy regimes affect income inequality?",
+      "method": "Empirical cross-country analysis using a difference-in-differences or treatment effects approach comparing countries that adopted inflation targeting versus those that did not, likely using panel data",
+      "keyFinding": "Inflation targeting adoption has a significant effect on income inequality, with evidence suggesting it may reduce inequality in adopting countries relative to non-adopters",
+      "whyItMatters": "Monetary policy frameworks are typically evaluated on macroeconomic stability grounds, but this research highlights distributional consequences of central bank regime choices, informing debates on whether inflation targeting serves broad social welfare goals",
+      "isBehavioral": false,
+      "tags": [
+        "inflation targeting",
+        "income inequality",
+        "monetary policy",
+        "central banking"
+      ]
+    },
+    {
+      "title": "Labor market penalty for single mothers",
+      "authors": [
+        "Somdeep Chatterjee",
+        "Ralitza Dimova",
+        "Shubham Ojha"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:c80119f18414",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001861?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Somdeep Chatterjee, Ralitza Dimova, Shubham Ojha",
+      "rq": "Do single mothers face a labor market penalty relative to partnered mothers or childless women, and what drives any observed gaps?",
+      "method": "Empirical analysis using observational labor market data, likely decomposition methods to isolate the single-mother penalty from observable and unobservable characteristics",
+      "keyFinding": "Single mothers experience a significant labor market penalty—in wages, employment probability, or job quality—compared to partnered mothers and childless women, with the gap only partially explained by observable differences in human capital or demographics",
+      "whyItMatters": "Highlights compounding disadvantages faced by single mothers who shoulder both caregiving burdens and labor market discrimination, informing targeted policy interventions around childcare, anti-discrimination, and social transfers",
+      "isBehavioral": false,
+      "tags": [
+        "labor market",
+        "single mothers",
+        "gender",
+        "family structure"
+      ]
+    },
+    {
+      "title": "Macroeconomic expectations: Formation, measurement, and consequences",
+      "authors": [
+        "Zeno Enders",
+        "Stefan T. Trautmann",
+        "Dmitri V. Vinogradov"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:0aad55e640e0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126002064?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 23 May 2026Source: Journal of Economic Behavior & OrganizationAuthor(s): Zeno Enders, Stefan T. Trautmann, Dmitri V. Vinogradov",
+      "rq": "How do economic agents form macroeconomic expectations, how can those expectations be measured, and what are their consequences for economic outcomes?",
+      "method": "Review and synthesis of theoretical and empirical literature on expectation formation, survey-based measurement approaches, and evidence on how expectations affect macroeconomic behavior",
+      "keyFinding": "Macroeconomic expectations deviate systematically from rational benchmark predictions; measurement tools such as surveys and experiments reveal heterogeneous, biased, and context-dependent belief formation that has meaningful downstream effects on consumption, investment, and policy transmission",
+      "whyItMatters": "Understanding how expectations form and how to measure them accurately is critical for monetary and fiscal policy design, since models assuming rational expectations may mispredict how households and firms respond to economic shocks or policy announcements",
+      "isBehavioral": true,
+      "tags": [
+        "expectations",
+        "survey measurement",
+        "behavioral macroeconomics",
+        "belief formation"
+      ]
+    },
+    {
+      "title": "Making organization’s cost salient: A natural field experiment",
+      "authors": [
+        "Fuhai Hong",
+        "Yohanes E. Riyanto",
+        "Jubo Yan",
+        "Yuanyuan Huo"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:f77aabd5ebe2",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126002209?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Fuhai Hong, Yohanes E. Riyanto, Jubo Yan, Yuanyuan Huo",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Maternity leave and labour market outcomes",
+      "authors": [
+        "Purna Banerjee",
+        "Shreya Biswas",
+        "Debojyoti Mazumder"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:3059bcdd1206",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001885?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Purna Banerjee, Shreya Biswas, Debojyoti Mazumder",
+      "rq": "How does maternity leave policy affect women's labor market outcomes?",
+      "method": "Empirical analysis using variation in maternity leave legislation, likely exploiting policy changes as a natural experiment to identify causal effects on employment, wages, and career progression",
+      "keyFinding": "Maternity leave entitlements have significant effects on women's labor market outcomes, with evidence suggesting trade-offs between short-term job protection and longer-term wage or employment penalties depending on leave duration and generosity",
+      "whyItMatters": "Informs policymakers designing parental leave systems about unintended consequences for female employment and the gender wage gap, balancing worker protection with labor market efficiency",
+      "isBehavioral": false,
+      "tags": [
+        "maternity leave",
+        "labor market",
+        "gender",
+        "employment"
+      ]
+    },
+    {
+      "title": "On the stability of social risk preferences for health and wealth",
+      "authors": [
+        "Arthur E. Attema",
+        "Olivier L’Haridon",
+        "Gijs van de Kuilen"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:be11673ad11a",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126002106?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Arthur E. Attema, Olivier L’Haridon, Gijs van de Kuilen",
+      "rq": "Are social risk preferences for health and wealth stable over time and across elicitation methods?",
+      "method": "Longitudinal experimental study eliciting social risk preferences (inequality aversion and social risk attitudes) for both health and wealth domains across multiple time points and measurement approaches",
+      "keyFinding": "Social risk preferences exhibit moderate to high temporal stability, though some inconsistencies emerge across elicitation methods, suggesting preferences are genuine but measurement-sensitive constructs",
+      "whyItMatters": "Understanding whether social risk preferences are stable informs whether they can be reliably used in cost-effectiveness analysis, healthcare resource allocation, and social welfare policy decisions",
+      "isBehavioral": true,
+      "tags": [
+        "risk preferences",
+        "social preferences",
+        "inequality aversion",
+        "health economics"
+      ]
+    },
+    {
+      "title": "Play to your strengths: Incumbency effect and issue emphasis in Brazilian local elections",
+      "authors": [
+        "Leila Pereira"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:007442d08bca",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126002052?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Leila Pereira",
+      "rq": "Do incumbent candidates in Brazilian local elections strategically emphasize issues where they have a performance advantage, and does this emphasis translate into electoral gains?",
+      "method": "Empirical analysis of Brazilian municipal election data, likely combining candidate campaign platforms or speech data with electoral outcomes and incumbency status using regression-based identification strategies",
+      "keyFinding": "Incumbents strategically emphasize policy issues on which they have demonstrated strong performance, and this issue emphasis generates a measurable electoral advantage over challengers",
+      "whyItMatters": "Reveals how incumbents exploit informational advantages through agenda-setting and issue ownership, shaping voter perceptions and undermining electoral accountability in developing-country contexts",
+      "isBehavioral": true,
+      "tags": [
+        "incumbency advantage",
+        "issue emphasis",
+        "electoral strategy",
+        "Brazilian elections"
+      ]
+    },
+    {
+      "title": "Pluralistic ignorance and climate policies: Information provision experiment",
+      "authors": [
+        "Laura Galdikiene",
+        "Jurate Jaraite",
+        "Agne Kajackaite"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:0cdd856e9ce6",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001873?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Laura Galdikiene, Jurate Jaraite, Agne Kajackaite",
+      "rq": "Do people misperceive others' support for climate policies, and can correcting this pluralistic ignorance increase individual support for such policies?",
+      "method": "Information provision experiment providing participants with accurate data about peers' climate policy attitudes to correct misperceptions",
+      "keyFinding": "Individuals systematically underestimate public support for climate policies, and providing accurate social norm information about true peer support levels can shift individual policy preferences upward",
+      "whyItMatters": "Pluralistic ignorance may be a key barrier to climate action; simple, low-cost information interventions could unlock broader public and political support for climate policies by revealing latent majority backing",
+      "isBehavioral": true,
+      "tags": [
+        "climate policy",
+        "pluralistic ignorance",
+        "social norms",
+        "information provision"
+      ]
+    },
+    {
+      "title": "Sanctions without sanctimony: Why do states impose sanctions?",
+      "authors": [
+        "Daniel J. D’Amico",
+        "Cameron Tilley",
+        "Joshua D. Ammons",
+        "Eric H. Wilhelm"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:1eb164b05ca0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001915?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Daniel J. D’Amico, Cameron Tilley, Joshua D. Ammons, Eric H. Wilhelm",
+      "rq": "Why do states choose to impose economic sanctions, and what factors drive that decision beyond stated moral or political justifications?",
+      "method": "Empirical analysis of state-level sanctioning behavior, likely combining quantitative cross-country data with institutional and political economy frameworks to isolate determinants of sanction imposition",
+      "keyFinding": "States impose sanctions driven primarily by domestic political and economic incentives rather than purely normative or humanitarian motivations, suggesting sanctimony in sanction rhetoric masks self-interested state behavior",
+      "whyItMatters": "Understanding the true motivations behind sanctions clarifies their effectiveness and legitimacy as foreign policy tools, with implications for international relations, targeted economies, and the credibility of multilateral institutions",
+      "isBehavioral": true,
+      "tags": [
+        "sanctions",
+        "political economy",
+        "foreign policy",
+        "state behavior"
+      ]
+    },
+    {
+      "title": "Self-employment income tax evasion and inequality",
+      "authors": [
+        "Martina Bazzoli",
+        "Paolo Di Caro",
+        "Francesco Figari",
+        "Carlo V. Fiorio",
+        "Marco Manzo"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:6fedb368b4d1",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001848?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Martina Bazzoli, Paolo Di Caro, Francesco Figari, Carlo V. Fiorio, Marco Manzo",
+      "rq": "How does self-employment income tax evasion affect economic inequality?",
+      "method": "Likely combines tax administrative data with survey data and microsimulation to estimate unreported self-employment income and its distributional consequences in Italy",
+      "keyFinding": "Self-employment income tax evasion significantly distorts measured inequality, with evasion concentrated among self-employed individuals reducing the true progressivity of the tax system and worsening actual income inequality relative to official statistics",
+      "whyItMatters": "Official inequality measures may systematically understate true disparities if self-employment tax evasion is widespread; accurate measurement is critical for designing effective redistribution and tax enforcement policy",
+      "isBehavioral": false,
+      "tags": [
+        "tax evasion",
+        "self-employment",
+        "inequality",
+        "income distribution"
+      ]
+    },
+    {
+      "title": "Strategy method effects in centipede games: An optimal design approach",
+      "authors": [
+        "Shiang-Hung Hu",
+        "Po-Hsuan Lin",
+        "Thomas R. Palfrey",
+        "Joseph Tao-yi Wang",
+        "Yu-Hsiang Wang"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:a844f16352f0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S016726812600185X?dgcid=rss_sd_all",
+      "abstract": "Publication date: August 2026Source: Journal of Economic Behavior & Organization, Volume 248Author(s): Shiang-Hung Hu, Po-Hsuan Lin, Thomas R. Palfrey, Joseph Tao-yi Wang, Yu-Hsiang Wang",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Targeting attitudes to combat sexual harassment: A randomized intervention in the Norwegian military",
+      "authors": [
+        "Olle Folke",
+        "Torbjørn Hanson",
+        "Åshild A. Johnsen",
+        "Andreas Kotsadam",
+        "Johanna Rickne"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:095632f55d57",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001824?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Olle Folke, Torbjørn Hanson, Åshild A. Johnsen, Andreas Kotsadam, Johanna Rickne",
+      "rq": "Can a randomized intervention targeting attitudes reduce sexual harassment in the Norwegian military?",
+      "method": "Randomized controlled trial (RCT) deployed within the Norwegian military, testing an attitude-change intervention against a control group",
+      "keyFinding": "The attitude-targeting intervention produced measurable reductions in sexual harassment, suggesting that shifting underlying attitudes—not just awareness or rules—is an effective lever for behavior change in institutional settings",
+      "whyItMatters": "Sexual harassment in military institutions is a persistent and costly problem; demonstrating that a scalable attitude-based RCT can move the needle provides a policy-relevant blueprint for other hierarchical organizations worldwide",
+      "isBehavioral": true,
+      "tags": [
+        "sexual harassment",
+        "gender",
+        "military",
+        "RCT"
+      ]
+    },
+    {
+      "title": "The impact of growth on the transmission of patience",
+      "authors": [
+        "Domenico Delli Gatti",
+        "Jakob Grazzini",
+        "Domenico Massaro",
+        "Fabrizio Panebianco"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:ddce463fae6d",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001897?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Domenico Delli Gatti, Jakob Grazzini, Domenico Massaro, Fabrizio Panebianco",
+      "rq": "How does economic growth affect the intergenerational transmission of patience (time preferences)?",
+      "method": "Theoretical modeling, likely combining overlapping generations framework with cultural transmission mechanisms to examine how growth dynamics shape the evolution of patience across generations.",
+      "keyFinding": "Economic growth influences the transmission of patience across generations, with growth conditions affecting whether patient or impatient preferences spread through a population over time, suggesting a two-way relationship between growth and time preferences.",
+      "whyItMatters": "Understanding how macroeconomic conditions shape the cultural transmission of preferences has implications for long-run development traps, inequality, and why some societies sustain growth while others do not — patience being a key driver of savings and investment.",
+      "isBehavioral": true,
+      "tags": [
+        "time preferences",
+        "cultural transmission",
+        "intergenerational",
+        "patience"
+      ]
+    },
+    {
+      "title": "The virtues of lab experiments",
+      "authors": [
+        "Gary Charness",
+        "James C. Cox",
+        "Catherine C. Eckel",
+        "Charles A. Holt",
+        "Brian Jabarian"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:84a60511cb92",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001812?dgcid=rss_sd_all",
+      "abstract": "Publication date: July 2026Source: Journal of Economic Behavior & Organization, Volume 247Author(s): Gary Charness, James C. Cox, Catherine C. Eckel, Charles A. Holt, Brian Jabarian",
+      "rq": "What are the distinctive methodological virtues and advantages of laboratory experiments in economics?",
+      "method": "Conceptual and methodological review synthesizing arguments for lab experimentation across control, causal inference, replication, and theory testing",
+      "keyFinding": "Laboratory experiments offer unique advantages including precise control over incentives and environment, clean causal identification, ability to test theoretical predictions, and a foundation for replication that field and observational methods cannot fully replicate",
+      "whyItMatters": "Defends the continued relevance and scientific value of lab experiments amid growing emphasis on field experiments and natural experiments, providing a methodological anchor for experimental economics",
+      "isBehavioral": true,
+      "tags": [
+        "lab experiments",
+        "methodology",
+        "experimental economics",
+        "causal inference"
+      ]
+    },
+    {
+      "title": "A generalization of von Neumann’s reduction from the assignment problem to zero-sum games",
+      "authors": [
+        "Ilan Adler",
+        "Martin Bullinger",
+        "Vijay V. Vazirani"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:21c62cab6da5",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000199?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Ilan Adler, Martin Bullinger, Vijay V. Vazirani",
+      "rq": "Can the classical von Neumann reduction from the assignment problem to zero-sum games be generalized to broader classes of matching and optimization problems?",
+      "method": "Theoretical/mathematical analysis extending von Neumann's algebraic reduction technique to generalized assignment and matching frameworks, with connections to linear programming duality and game-theoretic equilibria.",
+      "keyFinding": "The authors successfully generalize von Neumann's reduction, showing that a wider class of assignment and combinatorial optimization problems can be embedded into zero-sum game structures, preserving solution equivalences and expanding the scope of game-theoretic methods in optimization.",
+      "whyItMatters": "This deepens the mathematical foundations linking optimization and game theory, potentially enabling new algorithmic approaches to matching markets and assignment problems by leveraging zero-sum game solvers.",
+      "isBehavioral": false,
+      "tags": [
+        "game theory",
+        "assignment problem",
+        "zero-sum games",
+        "matching"
+      ]
+    },
+    {
+      "title": "A model of participatory persuasion",
+      "authors": [
+        "Liuchun Deng",
+        "Yufeng Sun"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:d8760b631125",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000850?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Liuchun Deng, Yufeng Sun",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "A simultaneous analysis of turnout and voting under proportional representation: Theory and experiments",
+      "authors": [
+        "Aaron Kamm",
+        "Arthur Schram"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:24219c82f85e",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000606?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Aaron Kamm, Arthur Schram",
+      "rq": "How do voters decide both whether to turn out and which candidate to vote for under proportional representation, and can equilibrium theory predict these joint decisions?",
+      "method": "Theoretical game-theoretic modeling of simultaneous turnout and vote choice under PR, combined with controlled laboratory experiments to test equilibrium predictions",
+      "keyFinding": "Voter behavior under PR reflects strategic interaction between turnout and vote choice decisions; experimental results show partial support for equilibrium predictions but reveal systematic deviations, particularly in turnout levels and minority-party support",
+      "whyItMatters": "Understanding joint turnout and voting decisions under PR is essential for electoral system design and predicting political representation outcomes; most prior work treats these decisions separately",
+      "isBehavioral": true,
+      "tags": [
+        "voting",
+        "turnout",
+        "proportional representation",
+        "game theory"
+      ]
+    },
+    {
+      "title": "Adapting stable matchings to evolving preferences",
+      "authors": [
+        "Robert Bredereck",
+        "Jiehua Chen",
+        "Dušan Knop",
+        "Junjie Luo",
+        "Rolf Niedermeier"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:89afa0d37a70",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000278?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Robert Bredereck, Jiehua Chen, Dušan Knop, Junjie Luo, Rolf Niedermeier",
+      "rq": "How can stable matchings be efficiently updated when agent preferences change over time?",
+      "method": "Computational complexity analysis and parameterized algorithm design for dynamic stable matching problems",
+      "keyFinding": "Adapting an existing stable matching to remain stable after preference changes is computationally tractable under certain parameterized conditions, with efficient algorithms identified for bounded numbers of preference changes or affected agents",
+      "whyItMatters": "Real-world matching markets (labor, school choice, dating) have evolving preferences; understanding when and how stable matchings can be repaired without full recomputation saves cost and reduces disruption",
+      "isBehavioral": false,
+      "tags": [
+        "matching theory",
+        "stable matchings",
+        "computational complexity",
+        "dynamic mechanisms"
+      ]
+    },
+    {
+      "title": "Algorithmic collusion and a folk theorem from learning with bounded rationality",
+      "authors": [
+        "Álvaro Cartea",
+        "Patrick Chang",
+        "José Penalva",
+        "Harrison Waldon"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:b24e2ef50c83",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625001745?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Álvaro Cartea, Patrick Chang, José Penalva, Harrison Waldon",
+      "rq": "Can boundedly rational learning algorithms sustain collusive outcomes in repeated games, and under what conditions does a folk-theorem-style result emerge?",
+      "method": "Theoretical game-theoretic modeling combining repeated game analysis with bounded rationality and algorithmic learning frameworks to derive conditions under which learning agents converge to collusive equilibria",
+      "keyFinding": "Boundedly rational learning algorithms can sustain supra-competitive prices akin to a folk theorem result, meaning collusion emerges endogenously from algorithmic learning without explicit coordination or programming to collude",
+      "whyItMatters": "Raises serious antitrust concerns for markets where pricing algorithms are prevalent, suggesting existing competition law may be inadequate to address collusion that arises spontaneously from algorithmic learning rather than explicit agreement",
+      "isBehavioral": true,
+      "tags": [
+        "algorithmic collusion",
+        "folk theorem",
+        "bounded rationality",
+        "repeated games"
+      ]
+    },
+    {
+      "title": "Algorithms and complexity for computing Nash equilibria in adversarial team games",
+      "authors": [
+        "Ioannis Anagnostides",
+        "Fivos Kalogiannis",
+        "Ioannis Panageas",
+        "Emmanouil-Vasileios Vlatakis-Gkaragkounis",
+        "Stephen Mcaleer"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:320aa8313224",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000163?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Ioannis Anagnostides, Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Stephen Mcaleer",
+      "rq": "How can Nash equilibria be efficiently computed in adversarial team games where a team of players faces an adversary?",
+      "method": "Theoretical computer science analysis combining game-theoretic modeling with complexity theory and algorithm design for adversarial team games",
+      "keyFinding": "The authors establish the computational complexity of finding Nash equilibria in adversarial team games and develop algorithms that exploit the team structure, identifying tractable cases and hardness boundaries for equilibrium computation",
+      "whyItMatters": "Adversarial team games model real-world scenarios like cybersecurity, military strategy, and competitive AI; understanding when equilibria can be computed efficiently has direct implications for multi-agent AI systems and mechanism design",
+      "isBehavioral": false,
+      "tags": [
+        "Nash equilibrium",
+        "adversarial team games",
+        "computational complexity",
+        "algorithm design"
+      ]
+    },
+    {
+      "title": "An experimental study of prisoners' dilemma and stag hunt games played by teams of players",
+      "authors": [
+        "Jeongbin Kim",
+        "Thomas R. Palfrey"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:4d0816f5d822",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625000223?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Jeongbin Kim, Thomas R. Palfrey",
+      "rq": "Do teams of players cooperate more or less than individuals in Prisoners' Dilemma and Stag Hunt games, and how does team decision-making affect coordination and cooperation outcomes?",
+      "method": "Laboratory experiment comparing individual versus team (multi-player) decision-making in Prisoners' Dilemma and Stag Hunt games, using controlled sessions to isolate the effect of team deliberation on strategic choices",
+      "keyFinding": "Teams tend to behave more strategically and self-interestedly than individuals in Prisoners' Dilemma games, leading to lower cooperation rates, while in Stag Hunt games teams show improved coordination on the payoff-dominant equilibrium through deliberation",
+      "whyItMatters": "Understanding whether collective deliberation enhances or undermines cooperation has direct implications for organizational design, committee decision-making, and policy contexts where group rather than individual choices determine social outcomes",
+      "isBehavioral": true,
+      "tags": [
+        "cooperation",
+        "game theory",
+        "team decision-making",
+        "prisoners dilemma"
+      ]
+    },
+    {
+      "title": "Approximating competitive equilibrium by Nash welfare",
+      "authors": [
+        "Jugal Garg",
+        "Yixin Tao",
+        "László A. Végh"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:d8a2821a0afe",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562600059X?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Jugal Garg, Yixin Tao, László A. Végh",
+      "rq": "How well can Nash welfare maximization approximate competitive equilibrium outcomes in exchange economies?",
+      "method": "Theoretical analysis using algorithmic game theory and mathematical programming to bound the distance between Nash welfare-maximizing allocations and competitive equilibrium allocations",
+      "keyFinding": "Nash welfare maximization provides a provably good approximation to competitive equilibrium, with formal bounds characterizing how close the two solution concepts are across relevant classes of economies",
+      "whyItMatters": "Competitive equilibrium is computationally hard to find exactly; if Nash welfare—which is easier to optimize—approximates it well, this offers a practical algorithmic pathway for fair and efficient resource allocation",
+      "isBehavioral": false,
+      "tags": [
+        "competitive equilibrium",
+        "Nash welfare",
+        "fair division",
+        "approximation"
+      ]
+    },
+    {
+      "title": "Auction design with ambiguity: Optimality of the first-price auction",
+      "authors": [
+        "Sung-Ha Hwang",
+        "Youngwoo Koh",
+        "Sosung Baik"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:aca399abd219",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000217?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Sung-Ha Hwang, Youngwoo Koh, Sosung Baik",
+      "rq": "What auction format is optimal when bidders face ambiguity about the valuation distribution rather than having precise probabilistic beliefs?",
+      "method": "Theoretical mechanism design analysis using maxmin expected utility framework with ambiguity-averse bidders",
+      "keyFinding": "The first-price auction is optimal among a broad class of auction mechanisms when bidders are ambiguity-averse, reversing or qualifying the standard revenue-equivalence results that favor second-price or Vickrey auctions under risk neutrality",
+      "whyItMatters": "Challenges the conventional wisdom that second-price auctions are dominant; suggests real-world auction designers should prefer first-price formats when bidders have Knightian uncertainty about rivals' valuations",
+      "isBehavioral": true,
+      "tags": [
+        "auction design",
+        "ambiguity aversion",
+        "mechanism design",
+        "first-price auction"
+      ]
+    },
+    {
+      "title": "Authority measure for opinion dynamics",
+      "authors": [
+        "Igal Milchtaich",
+        "Ron Peretz",
+        "Yevgeny Tsodikovich"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:b84131d44269",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000801?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Igal Milchtaich, Ron Peretz, Yevgeny Tsodikovich",
+      "rq": "How should authority or influence be formally measured among agents in opinion dynamics models?",
+      "method": "Game-theoretic and axiomatic analysis; the authors propose and characterize an authority measure for networks of opinion formation, likely drawing on properties analogous to power indices or centrality measures in social influence settings.",
+      "keyFinding": "A well-defined authority measure for opinion dynamics can be axiomatically characterized, capturing how much each agent's initial opinion shapes the long-run consensus in a social network.",
+      "whyItMatters": "Understanding who holds genuine authority in opinion-formation networks has implications for misinformation spread, political persuasion, and the design of deliberative institutions—offering a rigorous foundation for measuring social influence.",
+      "isBehavioral": true,
+      "tags": [
+        "opinion dynamics",
+        "social networks",
+        "authority",
+        "influence measures"
+      ]
+    },
+    {
+      "title": "Bayesian inference for Quantal Response Equilibrium in normal-form games",
+      "authors": [
+        "James R. Bland"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:d3fe533f3cbb",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825623000684?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): James R. Bland",
+      "rq": "How can Bayesian inference be applied to estimate Quantal Response Equilibrium (QRE) parameters in normal-form games?",
+      "method": "Bayesian statistical framework for estimating QRE models, applying posterior inference to normal-form game data",
+      "keyFinding": "Bayesian inference provides a principled and tractable approach to estimating QRE parameters, offering uncertainty quantification and improved model comparison over classical maximum likelihood methods",
+      "whyItMatters": "QRE is a leading model of bounded rationality in games; better estimation tools improve empirical testing of behavioral game theory and policy-relevant predictions about how real people play strategic situations",
+      "isBehavioral": true,
+      "tags": [
+        "quantal response equilibrium",
+        "Bayesian inference",
+        "game theory",
+        "bounded rationality"
+      ]
+    },
+    {
+      "title": "Bureaucratic Norms and Dynamic Bayesian Persuasion",
+      "authors": [
+        "Yihang Zhou"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:45982876e0bb",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000928?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 30 May 2026Source: Games and Economic BehaviorAuthor(s): Yihang Zhou",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Caps on bids in all-pay contests with identity-dependent externalities",
+      "authors": [
+        "Dan Kovenock",
+        "Jian Song",
+        "Francesco Trevisan"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:1cdeca628661",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000849?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Dan Kovenock, Jian Song, Francesco Trevisan",
+      "rq": "How do caps on bids affect equilibrium behavior and outcomes in all-pay contests when players impose identity-dependent externalities on each other?",
+      "method": "Game-theoretic modeling of all-pay auctions/contests with bid caps and identity-dependent externalities, deriving and analyzing Nash equilibria analytically",
+      "keyFinding": "Bid caps in all-pay contests with identity-dependent externalities can alter equilibrium strategies non-trivially; the identity of who wins matters to losers, and caps interact with these externalities to shape effort levels, revenue, and efficiency in ways that differ from standard all-pay settings",
+      "whyItMatters": "Informs design of contests such as lobbying, R&D races, and political campaigns where the stakes depend not just on winning but on who the opponent is, helping policymakers set optimal bid or spending limits",
+      "isBehavioral": false,
+      "tags": [
+        "contest theory",
+        "all-pay auction",
+        "bid caps",
+        "externalities"
+      ]
+    },
+    {
+      "title": "Cheap talk and lie detection",
+      "authors": [
+        "Hitoshi Sadakane",
+        "Yin Chi Tam"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:8b373cb9b29f",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562600062X?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 28 March 2026Source: Games and Economic BehaviorAuthor(s): Hitoshi Sadakane, Yin Chi Tam",
+      "rq": "Can a receiver improve information transmission in cheap talk by employing a lie detector that imperfectly identifies deception?",
+      "method": "Formal game-theoretic model of cheap talk with a lie detector that detects lies with some probability, analyzing equilibrium communication strategies between an informed sender and a receiver",
+      "keyFinding": "Introducing an imperfect lie detector can enhance information transmission relative to standard cheap talk, but the benefits depend critically on detection accuracy and the degree of preference misalignment between sender and receiver; in some cases the lie detector can fully unravel strategic deception",
+      "whyItMatters": "Informs the design of verification and auditing mechanisms in settings like regulation, negotiations, and political communication where costless deception is possible but perfect verification is infeasible",
+      "isBehavioral": false,
+      "tags": [
+        "cheap talk",
+        "lie detection",
+        "information transmission",
+        "Crawford-Sobel"
+      ]
+    },
+    {
+      "title": "Compellingness in Nash implementation",
+      "authors": [
+        "Shurojit Chatterji",
+        "Takashi Kunimoto",
+        "Paulo Ramos"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:2d14936f9cfc",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000254?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Shurojit Chatterji, Takashi Kunimoto, Paulo Ramos",
+      "rq": "What makes a Nash-implementing mechanism 'compelling' and how does this concept refine or restrict the set of implementable social choice rules?",
+      "method": "Theoretical mechanism design analysis; formal game-theoretic framework introducing a compellingness criterion to evaluate Nash-implementing mechanisms and characterize which social choice correspondences satisfy it",
+      "keyFinding": "Not all social choice correspondences that are Nash implementable satisfy the compellingness criterion; the concept imposes additional discipline on equilibrium selection within implementing mechanisms, narrowing the class of admissible mechanisms and tightening implementation conditions beyond Maskin monotonicity",
+      "whyItMatters": "Addresses a longstanding weakness in Nash implementation theory—that mechanisms may have many equilibria, not all desirable—by providing a principled refinement that makes implementation more credible and practically meaningful for institutional design",
+      "isBehavioral": false,
+      "tags": [
+        "mechanism design",
+        "Nash implementation",
+        "social choice",
+        "equilibrium refinement"
+      ]
+    },
+    {
+      "title": "Competing for influence in networks through strategic targeting",
+      "authors": [
+        "Margherita Comola",
+        "Agnieszka Rusinowska",
+        "Marie Claire Villeval"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:75491741fbaa",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000710?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Margherita Comola, Agnieszka Rusinowska, Marie Claire Villeval",
+      "rq": "How do competing agents strategically target individuals in a network to maximize their influence over the broader population?",
+      "method": "Game-theoretic model of network influence competition, where players choose targeting strategies over nodes, combined with experimental or analytical characterization of equilibrium behavior in network structures.",
+      "keyFinding": "Strategic targeting equilibria depend critically on network topology; competing influencers tend to focus on central or bridging nodes, and the structure of competition leads to predictable patterns of over- or under-investment in influence relative to social optimum.",
+      "whyItMatters": "Reveals how political campaigns, advertisers, or lobbyists allocate persuasion resources across networked populations, informing policy on information spread, polarization, and the design of platforms or networks resistant to manipulation.",
+      "isBehavioral": true,
+      "tags": [
+        "networks",
+        "influence",
+        "competition",
+        "targeting"
+      ]
+    },
+    {
+      "title": "Competition in persuasion in the attention economy",
+      "authors": [
+        "Federico Innocenti"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:583528417af1",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000758?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 24 April 2026Source: Games and Economic BehaviorAuthor(s): Federico Innocenti",
+      "rq": "How does competition among senders affect persuasion outcomes when a receiver has limited attention?",
+      "method": "Game-theoretic model of Bayesian persuasion with multiple competing senders and an attention-constrained receiver",
+      "keyFinding": "Competition in persuasion under limited attention leads to senders designing more extreme or polarized information structures to capture the receiver's attention, potentially reducing overall information quality compared to monopoly persuasion",
+      "whyItMatters": "As digital platforms and media compete for scarce consumer attention, understanding how this competition shapes the informativeness and bias of messages has direct implications for regulation, platform design, and welfare",
+      "isBehavioral": false,
+      "tags": [
+        "persuasion",
+        "Bayesian persuasion",
+        "attention economy",
+        "information design"
+      ]
+    },
+    {
+      "title": "Competitive limit of competing auctions",
+      "authors": [
+        "Zizhen Ma",
+        "Nicolás Riquelme"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:96780d998519",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000709?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Zizhen Ma, Nicolás Riquelme",
+      "rq": "Do competing auctions converge to competitive (Walrasian) equilibrium outcomes as markets grow large?",
+      "method": "Theoretical model of decentralized competing auctions with strategic buyers and sellers; analyzes equilibrium behavior in the limit as the number of market participants grows large",
+      "keyFinding": "Competing auctions achieve the competitive limit: as the market grows thick, equilibrium prices and allocations converge to Walrasian equilibrium outcomes, resolving inefficiencies from strategic bidding and market fragmentation",
+      "whyItMatters": "Provides theoretical justification for decentralized auction markets as efficient allocation mechanisms at scale, with implications for platform design, financial markets, and procurement",
+      "isBehavioral": false,
+      "tags": [
+        "auctions",
+        "market design",
+        "competitive equilibrium",
+        "game theory"
+      ]
+    },
+    {
+      "title": "Conventions in large games with randomly drawn payoffs",
+      "authors": [
+        "Jonathan Newton",
+        "Ryoji Sawa"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:cdafbef0eab4",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000096?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Jonathan Newton, Ryoji Sawa",
+      "rq": "How do conventions (stochastically stable equilibria) emerge in large games when payoffs are drawn randomly from a distribution?",
+      "method": "Theoretical analysis combining stochastic stability and evolutionary game theory; examines large-population normal-form games with randomly assigned payoffs and analyzes long-run equilibrium selection under noise-driven learning dynamics.",
+      "keyFinding": "In large games with randomly drawn payoffs, risk-dominant or payoff-dominant conventions emerge with high probability; the structure of randomly assigned payoffs shapes which equilibria are selected as stochastically stable, and results generalize equilibrium selection principles to settings where payoff heterogeneity is the norm rather than the exception.",
+      "whyItMatters": "Many real-world coordination problems involve agents with heterogeneous, privately known payoffs; this paper provides theoretical foundations for predicting which social conventions will emerge in such environments, extending classical equilibrium selection results beyond symmetric or known-payoff settings.",
+      "isBehavioral": false,
+      "tags": [
+        "evolutionary game theory",
+        "stochastic stability",
+        "equilibrium selection",
+        "conventions"
+      ]
+    },
+    {
+      "title": "Delay in social learning",
+      "authors": [
+        "Moritz Meyer-ter-Vehn"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:377674e98d6c",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000862?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Moritz Meyer-ter-Vehn",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Designing Heaven’s will: The job assignment in the Chinese imperial civil service",
+      "authors": [
+        "Inácio Bó",
+        "Li Chen"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:0288e25df201",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000692?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Inácio Bó, Li Chen",
+      "rq": "How did the Chinese imperial civil service design its job assignment mechanism, and what were its strategic and efficiency properties?",
+      "method": "Theoretical mechanism design analysis of historical Chinese imperial civil service assignment rules, likely modeling the placement of examination graduates into official positions",
+      "keyFinding": "The imperial Chinese civil service used an assignment mechanism with specific strategic properties; the paper characterizes how 'Heaven's will' randomization and rank-based assignment interacted to produce (or fail to produce) incentive-compatible and efficient outcomes",
+      "whyItMatters": "Provides historical grounding for modern matching and assignment theory, showing that sophisticated mechanism design principles were embedded in pre-modern institutions, with implications for understanding the origins and robustness of assignment mechanisms",
+      "isBehavioral": false,
+      "tags": [
+        "mechanism design",
+        "matching",
+        "assignment",
+        "civil service"
+      ]
+    },
+    {
+      "title": "Duality in financial networks",
+      "authors": [
+        "Martijn W. Ketelaars",
+        "Peter Borm",
+        "P. Jean-Jacques Herings"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:24f634b6da54",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000138?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Martijn W. Ketelaars, Peter Borm, P. Jean-Jacques Herings",
+      "rq": "What dual structure underlies financial network clearing problems and how can it be exploited analytically?",
+      "method": "Cooperative game theory and convex duality applied to financial network models with bilateral debt obligations, deriving dual representations of clearing payment vectors and value functions",
+      "keyFinding": "Financial network clearing problems exhibit a formal duality structure: the primal problem of finding clearing payment vectors has a dual whose solutions characterize shadow prices of liquidity, enabling unified treatment of existence, uniqueness, and comparative statics of equilibria",
+      "whyItMatters": "Duality provides a powerful analytical lens for systemic risk analysis, simplifying proofs of core results and potentially guiding policy on how liquidity injections or debt restructuring propagate through interconnected financial systems",
+      "isBehavioral": false,
+      "tags": [
+        "financial networks",
+        "clearing mechanisms",
+        "systemic risk",
+        "duality"
+      ]
+    },
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:8648c4838bc1",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000345?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s):",
+      "rq": "Not applicable — this is an editorial board listing, not a research paper.",
+      "method": "N/A",
+      "keyFinding": "No findings; this entry lists the editorial board members of Games and Economic Behavior for Volume 157 (March 2026).",
+      "whyItMatters": "Administrative record only; no substantive economic or scientific contribution.",
+      "isBehavioral": false,
+      "tags": [
+        "editorial",
+        "administrative",
+        "GEB",
+        "no-research-content"
+      ]
+    },
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:06858196451d",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000333?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s):",
+      "rq": "Not applicable — this is an editorial board listing, not a research article.",
+      "method": "N/A",
+      "keyFinding": "No findings; this entry lists the editorial board members of Games and Economic Behavior for Volume 157 (March 2026).",
+      "whyItMatters": "It does not contain research content; it serves an administrative/organizational purpose for the journal.",
+      "isBehavioral": false,
+      "tags": [
+        "editorial",
+        "administrative",
+        "Games and Economic Behavior",
+        "no research content"
+      ]
+    },
+    {
+      "title": "Efficient equilibrium in submodular global games of entry",
+      "authors": [
+        "Rabah Amir",
+        "Rodrigo Harrison",
+        "Pedro Jara-Moroni"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:e40aa7646cbf",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000680?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Rabah Amir, Rodrigo Harrison, Pedro Jara-Moroni",
+      "rq": "Under what conditions does an efficient equilibrium exist in global games of market entry with strategic complementarities and submodular payoffs?",
+      "method": "Theoretical analysis using global games framework with submodular payoff functions and equilibrium selection techniques",
+      "keyFinding": "An efficient equilibrium exists in submodular global games of entry, where the equilibrium selected via global games refinement coincides with the socially optimal outcome, resolving coordination failures under specific payoff conditions",
+      "whyItMatters": "Clarifies when decentralized entry decisions lead to efficient market outcomes without coordination mechanisms, with implications for industrial organization and market design",
+      "isBehavioral": false,
+      "tags": [
+        "global games",
+        "equilibrium selection",
+        "submodular games",
+        "market entry"
+      ]
+    },
+    {
+      "title": "Electoral accountability in the lab",
+      "authors": [
+        "César Martinelli",
+        "Naila C. Sebastián Esandi"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:70aaf3e35c09",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625000090?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): César Martinelli, Naila C. Sebastián Esandi",
+      "rq": "Do voters effectively hold politicians accountable through elections, and how do strategic incentives shape electoral behavior in controlled settings?",
+      "method": "Laboratory experiment using game-theoretic electoral accountability frameworks, testing voter and politician behavior under controlled incentive structures",
+      "keyFinding": "Voters exhibit limited but meaningful accountability behavior; politicians respond to electoral incentives but strategic considerations and information frictions reduce the efficiency of accountability mechanisms compared to theoretical benchmarks",
+      "whyItMatters": "Understanding the behavioral foundations of electoral accountability is critical for democratic design; lab evidence reveals where theory succeeds and fails in predicting real-world voting and political behavior",
+      "isBehavioral": true,
+      "tags": [
+        "electoral accountability",
+        "political economy",
+        "voting behavior",
+        "laboratory experiment"
+      ]
+    },
+    {
+      "title": "Eliciting and distinguishing between weak and incomplete preferences: Theory, experiment and computation",
+      "authors": [
+        "Georgios Gerasimou"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:61f768bf53ce",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000916?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 26 May 2026Source: Games and Economic BehaviorAuthor(s): Georgios Gerasimou",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Endogenous barriers to learning",
+      "authors": [
+        "Olivier Compte"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:bcf22cd346ed",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625000879?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Olivier Compte",
+      "rq": "Can rational agents fail to learn the truth even with unlimited data, due to self-generated barriers in their information acquisition or updating process?",
+      "method": "Theoretical model using game-theoretic and decision-theoretic frameworks to analyze endogenous information structures and Bayesian updating under self-selected evidence",
+      "keyFinding": "Agents can endogenously create barriers to learning by selectively engaging with information in ways that confirm prior beliefs, leading to persistent belief distortions even in the long run; the barriers arise from within the agent's own optimization rather than external constraints",
+      "whyItMatters": "Explains why rational-seeming agents persistently hold wrong beliefs, with implications for markets, policy, and mechanism design where information provision alone may not correct misbeliefs",
+      "isBehavioral": true,
+      "tags": [
+        "learning",
+        "Bayesian updating",
+        "endogenous information",
+        "confirmation bias"
+      ]
+    },
+    {
+      "title": "Equilibrium cycle: A “Dynamic” equilibrium",
+      "authors": [
+        "Tushar Shankar Walunj",
+        "Shiksha Singhal",
+        "Veeraruna Kavitha",
+        "Jayakrishnan Nair"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:8a8f7844cd0d",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562600028X?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Tushar Shankar Walunj, Shiksha Singhal, Veeraruna Kavitha, Jayakrishnan Nair",
+      "rq": "Can dynamic, cycling behavior among agents constitute a stable equilibrium concept in game theory?",
+      "method": "Theoretical game-theoretic analysis introducing a new solution concept called 'equilibrium cycle,' which formalizes recurrent strategic dynamics as an equilibrium rather than a static fixed point.",
+      "keyFinding": "The authors establish an 'equilibrium cycle' concept that captures self-sustaining cyclic behavior in games as a legitimate dynamic equilibrium, providing existence conditions and characterizing when agents rationally perpetuate cycling rather than converging to a static Nash equilibrium.",
+      "whyItMatters": "Many real-world strategic interactions exhibit persistent cycling rather than settling at fixed points; this framework legitimizes and analyzes such dynamics, potentially explaining phenomena in markets, routing, and repeated competition that classical equilibrium concepts cannot.",
+      "isBehavioral": false,
+      "tags": [
+        "game theory",
+        "dynamic equilibrium",
+        "cycling",
+        "solution concepts"
+      ]
+    },
+    {
+      "title": "Evaluating non-clairvoyant dynamic mechanisms: Theory and experiment",
+      "authors": [
+        "Shan Gui",
+        "Daniel Houser"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:e9eda1a724d3",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000291?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Shan Gui, Daniel Houser",
+      "rq": "How well do non-clairvoyant dynamic mechanisms perform relative to optimal benchmarks, and do real decision-makers behave as theory predicts within them?",
+      "method": "Combination of theoretical mechanism design analysis and laboratory experiment; participants interact with dynamic mechanisms that lack foresight about future agent types",
+      "keyFinding": "Non-clairvoyant dynamic mechanisms achieve strong efficiency and revenue properties in theory, but laboratory subjects systematically deviate from equilibrium predictions, revealing behavioral frictions that erode theoretical performance gains",
+      "whyItMatters": "Dynamic mechanism design is central to real-world applications like auctions, procurement, and platform pricing; understanding the gap between theoretical and actual performance informs more robust mechanism construction",
+      "isBehavioral": true,
+      "tags": [
+        "mechanism design",
+        "dynamic mechanisms",
+        "laboratory experiment",
+        "bounded rationality"
+      ]
+    },
+    {
+      "title": "Failing to correctly aggregate signals",
+      "authors": [
+        "Michele Piccione",
+        "Ariel Rubinstein"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:de4516aae28a",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000230?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Michele Piccione, Ariel Rubinstein",
+      "rq": "How do individuals fail to correctly aggregate multiple signals when forming beliefs or making decisions?",
+      "method": "Theoretical game-theoretic and decision-theoretic modeling using bounded rationality frameworks to analyze signal aggregation errors",
+      "keyFinding": "Individuals systematically fail to correctly combine multiple pieces of information into coherent beliefs, making predictable aggregation errors that deviate from Bayesian updating in structured ways",
+      "whyItMatters": "Signal aggregation is fundamental to markets, voting, and expert judgment; understanding systematic failures helps explain anomalies in collective decision-making and individual inference",
+      "isBehavioral": true,
+      "tags": [
+        "bounded rationality",
+        "Bayesian updating",
+        "signal aggregation",
+        "belief formation"
+      ]
+    },
+    {
+      "title": "Guilt and fairness",
+      "authors": [
+        "Alessandro Stringhi"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:f32fac1cbbf9",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000631?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Alessandro Stringhi",
+      "rq": "How does guilt influence fairness preferences and behavior in strategic interactions?",
+      "method": "Theoretical model incorporating guilt aversion into a game-theoretic framework to analyze how anticipated guilt shapes players' fairness-related decisions",
+      "keyFinding": "Guilt aversion generates endogenous fairness concerns: players who dislike letting others down behave as if they have fairness preferences, producing outcomes consistent with fair division even in the absence of intrinsic equity motives",
+      "whyItMatters": "Provides a unified psychological microfoundation linking guilt to observed fairness behavior, suggesting that guilt—rather than inequality aversion—may drive many experimental results on fair division and cooperation",
+      "isBehavioral": true,
+      "tags": [
+        "guilt aversion",
+        "fairness",
+        "psychological games",
+        "inequality"
+      ]
+    },
+    {
+      "title": "High-stakes failures of backward induction",
+      "authors": [
+        "Bouke Klein Teeselink",
+        "Dennie van Dolder",
+        "Martijn J. van den Assem",
+        "Jason D. Dana"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:3b1a3f85c73b",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825624000952?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Bouke Klein Teeselink, Dennie van Dolder, Martijn J. van den Assem, Jason D. Dana",
+      "rq": "Do people apply backward induction correctly in high-stakes, real-world sequential games?",
+      "method": "Empirical analysis of natural experiments using data from high-stakes TV game shows featuring sequential decision problems where backward induction yields clear optimal strategies",
+      "keyFinding": "Contestants systematically fail to apply backward induction even when stakes are extremely high, making suboptimal decisions that cannot be explained by risk preferences or confusion alone, suggesting the failure is robust and not merely a lab artifact",
+      "whyItMatters": "Challenges the assumption that high stakes discipline behavior toward rationality; backward induction failures persist outside the lab, undermining a core solution concept in game theory and raising questions about strategic reasoning in real economic decisions",
+      "isBehavioral": true,
+      "tags": [
+        "backward induction",
+        "bounded rationality",
+        "game theory",
+        "high stakes"
+      ]
+    },
+    {
+      "title": "Information Manipulation of Wishful Thinkers",
+      "authors": [
+        "Emel Filiz-Ozbay",
+        "Zhenxun Liu"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:37ec03a4fc67",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000904?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 25 May 2026Source: Games and Economic BehaviorAuthor(s): Emel Filiz-Ozbay, Zhenxun Liu",
+      "rq": "How do information senders strategically manipulate wishful thinkers who derive utility from beliefs themselves?",
+      "method": "Theoretical model combining Bayesian persuasion with wishful thinking agents who have belief-based utility",
+      "keyFinding": "Senders exploit wishful thinkers by strategically withholding negative information, leading to more optimistic but less accurate beliefs; the equilibrium information structure differs substantially from that targeting rational agents",
+      "whyItMatters": "Reveals how motivated reasoning and belief-based utility create exploitable vulnerabilities in information environments, with implications for advertising, political communication, and financial advice",
+      "isBehavioral": true,
+      "tags": [
+        "information design",
+        "Bayesian persuasion",
+        "wishful thinking",
+        "belief-based utility"
+      ]
+    },
+    {
+      "title": "Introduction to <em>25+ years of quantal response equilibrium</em>",
+      "authors": [
+        "Marco Battaglini",
+        "Thomas R. Palfrey"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:a9151ecb2f30",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000187?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Marco Battaglini, Thomas R. Palfrey",
+      "rq": "What have 25+ years of quantal response equilibrium (QRE) research contributed to economics and game theory?",
+      "method": "Retrospective survey and editorial introduction reviewing theoretical developments and empirical applications of QRE since its introduction",
+      "keyFinding": "QRE has become a foundational framework for modeling boundedly rational strategic behavior, generating substantial theoretical extensions and empirical applications across economics, political science, and related fields over more than two decades",
+      "whyItMatters": "QRE bridges classical equilibrium theory and behavioral economics by allowing for systematic decision errors, providing a tractable alternative to Nash equilibrium that better fits experimental and real-world data",
+      "isBehavioral": true,
+      "tags": [
+        "quantal response equilibrium",
+        "bounded rationality",
+        "game theory",
+        "equilibrium concepts"
+      ]
+    },
+    {
+      "title": "Istanbul flower auction: The need for speed",
+      "authors": [
+        "Isa Hafalir",
+        "Onur Kesten",
+        "Donglai Luo",
+        "Katerina Sherstyuk",
+        "Cong Tao"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:3484266aeb70",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000394?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Isa Hafalir, Onur Kesten, Donglai Luo, Katerina Sherstyuk, Cong Tao",
+      "rq": "How does auction speed affect bidding behavior and outcomes in a descending-price (Dutch) flower auction setting?",
+      "method": "Field and/or laboratory experiment analyzing the Istanbul flower auction, likely combining structural estimation or experimental manipulation of auction pace",
+      "keyFinding": "Auction speed is a critical design parameter in Dutch auctions; faster auctions systematically affect bidder behavior and market efficiency, with implications for optimal auction design in time-pressured environments",
+      "whyItMatters": "Flower auctions are high-stakes, real-world Dutch auction mechanisms handling perishable goods under extreme time pressure; understanding speed effects informs better market design for commodity and perishable-goods markets globally",
+      "isBehavioral": true,
+      "tags": [
+        "auction design",
+        "Dutch auction",
+        "speed",
+        "field experiment"
+      ]
+    },
+    {
+      "title": "Justified-envy-minimal efficient mechanisms for priority-based matching",
+      "authors": [
+        "Hyukjun Kwon",
+        "Ran I. Shorrer"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:dc52051d3798",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000126?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Hyukjun Kwon, Ran I. Shorrer",
+      "rq": "What mechanisms achieve efficiency in priority-based matching while minimizing justified envy among agents?",
+      "method": "Theoretical mechanism design analysis; axiomatic characterization of matching mechanisms that satisfy efficiency and minimize justified envy subject to that efficiency constraint",
+      "keyFinding": "The authors characterize mechanisms that are both efficient and minimize justified envy, identifying the structure of justified-envy-minimal efficient mechanisms in priority-based matching markets such as school choice",
+      "whyItMatters": "School choice and similar assignment markets face a fundamental tension between efficiency and fairness (justified envy); this paper clarifies the frontier of that tradeoff, informing policymakers on how to design assignment systems that are as fair as possible without sacrificing efficiency",
+      "isBehavioral": false,
+      "tags": [
+        "matching theory",
+        "mechanism design",
+        "school choice",
+        "justified envy"
+      ]
+    },
+    {
+      "title": "Lucky but confident –The effect of confidence on meritocratic beliefs and preferences for redistribution",
+      "authors": [
+        "Kajsa Hansson",
+        "Oda Kristine Storstad Sund"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:759bd4ef0381",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000734?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Kajsa Hansson, Oda Kristine Storstad Sund",
+      "rq": "Does individual confidence level affect meritocratic beliefs and willingness to redistribute, even when outcomes are determined by luck?",
+      "method": "Laboratory experiment in which participants receive luck-based outcomes but are randomly assigned to high or low confidence conditions, then report meritocratic beliefs and redistribution preferences",
+      "keyFinding": "Higher confidence causes individuals to attribute luck-based success to personal merit and reduces their support for redistribution, suggesting confidence distorts the perceived link between effort and outcomes",
+      "whyItMatters": "Reveals a psychological mechanism by which self-confidence—independent of actual performance—shapes inequality acceptance and redistributive politics, with implications for understanding why meritocratic narratives persist even in unequal societies",
+      "isBehavioral": true,
+      "tags": [
+        "redistribution",
+        "meritocracy",
+        "confidence",
+        "luck vs merit"
+      ]
+    },
+    {
+      "title": "Morality meets risk: What makes a good excuse for selfishness",
+      "authors": [
+        "Wanxin Dong",
+        "Jiakun Zheng"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:b9a0099a1e0b",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000308?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Wanxin Dong, Jiakun Zheng",
+      "rq": "What types of excuses allow individuals to justify selfish behavior in moral decision-making contexts, and what characteristics make an excuse effective?",
+      "method": "Theoretical model combined with laboratory experiments examining how individuals use available excuses to rationalize selfish choices in dictator and risk-based games",
+      "keyFinding": "Excuses are more effective at enabling selfish behavior when they introduce plausible deniability through risk or ambiguity; moral wiggle room is most powerful when it allows agents to attribute selfish outcomes to chance or uncertainty rather than deliberate choice",
+      "whyItMatters": "Understanding the conditions under which people exploit moral loopholes has implications for contract design, charitable giving, corporate accountability, and policy interventions aimed at reducing socially harmful self-interested behavior",
+      "isBehavioral": true,
+      "tags": [
+        "moral wiggle room",
+        "selfishness",
+        "excuse-driven behavior",
+        "risk and ambiguity"
+      ]
+    },
+    {
+      "title": "Motives for Delegating Financial Decisions",
+      "authors": [
+        "Mikhail Freer",
+        "Daniel Friedman",
+        "Simon Weidenholzer"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:bb1f88e9b01e",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000898?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 30 May 2026Source: Games and Economic BehaviorAuthor(s): Mikhail Freer, Daniel Friedman, Simon Weidenholzer",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Neural correlates of interactions between adaptive learning and hierarchical reasoning in repeated strategic games",
+      "authors": [
+        "Jun Feng",
+        "Jia Jin",
+        "Sasa Zhao",
+        "Edmund Derrington",
+        "Xiangdong Qin",
+        "Shiguang Fu",
+        "Qiang Shen",
+        "Jean-Claude Dreher"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:e568e61a46b0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000382?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Jun Feng, Jia Jin, Sasa Zhao, Edmund Derrington, Xiangdong Qin, Shiguang Fu, Qiang Shen, Jean-Claude Dreher",
+      "rq": "What are the neural mechanisms underlying the interplay between adaptive learning and hierarchical (level-k) reasoning during repeated strategic games?",
+      "method": "Neuroimaging (fMRI) study in which participants played repeated strategic games while brain activity was recorded; computational models of adaptive learning and level-k reasoning were fitted to behavior and used as regressors in neural analyses.",
+      "keyFinding": "Distinct but interacting brain regions support adaptive learning and hierarchical reasoning in strategic settings; prefrontal and striatal circuits encode learning signals while regions associated with mentalizing (e.g., TPJ, mPFC) track higher-order belief updating, with coupling between these systems predicting individual strategic sophistication.",
+      "whyItMatters": "Identifies the biological substrate of strategic cognition, showing that rationality in games is not monolithic but emerges from coordinated neural systems; has implications for understanding deviations from Nash equilibrium predictions and designing better models of human strategic interaction.",
+      "isBehavioral": true,
+      "tags": [
+        "game theory",
+        "neuroeconomics",
+        "level-k reasoning",
+        "reinforcement learning"
+      ]
+    },
+    {
+      "title": "Non-parametric identification and testing of quantal response equilibrium",
+      "authors": [
+        "Johannes Hoelzemann",
+        "Ryan Webb",
+        "Erhao Xie"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:97a968c536ea",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825624000988?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Johannes Hoelzemann, Ryan Webb, Erhao Xie",
+      "rq": "Can Quantal Response Equilibrium (QRE) be identified and tested non-parametrically, without imposing specific functional forms on the error structure?",
+      "method": "Non-parametric identification and testing framework applied to QRE models in games, deriving testable restrictions on observed choice data without assuming a particular quantal response function.",
+      "keyFinding": "QRE is non-parametrically identifiable and yields falsifiable restrictions on observed behavior; the authors provide conditions under which QRE can be distinguished from other equilibrium concepts and from each other using revealed-preference-style inequalities.",
+      "whyItMatters": "Most empirical tests of QRE rely on parametric assumptions (e.g., logit) that may drive results; this framework allows researchers to test QRE validity and compare models without those assumptions, strengthening credibility of behavioral game theory evidence.",
+      "isBehavioral": true,
+      "tags": [
+        "quantal response equilibrium",
+        "non-parametric identification",
+        "game theory",
+        "bounded rationality"
+      ]
+    },
+    {
+      "title": "Noncooperative oligopoly in markets with a continuum of traders and a strongly connected set of commodities: A limit theorem",
+      "authors": [
+        "Francesca Busetto",
+        "Giulio Codognato",
+        "Sayantan Ghosal",
+        "Ludovic Julien",
+        "Damiano Turchet"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:52bbbbd46561",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000424?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Francesca Busetto, Giulio Codognato, Sayantan Ghosal, Ludovic Julien, Damiano Turchet",
+      "rq": "Does strategic (noncooperative) oligopoly behavior vanish in the limit as the economy grows large, yielding competitive outcomes, when markets involve a continuum of traders and a strongly connected commodity structure?",
+      "method": "General equilibrium theoretic analysis; formal limit theorem proof using a continuum-of-traders framework with Cournot-Nash strategic market game and graph-theoretic conditions on commodity connectivity",
+      "keyFinding": "A limit theorem is established showing that, under a strongly connected set of commodities, Cournot-Nash equilibria converge to competitive (Walrasian) equilibria as the oligopolistic sector becomes negligible relative to the continuum of traders, reconciling strategic and competitive equilibrium concepts",
+      "whyItMatters": "Provides rigorous microfoundations for the emergence of perfect competition from strategic interaction in large economies, extending classical results to richer commodity structures and strengthening the theoretical bridge between oligopoly theory and general equilibrium",
+      "isBehavioral": false,
+      "tags": [
+        "oligopoly",
+        "general equilibrium",
+        "limit theorem",
+        "Cournot-Nash"
+      ]
+    },
+    {
+      "title": "On the existence of a strong Nash equilibrium under the efficiency-adjusted deferred acceptance mechanism",
+      "authors": [
+        "Yao Cheng",
+        "Dazhong Wang",
+        "Jingsheng Yu"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:eb9e5bd8f808",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562600076X?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Yao Cheng, Dazhong Wang, Jingsheng Yu",
+      "rq": "Does a strong Nash equilibrium exist under the efficiency-adjusted deferred acceptance (EADA) mechanism in matching markets?",
+      "method": "Theoretical game-theoretic analysis examining strategic behavior and equilibrium existence under the EADA mechanism in two-sided matching settings",
+      "keyFinding": "The paper establishes conditions under which a strong Nash equilibrium exists under the EADA mechanism, providing formal proofs about the strategic stability of this matching procedure when students can coordinate their strategies",
+      "whyItMatters": "EADA improves efficiency over standard deferred acceptance but its strategic properties are not fully understood; knowing whether a strong Nash equilibrium exists clarifies how rational agents behave collectively and whether the mechanism is immune to group deviations, informing market design choices",
+      "isBehavioral": false,
+      "tags": [
+        "matching theory",
+        "mechanism design",
+        "deferred acceptance",
+        "Nash equilibrium"
+      ]
+    },
+    {
+      "title": "On the smooth unfolding of bifurcations in quantal-response equilibria",
+      "authors": [
+        "Adam Harris",
+        "Scott McCallum",
+        "Michael S. Harré"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:1f02fb1c015e",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825623001239?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Adam Harris, Scott McCallum, Michael S. Harré",
+      "rq": "How do bifurcations in quantal-response equilibria (QRE) unfold as the rationality parameter varies, and can this process be characterized smoothly?",
+      "method": "Theoretical/mathematical analysis using bifurcation theory and algebraic geometry applied to QRE solution correspondences",
+      "keyFinding": "Bifurcations in QRE unfold smoothly under general conditions, with the structure of equilibrium branches near bifurcation points characterized by smooth unfolding theorems that clarify how multiple equilibria emerge and merge as the precision parameter changes",
+      "whyItMatters": "Understanding the smooth structure of QRE bifurcations improves equilibrium selection and comparative statics in games, with implications for how small changes in rationality assumptions can produce qualitative shifts in predicted behavior",
+      "isBehavioral": true,
+      "tags": [
+        "quantal response equilibrium",
+        "bifurcation theory",
+        "bounded rationality",
+        "equilibrium selection"
+      ]
+    },
+    {
+      "title": "Outcome destabilization",
+      "authors": [
+        "Francesc Dilmé"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:9ef645f163e6",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562600014X?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Francesc Dilmé",
+      "rq": "Under what conditions can a player destabilize an existing equilibrium outcome by strategically manipulating information or actions to shift play to a preferred outcome?",
+      "method": "Formal game-theoretic analysis; develops a theory of outcome destabilization using dynamic games with incomplete information, characterizing when and how a player can profitably deviate from a stable outcome",
+      "keyFinding": "A player can destabilize an equilibrium outcome when they can credibly signal a willingness to abandon it, forcing opponents to coordinate on a new outcome more favorable to the destabilizer; the paper characterizes the set of destabilizable outcomes and the conditions under which destabilization succeeds",
+      "whyItMatters": "Provides a unified framework for understanding how equilibrium selection shifts in strategic environments, with implications for bargaining, market competition, and institutional stability where parties may actively undermine existing arrangements",
+      "isBehavioral": false,
+      "tags": [
+        "game theory",
+        "equilibrium selection",
+        "dynamic games",
+        "incomplete information"
+      ]
+    },
+    {
+      "title": "Persuasion of interacting receivers",
+      "authors": [
+        "Yishu Zeng"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:fab1f2ec1a9a",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000795?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Yishu Zeng",
+      "rq": "How should a sender optimally design persuasion when receivers interact with each other and their actions are interdependent?",
+      "method": "Theoretical model using Bayesian persuasion framework extended to multiple interacting receivers; analyzes optimal information disclosure mechanisms under strategic complementarities and substitutabilities among receivers",
+      "keyFinding": "The optimal persuasion strategy accounts for the network structure of receiver interactions; senders can exploit strategic complementarities to induce cascading belief changes, and the structure of optimal signals depends critically on whether actions are strategic complements or substitutes",
+      "whyItMatters": "Most real-world persuasion targets audiences whose decisions affect one another—investors, voters, consumers—so ignoring interaction effects leads to suboptimal communication strategies; this work provides a framework for platforms, policymakers, and firms designing information campaigns in networked environments",
+      "isBehavioral": false,
+      "tags": [
+        "Bayesian persuasion",
+        "information design",
+        "strategic interaction",
+        "network effects"
+      ]
+    },
+    {
+      "title": "Pork barrel politics, voter turnout, and inequality: An experimental study",
+      "authors": [
+        "Jens Großer",
+        "Thorsten Giertz"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:830ab70bdbcb",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825624000228?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Jens Großer, Thorsten Giertz",
+      "rq": "Does pork barrel politics affect voter turnout and inequality in resource distribution?",
+      "method": "Laboratory experiment with subjects participating in voting games featuring targeted spending (pork barrel) across different electoral conditions",
+      "keyFinding": "Pork barrel politics distorts voter turnout and leads to unequal resource distribution, with targeted transfers inducing strategic participation that benefits narrow groups at the expense of broader welfare",
+      "whyItMatters": "Reveals a micro-level mechanism linking political targeting strategies to participatory inequality, informing debates on electoral reform and redistributive policy design",
+      "isBehavioral": true,
+      "tags": [
+        "voting",
+        "pork barrel",
+        "inequality",
+        "voter turnout"
+      ]
+    },
+    {
+      "title": "Potentials in social environments",
+      "authors": [
+        "Thomas Demuynck",
+        "P. Jean-Jacques Herings",
+        "Christian Seel"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:b1f5c0fec7a2",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000722?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Thomas Demuynck, P. Jean-Jacques Herings, Christian Seel",
+      "rq": "Under what conditions do social environments admit potential functions, and what do such potentials imply for equilibrium existence and selection?",
+      "method": "Theoretical analysis using the framework of social environments (a generalization covering normal-form games, coalitional games, and matching models); the authors derive necessary and sufficient conditions for the existence of potential functions in this unified setting.",
+      "keyFinding": "Social environments admit a potential when payoff differences from unilateral or coalitional deviations can be captured by a single real-valued function; this generalizes Monderer-Shapley potentials to a broader class of strategic settings and guarantees existence of stable outcomes (equilibria) that maximize the potential.",
+      "whyItMatters": "Unifying potential theory across games, coalitions, and matching markets provides a single toolkit for equilibrium existence and refinement across a wide range of economic models, reducing the need for setting-specific proofs and opening new avenues for welfare analysis.",
+      "isBehavioral": false,
+      "tags": [
+        "game theory",
+        "potential games",
+        "social environments",
+        "equilibrium existence"
+      ]
+    },
+    {
+      "title": "Present-bias and the value of sophistication: Splurging vs. smoothing",
+      "authors": [
+        "Subas Acharya",
+        "David Jimenez-Gomez",
+        "Dmitrii Rachinskii",
+        "Alejandro Rivera"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:a3042dbac990",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000102?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Subas Acharya, David Jimenez-Gomez, Dmitrii Rachinskii, Alejandro Rivera",
+      "rq": "How does present bias affect intertemporal consumption choices, and what is the value of being sophisticated (aware of one's own bias) versus naive when deciding between splurging and consumption smoothing?",
+      "method": "Theoretical model using dynamic optimization with present-biased (quasi-hyperbolic) preferences, comparing sophisticated and naive agents across intertemporal budget allocation problems",
+      "keyFinding": "Sophistication is not always beneficial for present-biased agents: while sophisticated agents can use commitment to avoid future splurging, naivety can sometimes lead to better outcomes by preventing excessive precautionary under-consumption; the value of sophistication depends critically on the economic environment and the degree of present bias",
+      "whyItMatters": "Challenges the conventional wisdom that self-awareness about behavioral biases is uniformly welfare-improving, with direct implications for the design of commitment devices, retirement savings policies, and consumer financial products",
+      "isBehavioral": true,
+      "tags": [
+        "present bias",
+        "quasi-hyperbolic discounting",
+        "sophistication",
+        "naivety"
+      ]
+    },
+    {
+      "title": "Privately designed correlated equilibrium",
+      "authors": [
+        "Guilherme Carmona",
+        "Krittanai Laohakunakorn"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:707ffed1b831",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000205?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Guilherme Carmona, Krittanai Laohakunakorn",
+      "rq": "Can a privately informed designer select a correlated equilibrium that maximizes their own payoff while remaining credible to players who do not observe the designer's type?",
+      "method": "Theoretical game-theoretic analysis; the authors model a Bayesian game in which a designer with private information proposes a correlation device, and players must decide whether to follow recommendations without knowing the designer's type.",
+      "keyFinding": "A privately designed correlated equilibrium exists and can be characterized: the designer can credibly implement payoff-relevant recommendations even with private information, but the set of achievable outcomes is constrained by incentive-compatibility conditions that reflect players' uncertainty about the designer's type.",
+      "whyItMatters": "It extends classical correlated equilibrium theory to settings where the mediator or planner is not a neutral third party but has private interests and private information, which is relevant for understanding regulation, platform design, and any mediated strategic interaction where the mediator's motives are opaque.",
+      "isBehavioral": false,
+      "tags": [
+        "correlated equilibrium",
+        "mechanism design",
+        "private information",
+        "Bayesian games"
+      ]
+    },
+    {
+      "title": "Quantal response equilibrium and rationalizability: Inside the black box",
+      "authors": [
+        "Shuige Liu",
+        "Fabio Maccheroni"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:5ba909944563",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825624000344?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Shuige Liu, Fabio Maccheroni",
+      "rq": "What is the relationship between quantal response equilibrium (QRE) and rationalizability, and what behavioral assumptions drive QRE predictions?",
+      "method": "Theoretical/axiomatic analysis decomposing QRE into its underlying assumptions and connecting it to rationalizable strategies",
+      "keyFinding": "QRE is characterized by a combination of rationalizability and specific probabilistic choice rules; the paper opens the 'black box' of QRE by identifying which behavioral axioms generate its predictions and how it relates to the broader class of rationalizable outcomes",
+      "whyItMatters": "Clarifies the theoretical foundations of one of the most widely used solution concepts in behavioral game theory, helping researchers understand when and why QRE is an appropriate model and how it differs from classical rationality assumptions",
+      "isBehavioral": true,
+      "tags": [
+        "quantal response equilibrium",
+        "rationalizability",
+        "game theory",
+        "solution concepts"
+      ]
+    },
+    {
+      "title": "Quantal response equilibrium as a structural model for estimation: The missing manual",
+      "authors": [
+        "James R. Bland",
+        "Theodore L. Turocy"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:d110bb0fd7cc",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625000211?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): James R. Bland, Theodore L. Turocy",
+      "rq": "How should quantal response equilibrium (QRE) be correctly specified and applied as a structural econometric model for estimating game-theoretic data?",
+      "method": "Theoretical and methodological exposition; the paper reviews identification, estimation, and inference procedures for QRE as a structural model, addressing common misapplications in the literature",
+      "keyFinding": "QRE is frequently misapplied as an estimation tool due to missing or inconsistent guidance; the paper provides a systematic manual clarifying correct model specification, parameter identification, likelihood construction, and inference for QRE-based structural estimation",
+      "whyItMatters": "QRE is one of the most widely used models to explain noisy decision-making in games; fixing methodological inconsistencies improves the reliability of empirical findings across experimental and behavioral economics",
+      "isBehavioral": true,
+      "tags": [
+        "quantal response equilibrium",
+        "structural estimation",
+        "game theory",
+        "econometrics"
+      ]
+    },
+    {
+      "title": "Quantal response equilibrium with a continuum of types: Characterization and nonparametric identification",
+      "authors": [
+        "Evan Friedman",
+        "Duarte Gonçalves"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:282184682e8d",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625000375?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Evan Friedman, Duarte Gonçalves",
+      "rq": "Can quantal response equilibrium (QRE) be extended to settings with a continuum of private types, and is the resulting model nonparametrically identified from observable choice data?",
+      "method": "Theoretical characterization and nonparametric identification analysis of QRE with continuously distributed private information, deriving conditions under which the model's structural components can be recovered from observed behavior",
+      "keyFinding": "The authors characterize QRE with a continuum of types and establish nonparametric identification, showing that the model's primitives—including the distribution of types and error structure—can be uniquely recovered from observable choice probabilities under testable conditions",
+      "whyItMatters": "Extends a workhorse model of bounded rationality to richer incomplete-information environments and provides rigorous identification foundations, enabling credible empirical estimation without imposing arbitrary parametric restrictions on noise distributions",
+      "isBehavioral": true,
+      "tags": [
+        "quantal response equilibrium",
+        "bounded rationality",
+        "private information",
+        "nonparametric identification"
+      ]
+    },
+    {
+      "title": "Reduced strategies and cognitive hierarchies in the extensive and normal form",
+      "authors": [
+        "Pierpaolo Battigalli"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:8849a98b8007",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000618?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Pierpaolo Battigalli",
+      "rq": "How do reduced strategies and cognitive hierarchy models relate across the extensive form and normal form representations of a game?",
+      "method": "Theoretical/analytical — formal game-theoretic analysis comparing reduced strategy spaces with cognitive hierarchy solution concepts in both extensive and normal form games",
+      "keyFinding": "Reduced strategies preserve the essential strategic reasoning of cognitive hierarchy models; the cognitive hierarchy predictions derived in the extensive form are consistent with those derived from the corresponding normal form when reduced strategies are used, resolving a potential tension between the two representations",
+      "whyItMatters": "Clarifies when and why the choice of game representation (extensive vs. normal form) matters for bounded-rationality solution concepts, providing a firmer theoretical foundation for applying cognitive hierarchy models to sequential games",
+      "isBehavioral": true,
+      "tags": [
+        "cognitive hierarchy",
+        "bounded rationality",
+        "extensive form",
+        "normal form"
+      ]
+    },
+    {
+      "title": "Rent dissipation and streamlined costs: Laboratory experiments",
+      "authors": [
+        "Charles A. Holt",
+        "Angela M. Smith"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:fc441f697673",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562300163X?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Charles A. Holt, Angela M. Smith",
+      "rq": "Do streamlined cost structures reduce rent dissipation in contest/auction experiments compared to standard designs?",
+      "method": "Laboratory experiments using controlled contest games where cost structures are varied to isolate their effect on bidding behavior and rent dissipation",
+      "keyFinding": "Streamlined cost structures lead to measurable reductions in rent dissipation, with behavior aligning more closely with Nash equilibrium predictions when costs are simplified",
+      "whyItMatters": "Understanding how cost structure design affects overbidding and waste in contests has implications for auction design, lobbying regulation, and procurement policy",
+      "isBehavioral": true,
+      "tags": [
+        "rent dissipation",
+        "contests",
+        "auction design",
+        "laboratory experiments"
+      ]
+    },
+    {
+      "title": "Representation in collective policymaking",
+      "authors": [
+        "Daniel Gibbs",
+        "Gleason Judd"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:6d2c35d92337",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000412?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Daniel Gibbs, Gleason Judd",
+      "rq": "How does representation of different groups affect outcomes in collective policymaking?",
+      "method": "Formal game-theoretic model analyzing strategic behavior of representatives in collective decision-making settings",
+      "keyFinding": "The composition and structure of representation in collective bodies systematically shapes policy outcomes, with group representation influencing equilibrium policies in predictable ways tied to strategic incentives of delegates",
+      "whyItMatters": "Informs the design of legislative bodies, committees, and other collective institutions by clarifying how representation rules affect whose preferences are reflected in final policies",
+      "isBehavioral": false,
+      "tags": [
+        "collective decision-making",
+        "political economy",
+        "game theory",
+        "representation"
+      ]
+    },
+    {
+      "title": "Repugnant transactions: The role of agency and severe consequences",
+      "authors": [
+        "Hande Erkut",
+        "Dorothea Kübler"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:0ecc5b51b1d4",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000114?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Hande Erkut, Dorothea Kübler",
+      "rq": "Why do people find certain transactions repugnant, and do agency and severity of consequences drive that repugnance?",
+      "method": "Laboratory experiments using economic games to vary whether participants actively choose versus are passively assigned to transactions, and whether outcomes involve severe versus mild consequences",
+      "keyFinding": "Repugnance toward transactions is significantly amplified when individuals exercise agency in entering them and when the consequences are severe; passive assignment reduces moral condemnation even for objectively identical outcomes",
+      "whyItMatters": "Informs market design by clarifying when and why markets for taboo goods face social resistance, helping policymakers distinguish morally contentious transactions that can be reframed from those that cannot",
+      "isBehavioral": true,
+      "tags": [
+        "repugnant markets",
+        "market design",
+        "agency",
+        "moral preferences"
+      ]
+    },
+    {
+      "title": "River-sharing problem with floods",
+      "authors": [
+        "Takayuki Oishi",
+        "Tomoya Tajika"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:3122bee53638",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000667?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Takayuki Oishi, Tomoya Tajika",
+      "rq": "How should water rights and flood costs be allocated among riparian agents sharing a river when both water scarcity and flood risk are present?",
+      "method": "Cooperative game theory; axiomatic characterization of allocation rules for river-sharing problems extended to include flood externalities",
+      "keyFinding": "The paper characterizes fair allocation rules that account for both water benefits and flood damages along a river, identifying axioms under which a unique or restricted class of solutions distributes water rights and flood costs equitably among upstream and downstream users",
+      "whyItMatters": "River management increasingly involves tradeoffs between water scarcity and flood risk; this framework provides principled, strategically stable agreements for transboundary water governance under climate-intensified flood conditions",
+      "isBehavioral": false,
+      "tags": [
+        "cooperative game theory",
+        "river sharing",
+        "flood risk",
+        "axiomatic analysis"
+      ]
+    },
+    {
+      "title": "Sequential unanimity voting rules for binary social choice",
+      "authors": [
+        "Stergios Athanasoglou",
+        "Somouaoga Bonkoungou"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:8bae2f900563",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000229?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Stergios Athanasoglou, Somouaoga Bonkoungou",
+      "rq": "What voting rules for binary social choice satisfy sequential unanimity—a property requiring that if all voters who have not yet 'passed' agree on an option, that option is chosen?",
+      "method": "Axiomatic characterization; the authors derive and prove representation theorems for the class of sequential unanimity voting rules in binary social choice settings.",
+      "keyFinding": "Sequential unanimity voting rules form a tractable and axiomatically well-founded class that can be fully characterized; they generalize standard unanimity and capture a structured sequential consultation process where voters are polled in order until consensus is reached among remaining participants.",
+      "whyItMatters": "Provides a principled foundation for designing fair and efficient collective decision procedures in binary settings, with implications for committee decisions, referenda, and decentralized governance where sequential or layered consensus is operationally natural.",
+      "isBehavioral": false,
+      "tags": [
+        "voting theory",
+        "binary social choice",
+        "axiomatic characterization",
+        "unanimity"
+      ]
+    },
+    {
+      "title": "Strategic formation of production networks",
+      "authors": [
+        "Antoine Mandel",
+        "Van-Quy Nguyen",
+        "Bach Dong-Xuan"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:0f790538f761",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000825?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Antoine Mandel, Van-Quy Nguyen, Bach Dong-Xuan",
+      "rq": "How do self-interested firms strategically form production network links, and what equilibrium network structures emerge?",
+      "method": "Game-theoretic network formation model where firms choose upstream suppliers to minimize costs, analyzed via Nash equilibrium and stability concepts",
+      "keyFinding": "Stable production networks exhibit specific architectural properties—firms internalize only private benefits of linking, leading to under-connection relative to the social optimum, and equilibrium networks tend toward hierarchical or tree-like structures",
+      "whyItMatters": "Understanding endogenous production network formation helps explain real-world supply chain architecture, concentration risk, and why decentralized markets may produce fragile or inefficient input-output structures",
+      "isBehavioral": false,
+      "tags": [
+        "production networks",
+        "network formation",
+        "game theory",
+        "supply chains"
+      ]
+    },
+    {
+      "title": "Strategy vs. direct-response method: evidence from a large online experiment on simple social dilemmas",
+      "authors": [
+        "Marcus Roel",
+        "Zhuoqiong Chen"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:bc10a08f2893",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625001617?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Marcus Roel, Zhuoqiong Chen",
+      "rq": "Do the strategy method and direct-response method produce different behavior in simple social dilemmas?",
+      "method": "Large online experiment randomly assigning participants to either the strategy method or the direct-response method across simple social dilemma games",
+      "keyFinding": "The strategy method and direct-response method yield broadly similar behavioral patterns in simple social dilemmas, with no substantial systematic differences in cooperation or strategic choices between the two elicitation procedures",
+      "whyItMatters": "Validates the widespread use of the strategy method in experimental economics, giving researchers confidence that results obtained via strategy method are comparable to those from direct-response designs in social dilemma contexts",
+      "isBehavioral": true,
+      "tags": [
+        "social dilemmas",
+        "strategy method",
+        "experimental methodology",
+        "cooperation"
+      ]
+    },
+    {
+      "title": "Strategyproof mechanism for two heterogeneous facilities with constant approximation ratio",
+      "authors": [
+        "Minming Li",
+        "Pinyan Lu",
+        "Xingchen Sha",
+        "Yuhao Yao",
+        "Jialin Zhang"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:91b80e145833",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000175?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Minming Li, Pinyan Lu, Xingchen Sha, Yuhao Yao, Jialin Zhang",
+      "rq": "Can a strategyproof mechanism achieve a constant approximation ratio for locating two heterogeneous facilities on a line when agents have single-peaked preferences?",
+      "method": "Theoretical mechanism design; mathematical proofs establishing approximation bounds for deterministic strategyproof mechanisms in a facility location game with two distinct facility types",
+      "keyFinding": "A strategyproof mechanism exists that achieves a constant approximation ratio for the two-heterogeneous-facilities problem, breaking a previously suspected barrier and showing that strategyproofness need not come at an unbounded efficiency cost in this setting",
+      "whyItMatters": "Resolves a key open question in approximate mechanism design without money, demonstrating that fairness and incentive compatibility can coexist with bounded efficiency loss in multi-facility public goods problems",
+      "isBehavioral": false,
+      "tags": [
+        "mechanism design",
+        "facility location",
+        "strategyproofness",
+        "approximation ratio"
+      ]
+    },
+    {
+      "title": "Substitutes for nonunitary many-to-many matching with contracts",
+      "authors": [
+        "Keisuke Bando",
+        "Toshiyuki Hirai"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:31cfc9294bd0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000771?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Keisuke Bando, Toshiyuki Hirai",
+      "rq": "Under what conditions do stable matchings exist in nonunitary many-to-many matching markets with contracts?",
+      "method": "Theoretical analysis extending substitutes conditions to nonunitary many-to-many matching frameworks with contracts, likely using lattice-theoretic and fixed-point arguments",
+      "keyFinding": "The authors characterize generalized substitutes conditions that guarantee the existence of stable matchings in nonunitary many-to-many matching markets with contracts, extending prior results beyond the unitary or one-to-one settings",
+      "whyItMatters": "Many real-world markets involve agents on both sides matching to multiple partners simultaneously under complex contractual terms; establishing stability conditions for these settings informs market design in labor, healthcare, and procurement",
+      "isBehavioral": false,
+      "tags": [
+        "matching theory",
+        "market design",
+        "stability",
+        "contracts"
+      ]
+    },
+    {
+      "title": "Success functions in large contests",
+      "authors": [
+        "Yaron Azrieli",
+        "Christopher P. Chambers"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:1d0058611453",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000242?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Yaron Azrieli, Christopher P. Chambers",
+      "rq": "What contest success functions (CSFs) are consistent with rational behavior in large contests where many players compete?",
+      "method": "Axiomatic/theoretical characterization — the authors derive conditions on success functions from first principles, analyzing limiting behavior as the number of contestants grows large",
+      "keyFinding": "They characterize the class of CSFs that satisfy natural axioms in large contests, showing that only specific functional forms (related to Tullock-type and all-or-nothing rules) are consistent with the imposed rationality and symmetry conditions at scale",
+      "whyItMatters": "Provides a rigorous foundation for choosing among competing CSF specifications in rent-seeking, tournaments, and political economy models, especially when the number of players is large — a common real-world setting",
+      "isBehavioral": false,
+      "tags": [
+        "contest theory",
+        "contest success functions",
+        "axiomatic foundations",
+        "Tullock contest"
+      ]
+    },
+    {
+      "title": "The case for lobbying transparency",
+      "authors": [
+        "Antoine Zerbini"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:7f09ca49b7c3",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000370?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Antoine Zerbini",
+      "rq": "Does mandatory disclosure of lobbying activity improve or worsen policy outcomes and welfare compared to opaque lobbying?",
+      "method": "Formal game-theoretic model analyzing strategic interactions between lobbyists, politicians, and the public under transparency versus opacity regimes",
+      "keyFinding": "Lobbying transparency can improve welfare by reducing the informational advantage of special interests and disciplining politicians, but its benefits depend critically on the alignment between public preferences and social optimum",
+      "whyItMatters": "Informs ongoing policy debates about lobbying disclosure laws by providing a rigorous theoretical basis for when transparency requirements are welfare-enhancing versus counterproductive",
+      "isBehavioral": false,
+      "tags": [
+        "lobbying",
+        "transparency",
+        "political economy",
+        "information disclosure"
+      ]
+    },
+    {
+      "title": "The effect of exit rights on cost-based procurement contracts",
+      "authors": [
+        "Rodrigo Andrade",
+        "Henrique Castro-Pires",
+        "Humberto Moreira"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:7966e873c029",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000655?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Rodrigo Andrade, Henrique Castro-Pires, Humberto Moreira",
+      "rq": "How do exit rights affect the design and outcomes of cost-based procurement contracts when parties can walk away?",
+      "method": "Theoretical model using mechanism design and contract theory with asymmetric information, analyzing optimal procurement contracts under cost reimbursement with exit options",
+      "keyFinding": "Granting buyers or suppliers exit rights alters the structure of optimal cost-based contracts by changing participation constraints, generally reducing information rents but potentially distorting procurement efficiency depending on which party holds the exit option",
+      "whyItMatters": "Informs public procurement policy and private contracting by clarifying when exit clauses improve or harm welfare, particularly relevant for large infrastructure and defense contracts where cost overruns and renegotiation are common",
+      "isBehavioral": false,
+      "tags": [
+        "procurement",
+        "contract theory",
+        "mechanism design",
+        "exit rights"
+      ]
+    },
+    {
+      "title": "The effects of induced emotions on punishment and reward",
+      "authors": [
+        "Michalis Drouvelis",
+        "Brit Grosskopf"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:d67a13359780",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000679?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Michalis Drouvelis, Brit Grosskopf",
+      "rq": "Do incidentally induced emotions (positive vs. negative affect) causally affect individuals' willingness to punish or reward others in strategic settings?",
+      "method": "Laboratory experiment using emotion-induction procedures (e.g., film clips or recall tasks) followed by economic games measuring punishment and reward behavior",
+      "keyFinding": "Induced emotions systematically alter punishment and reward decisions, with negative emotions increasing punishment and positive emotions increasing reward, suggesting affect shapes distributional preferences beyond purely cognitive cost-benefit calculations",
+      "whyItMatters": "Demonstrates that transient emotional states—unrelated to the strategic situation—can distort economic decisions involving sanctions and incentives, with implications for mechanism design, workplace settings, and legal judgment",
+      "isBehavioral": true,
+      "tags": [
+        "emotions",
+        "punishment",
+        "reward",
+        "laboratory experiment"
+      ]
+    },
+    {
+      "title": "The effort-maximizing move order in tullock contests",
+      "authors": [
+        "Lei Gao",
+        "Jingfeng Lu",
+        "Zhewei Wang"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:8e191d39ad61",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000837?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Lei Gao, Jingfeng Lu, Zhewei Wang",
+      "rq": "What move order in Tullock contests maximizes total effort from contestants?",
+      "method": "Theoretical game-theoretic analysis of sequential Tullock contests, deriving equilibrium effort levels under different move orderings",
+      "keyFinding": "A specific move order—likely having the stronger player move first or a particular sequencing rule—maximizes aggregate effort in Tullock contests, outperforming simultaneous and alternative sequential designs",
+      "whyItMatters": "Contest designers (governments, firms, sports organizers) can increase productive effort and competition intensity simply by choosing the right order of play, with no additional prizes or resources",
+      "isBehavioral": false,
+      "tags": [
+        "contests",
+        "Tullock contest",
+        "effort maximization",
+        "move order"
+      ]
+    },
+    {
+      "title": "The evolution of strategies in repeated 2  ×  2 anti-coordination games",
+      "authors": [
+        "Jiabin Wu"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:705cf5526329",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000813?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Jiabin Wu",
+      "rq": "How do strategies evolve over time in repeated 2×2 anti-coordination games where players benefit from choosing opposite actions?",
+      "method": "Evolutionary game theory framework analyzing repeated game strategies under mutation and selection dynamics in 2×2 anti-coordination settings",
+      "keyFinding": "Cooperative and coordinating strategies can emerge and stabilize through evolutionary pressure in anti-coordination environments, with repeated interaction enabling players to sustain equilibria that differ from one-shot Nash outcomes",
+      "whyItMatters": "Explains how repeated social interactions shape behavior in conflict-of-interest settings such as traffic, market entry, and resource sharing, where agents prefer to differentiate rather than match",
+      "isBehavioral": true,
+      "tags": [
+        "evolutionary game theory",
+        "repeated games",
+        "anti-coordination",
+        "strategy evolution"
+      ]
+    },
+    {
+      "title": "The quasi-prekernel for cooperative games",
+      "authors": [
+        "Qianqian Kong",
+        "Hans Peters",
+        "Hao Sun"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:84fe258103de",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000643?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Qianqian Kong, Hans Peters, Hao Sun",
+      "rq": "How can the prekernel solution concept for cooperative games be extended or relaxed to a quasi-prekernel, and what properties does this new concept satisfy?",
+      "method": "Axiomatic and game-theoretic analysis; formal characterization of the quasi-prekernel solution concept using properties such as excess comparisons and bilateral bargaining conditions in transferable utility cooperative games",
+      "keyFinding": "The quasi-prekernel is introduced as a generalization of the classical prekernel for cooperative games, retaining key desirable properties while potentially expanding existence or tractability; it satisfies a relaxed bilateral equilibrium condition that bridges the prekernel and related solution concepts",
+      "whyItMatters": "Refining solution concepts in cooperative game theory improves the tools available for analyzing fair division, cost sharing, and coalition formation in economics and operations research; a quasi-prekernel may be more broadly applicable or computationally accessible than the standard prekernel",
+      "isBehavioral": false,
+      "tags": [
+        "cooperative game theory",
+        "prekernel",
+        "solution concepts",
+        "transferable utility games"
+      ]
+    },
+    {
+      "title": "The refinement of Nash equilibrium based on equilibrium models of imperfectly rational behavior",
+      "authors": [
+        "Rodrigo A. Velez",
+        "Alexander L. Brown"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:682fccfbcdd3",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625000065?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Rodrigo A. Velez, Alexander L. Brown",
+      "rq": "Can models of imperfectly rational behavior provide principled refinements of Nash equilibrium?",
+      "method": "Theoretical analysis linking equilibrium refinement criteria to behavioral equilibrium models such as quantal response equilibrium and logit equilibrium, examining which Nash equilibria survive as limiting cases of imperfect rationality",
+      "keyFinding": "Behavioral equilibrium models that incorporate imperfect rationality systematically select among Nash equilibria, offering a behaviorally grounded refinement criterion that eliminates implausible equilibria without requiring ad hoc trembles or perfection assumptions",
+      "whyItMatters": "Provides a unified framework connecting classical refinement theory to empirically grounded behavioral models, potentially resolving longstanding debates about equilibrium selection by anchoring refinements in observable deviations from rationality",
+      "isBehavioral": true,
+      "tags": [
+        "Nash equilibrium",
+        "equilibrium refinement",
+        "quantal response equilibrium",
+        "bounded rationality"
+      ]
+    },
+    {
+      "title": "Timing and skewness of information revelation: Evidence on information structures and compound lotteries",
+      "authors": [
+        "Enrico Diecidue",
+        "Thomas Langer",
+        "Sven Nolte",
+        "Sebastian Riedmiller",
+        "Judith C. Schneider"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:a1868fe98df1",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000151?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Enrico Diecidue, Thomas Langer, Sven Nolte, Sebastian Riedmiller, Judith C. Schneider",
+      "rq": "How do the timing and skewness of information revelation affect individual decision-making under uncertainty, specifically regarding preferences over information structures and compound lotteries?",
+      "method": "Controlled laboratory experiments examining choices over compound lotteries with varied information timing and skewness of revelation sequences",
+      "keyFinding": "Individuals exhibit systematic preferences over how and when uncertainty is resolved, with skewness of the information revelation sequence playing a significant role alongside timing, suggesting that people care not just about when they learn outcomes but about the shape of the resolution process",
+      "whyItMatters": "Reveals that standard models of information preferences are incomplete by ignoring skewness effects, with implications for how firms, platforms, and policymakers should design feedback and disclosure mechanisms",
+      "isBehavioral": true,
+      "tags": [
+        "information structures",
+        "compound lotteries",
+        "ambiguity",
+        "temporal resolution of uncertainty"
+      ]
+    },
+    {
+      "title": "Transaction fee mechanisms robust to welfare-increasing collusion",
+      "authors": [
+        "Yotam Gafni",
+        "Aviv Yaish"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:a9fe7b046b12",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000266?dgcid=rss_sd_all",
+      "abstract": "Publication date: March 2026Source: Games and Economic Behavior, Volume 157Author(s): Yotam Gafni, Aviv Yaish",
+      "rq": "What transaction fee mechanisms can remain robust even when miners and users collude in welfare-increasing ways?",
+      "method": "Theoretical mechanism design and game-theoretic analysis of blockchain transaction fee mechanisms, examining collusion-proofness conditions under welfare-improving coalitions",
+      "keyFinding": "It is possible to design transaction fee mechanisms that are robust to welfare-increasing collusion—where miners and users coordinate to mutual benefit—without sacrificing other desirable properties, challenging the assumption that collusion-proofness and efficiency are incompatible",
+      "whyItMatters": "Blockchain fee markets like Ethereum's EIP-1559 are vulnerable to miner-user collusion; this work provides a formal framework for designing more robust mechanisms that preserve social welfare while resisting strategic manipulation",
+      "isBehavioral": false,
+      "tags": [
+        "mechanism design",
+        "blockchain",
+        "transaction fees",
+        "collusion-proofness"
+      ]
+    },
+    {
+      "title": "Transparency and Information Acquisition in College Admissions",
+      "authors": [
+        "Youngwoo Koh",
+        "Wooyoung Lim"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:2b84d7fe9384",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000886?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 25 May 2026Source: Games and Economic BehaviorAuthor(s): Youngwoo Koh, Wooyoung Lim",
+      "rq": "Does greater transparency in college admissions criteria affect how much effort students invest in acquiring information about their own qualifications?",
+      "method": "Formal game-theoretic model analyzing strategic information acquisition by applicants under varying levels of admissions transparency",
+      "keyFinding": "Increased transparency in admissions criteria can reduce students' incentives to acquire costly information about their own types, potentially leading to welfare-ambiguous outcomes where transparency does not straightforwardly benefit all parties",
+      "whyItMatters": "Informs ongoing policy debates about college admissions reform and holistic vs. transparent criteria, revealing unintended consequences of disclosure mandates on applicant behavior and market efficiency",
+      "isBehavioral": false,
+      "tags": [
+        "college admissions",
+        "information acquisition",
+        "transparency",
+        "mechanism design"
+      ]
+    },
+    {
+      "title": "Two-player binary global games without dominance solvable states",
+      "authors": [
+        "In-Uck Park",
+        "Efthymios Smyrniotis"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:5dc5f94f57a0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000783?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): In-Uck Park, Efthymios Smyrniotis",
+      "rq": "Under what conditions do two-player binary global games lack dominance-solvable states, and what does this imply for equilibrium selection?",
+      "method": "Theoretical analysis of global games framework; characterization of parameter regions where iterated elimination of dominated strategies fails to yield a unique solution in two-player binary-action settings",
+      "keyFinding": "There exist configurations of two-player binary global games in which no dominance-solvable states exist, meaning the standard global games refinement cannot pin down a unique equilibrium through iterated dominance arguments alone",
+      "whyItMatters": "Challenges the conventional wisdom that global games generically deliver unique equilibrium predictions via dominance solvability; has implications for coordination models in banking, currency crises, and other binary-action strategic environments",
+      "isBehavioral": false,
+      "tags": [
+        "global games",
+        "equilibrium selection",
+        "dominance solvability",
+        "coordination"
+      ]
+    },
+    {
+      "title": "Welfare properties of the Taiwan mechanism",
+      "authors": [
+        "Ilan Wolff"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:eb8d996ddf65",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825625001678?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Ilan Wolff",
+      "rq": "What are the welfare properties of the Taiwan mechanism, a particular matching or allocation procedure?",
+      "method": "Theoretical analysis using mechanism design and social choice frameworks to evaluate welfare outcomes of the Taiwan mechanism",
+      "keyFinding": "The Taiwan mechanism exhibits specific welfare properties—likely including efficiency or fairness characterizations—that distinguish it from alternative mechanisms in its class",
+      "whyItMatters": "Understanding the welfare implications of real-world allocation mechanisms helps policymakers design or reform systems to better serve participants, particularly in education or public resource allocation contexts",
+      "isBehavioral": false,
+      "tags": [
+        "mechanism design",
+        "matching",
+        "welfare",
+        "allocation"
+      ]
+    },
+    {
+      "title": "When information and communication are both costly",
+      "authors": [
+        "Shahir Safi"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:d5f0b5774c14",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000746?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Shahir Safi",
+      "rq": "How do optimal communication strategies change when both acquiring information and communicating it are costly?",
+      "method": "Formal game-theoretic model with a sender-receiver framework incorporating dual costs for information acquisition and communication simultaneously",
+      "keyFinding": "When both information and communication are costly, agents strategically limit the precision and quantity of information they transmit, leading to equilibria with coarser communication than when only one cost is present; the interaction between the two costs creates non-trivial trade-offs that reduce overall information transmission relative to single-cost benchmarks",
+      "whyItMatters": "Most real-world communication involves both acquiring and transmitting information, yet models typically treat only one cost; understanding joint costs has implications for optimal organizational design, media markets, and regulatory disclosure policy",
+      "isBehavioral": false,
+      "tags": [
+        "information economics",
+        "cheap talk",
+        "costly communication",
+        "information acquisition"
+      ]
+    },
+    {
+      "title": "When is it (im)possible to respect all individuals’ preferences under uncertainty?",
+      "authors": [
+        "Kensei Nakamura"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-06-01",
+      "doi": "hash:420fe3cbf044",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626000400?dgcid=rss_sd_all",
+      "abstract": "Publication date: June 2026Source: Games and Economic Behavior, Volume 158Author(s): Kensei Nakamura",
+      "rq": "Under what conditions can a social preference ordering respect every individual's preferences when choices involve uncertainty?",
+      "method": "Axiomatic/theoretical analysis examining compatibility conditions between individual and social preferences under uncertainty, building on social choice and expected utility frameworks",
+      "keyFinding": "It is generally impossible to aggregate individual preferences under uncertainty into a coherent social preference that respects all individuals simultaneously, except under highly restrictive conditions; the paper characterizes precisely when such aggregation is and is not feasible",
+      "whyItMatters": "Clarifies fundamental limits of welfare economics and social choice under risk, with implications for cost-benefit analysis, policy evaluation, and the design of collective decision rules when individuals have heterogeneous beliefs or risk attitudes",
+      "isBehavioral": false,
+      "tags": [
+        "social choice",
+        "uncertainty",
+        "preference aggregation",
+        "Pareto conditions"
+      ]
+    },
+    {
+      "title": "A systematic overview and second-order meta-analysis of nature-based interventions for stress, anxiety and depression",
+      "authors": [
+        "Esmaeel Saeedy Robat",
+        "Mohammad Hossein Bayazi",
+        "Mahdi Nayyeri",
+        "Ali Asghar Yasaghi",
+        "Saeed Taimory"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-05-28",
+      "doi": "hash:fe4792adc514",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02433-4",
+      "abstract": "Nature Human Behaviour, Published online: 28 May 2026; doi:10.1038/s41562-026-02433-4This systematic overview and second-order meta-analysis shows that nature-based interventions effectively reduce anxiety and depression while enhancing relaxation and positive affect.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Methodological considerations for evaluating policy impacts on transgender and non-binary youth suicidality",
+      "authors": [
+        "J. Cohn",
+        "Peter Sim",
+        "Kathleen F. Kerr"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-05-28",
+      "doi": "hash:133ad7457df8",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02467-8",
+      "abstract": "Nature Human Behaviour, Published online: 28 May 2026; doi:10.1038/s41562-026-02467-8Methodological considerations for evaluating policy impacts on transgender and non-binary youth suicidality",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Reply to: Methodological considerations for evaluating policy impacts on transgender and non-binary youth suicidality",
+      "authors": [
+        "Wilson Y. Lee",
+        "J. Nicholas Hobbs",
+        "Steven Hobaica",
+        "Jonah P. DeChants",
+        "Myeshia N. Price",
+        "Ronita Nath"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-05-28",
+      "doi": "hash:3d780a8d39fb",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02478-5",
+      "abstract": "Nature Human Behaviour, Published online: 28 May 2026; doi:10.1038/s41562-026-02478-5Reply to: Methodological considerations for evaluating policy impacts on transgender and non-binary youth suicidality",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "The healing power of nature reduces stress, anxiety and depression",
+      "authors": [],
+      "journal": "NatureHB",
+      "publishedDate": "2026-05-28",
+      "doi": "hash:4aa7230deafd",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02434-3",
+      "abstract": "Nature Human Behaviour, Published online: 28 May 2026; doi:10.1038/s41562-026-02434-3A global analysis of more than 3,800 studies that involved over 10 million people shows that contact with nature reduces symptoms of anxiety and depression while promoting relaxation. The findings strengthen the case for integrating natural environments into mental-health strategies and urban planning policies, although rigorous trials are needed to guide practice and policy.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Thalamic oscillations distinguish natural states of consciousness in humans",
+      "authors": [
+        "Aditya Chowdhury",
+        "Xiongbo Wu",
+        "Tara Beilner",
+        "Thomas Schreiner",
+        "Thomas Koeglsperger",
+        "Jan-Hinnerk Mehrkens",
+        "Jan Remi",
+        "Christian Vollmar",
+        "Elisabeth Kaufmann",
+        "Tobias Staudigl"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-05-27",
+      "doi": "hash:6cf5ae18c82e",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02446-z",
+      "abstract": "Nature Human Behaviour, Published online: 27 May 2026; doi:10.1038/s41562-026-02446-zChowdhury et al. report the discovery of a 19–45-Hz thalamic oscillation that is present during human wakefulness and REM sleep, but not NREM sleep.",
+      "rq": "Can distinct neural oscillatory signatures in the thalamus reliably differentiate natural states of human consciousness such as wakefulness, REM sleep, and NREM sleep?",
+      "method": "Intracranial electrophysiological recording of thalamic activity in human subjects across natural sleep-wake cycles, identifying oscillatory frequency bands associated with each consciousness state",
+      "keyFinding": "A 19–45-Hz thalamic oscillation is present during wakefulness and REM sleep but absent during NREM sleep, providing a neural marker that distinguishes conscious from unconscious states",
+      "whyItMatters": "Identifying a reliable thalamic biomarker of consciousness has implications for diagnosing disorders of consciousness, understanding anesthesia, and advancing brain-computer interfaces; it also reinforces the thalamus as a central hub in consciousness research",
+      "isBehavioral": false,
+      "tags": [
+        "neuroscience",
+        "consciousness",
+        "sleep",
+        "thalamus"
+      ]
+    }
+  ],
+  "journalOrder": [
+    "AER",
+    "QJE",
+    "JPE",
+    "Econometrica",
+    "REStud",
+    "AEJ-Applied",
+    "AEJ-Micro",
+    "AEJ-Policy",
+    "REStat",
+    "JEEA",
+    "EJ",
+    "NBER",
+    "ExpEcon",
+    "ManagementScience",
+    "JEBO",
+    "GEB",
+    "PsychScience",
+    "NatureHB",
+    "JExpPsychGen",
+    "AEJ-Macro",
+    "Other"
+  ],
+  "journalCounts": {
+    "JPE": 3,
+    "ManagementScience": 10,
+    "JEBO": 23,
+    "GEB": 79,
+    "NatureHB": 5
+  },
+  "feedDiagnostics": [
+    {
+      "journal": "AER",
+      "url": "https://www.aeaweb.org/journals/aer/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "QJE",
+      "url": "https://academic.oup.com/rss/site_5504/3365.xml",
+      "status": 200,
+      "totalEntries": 16,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JPE",
+      "url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
+      "status": 200,
+      "totalEntries": 15,
+      "recentEntries": 3,
+      "error": ""
+    },
+    {
+      "journal": "REStud",
+      "url": "https://academic.oup.com/rss/site_5508/3369.xml",
+      "status": 200,
+      "totalEntries": 21,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "Econometrica",
+      "url": "https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss",
+      "status": 200,
+      "totalEntries": 14,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Applied",
+      "url": "https://www.aeaweb.org/journals/app/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Micro",
+      "url": "https://www.aeaweb.org/journals/mic/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Macro",
+      "url": "https://www.aeaweb.org/journals/mac/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Policy",
+      "url": "https://www.aeaweb.org/journals/pol/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "REStat",
+      "url": "https://direct.mit.edu/rest/pages/rss.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JEEA",
+      "url": "https://academic.oup.com/rss/site_5523/3388.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "EJ",
+      "url": "https://academic.oup.com/rss/site_5488/3348.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "ExpEcon",
+      "url": "https://link.springer.com/search.rss?facet-journal-id=10683",
+      "status": 200,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "ManagementScience",
+      "url": "https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc",
+      "status": 200,
+      "totalEntries": 388,
+      "recentEntries": 10,
+      "error": ""
+    },
+    {
+      "journal": "JEBO",
+      "url": "https://rss.sciencedirect.com/publication/science/01672681",
+      "status": 200,
+      "totalEntries": 23,
+      "recentEntries": 23,
+      "error": ""
+    },
+    {
+      "journal": "GEB",
+      "url": "https://rss.sciencedirect.com/publication/science/08998256",
+      "status": 200,
+      "totalEntries": 79,
+      "recentEntries": 79,
+      "error": ""
+    },
+    {
+      "journal": "NBER",
+      "url": "https://nber.org/rss/new_working_papers.xml",
+      "status": 301,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "PsychScience",
+      "url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=pssa&type=etoc&feed=rss",
+      "status": 200,
+      "totalEntries": 10,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "NatureHB",
+      "url": "https://www.nature.com/nathumbehav.rss",
+      "status": 200,
+      "totalEntries": 8,
+      "recentEntries": 5,
+      "error": ""
+    },
+    {
+      "journal": "JExpPsychGen",
+      "url": "https://www.apa.org/pubs/journals/xge/rss.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    }
+  ]
+}
