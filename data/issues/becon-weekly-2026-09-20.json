@@ -1,0 +1,197 @@
+{
+  "title": "Behavioral & Experimental Economics Weekly",
+  "weekOf": "2026-09-20",
+  "publishDate": "2026-09-20",
+  "issueNumber": 13,
+  "intro": {
+    "kicker": "Editor's Note",
+    "text": "This week we tracked 0 papers across major economics and related journals."
+  },
+  "papers": [],
+  "journalOrder": [
+    "AER",
+    "QJE",
+    "JPE",
+    "Econometrica",
+    "REStud",
+    "AEJ-Applied",
+    "AEJ-Micro",
+    "AEJ-Policy",
+    "REStat",
+    "JEEA",
+    "EJ",
+    "NBER",
+    "ExpEcon",
+    "ManagementScience",
+    "JEBO",
+    "GEB",
+    "PsychScience",
+    "NatureHB",
+    "JExpPsychGen",
+    "AEJ-Macro",
+    "Other"
+  ],
+  "journalCounts": {},
+  "feedDiagnostics": [
+    {
+      "journal": "AER",
+      "url": "https://www.aeaweb.org/journals/aer/issues/rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "QJE",
+      "url": "https://academic.oup.com/rss/site_5504/3365.xml",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JPE",
+      "url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "REStud",
+      "url": "https://academic.oup.com/rss/site_5508/3369.xml",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "Econometrica",
+      "url": "https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Applied",
+      "url": "https://www.aeaweb.org/journals/app/issues/rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Micro",
+      "url": "https://www.aeaweb.org/journals/mic/issues/rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Macro",
+      "url": "https://www.aeaweb.org/journals/mac/issues/rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Policy",
+      "url": "https://www.aeaweb.org/journals/pol/issues/rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "REStat",
+      "url": "https://direct.mit.edu/rest/pages/rss.xml",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JEEA",
+      "url": "https://academic.oup.com/rss/site_5523/3388.xml",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "EJ",
+      "url": "https://academic.oup.com/rss/site_5488/3348.xml",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "ExpEcon",
+      "url": "https://link.springer.com/search.rss?facet-journal-id=10683",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "ManagementScience",
+      "url": "https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JEBO",
+      "url": "https://rss.sciencedirect.com/publication/science/01672681",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "GEB",
+      "url": "https://rss.sciencedirect.com/publication/science/08998256",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "NBER",
+      "url": "https://nber.org/rss/new_working_papers.xml",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "PsychScience",
+      "url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=pssa&type=etoc&feed=rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "NatureHB",
+      "url": "https://www.nature.com/nathumbehav.rss",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JExpPsychGen",
+      "url": "https://www.apa.org/pubs/journals/xge/rss.xml",
+      "status": null,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    }
+  ]
+}

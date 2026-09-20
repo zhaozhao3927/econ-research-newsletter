@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Behavioral &amp; Experimental Economics Weekly - 2026-09-20</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; background: #f6f3ed; color: #222; }
+    .card { background: #fff; border: 1px solid #ddd; padding: 1rem; border-radius: 8px; margin: 1rem 0; }
+    .meta { color: #666; font-size: 0.9rem; margin-bottom: 0.5rem; }
+    .authors { color: #444; font-size: 0.95rem; margin: 0.4rem 0 0.7rem; }
+    .filters { margin: 1rem 0 1.25rem; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .filter-btn {
+      border: 1px solid #bbb;
+      background: #fff;
+      color: #222;
+      border-radius: 999px;
+      padding: 0.35rem 0.8rem;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    .filter-btn.active {
+      background: #222;
+      color: #fff;
+      border-color: #222;
+    }
+    .summary-note { color: #444; margin-bottom: 0.8rem; }
+    .diagnostics { margin-top: 2rem; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; }
+    .diagnostics h3 { margin-top: 0; }
+    .diag-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+    .diag-table th, .diag-table td { border-bottom: 1px solid #eee; padding: 0.45rem 0.4rem; text-align: left; vertical-align: top; }
+    .diag-ok { color: #2e7d32; }
+    .diag-err { color: #b71c1c; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <h1>Behavioral &amp; Experimental Economics Weekly</h1>
+  <p>Issue #13 | 2026-09-20</p>
+  <p><a href="../index.html">Archive</a></p>
+  <h3>Editor&#39;s Note</h3>
+  <p>This week we tracked 0 papers across major economics and related journals.</p>
+  <div id="filter-summary" class="summary-note">Showing all updates: 0</div>
+  <div class="filters">
+    <button class="filter-btn active" data-journal="all" type="button">
+      All Journals (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="AER" type="button">
+      AER (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="QJE" type="button">
+      QJE (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="JPE" type="button">
+      JPE (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="Econometrica" type="button">
+      Econometrica (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="REStud" type="button">
+      REStud (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="AEJ-Applied" type="button">
+      AEJ-Applied (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="AEJ-Micro" type="button">
+      AEJ-Micro (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="AEJ-Policy" type="button">
+      AEJ-Policy (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="REStat" type="button">
+      REStat (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="JEEA" type="button">
+      JEEA (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="EJ" type="button">
+      EJ (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="NBER" type="button">
+      NBER (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="ExpEcon" type="button">
+      ExpEcon (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="ManagementScience" type="button">
+      ManagementScience (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="JEBO" type="button">
+      JEBO (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="GEB" type="button">
+      GEB (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="PsychScience" type="button">
+      PsychScience (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="NatureHB" type="button">
+      NatureHB (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="JExpPsychGen" type="button">
+      JExpPsychGen (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="AEJ-Macro" type="button">
+      AEJ-Macro (0)
+    </button>
+    
+    <button class="filter-btn" data-journal="Other" type="button">
+      Other (0)
+    </button>
+    
+  </div>
+  
+  <script>
+    (function () {
+      const buttons = Array.from(document.querySelectorAll(".filter-btn"));
+      const cards = Array.from(document.querySelectorAll(".card[data-journal]"));
+      const summary = document.getElementById("filter-summary");
+
+      function applyFilter(journal) {
+        let shown = 0;
+        cards.forEach((card) => {
+          const match = journal === "all" || card.dataset.group === journal;
+          card.style.display = match ? "" : "none";
+          if (match) shown += 1;
+        });
+        buttons.forEach((btn) => {
+          btn.classList.toggle("active", btn.dataset.journal === journal);
+        });
+        if (summary) {
+          if (journal === "all") {
+            summary.textContent = `Showing all updates: ${shown}`;
+          } else {
+            summary.textContent = `Showing ${journal} updates: ${shown}`;
+          }
+        }
+      }
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => applyFilter(btn.dataset.journal));
+      });
+    })();
+  </script>
+  
+  <div class="diagnostics">
+    <h3>Feed Diagnostics</h3>
+    <p class="meta">Use this table to distinguish "no new papers this week" from "feed fetch failed".</p>
+    <table class="diag-table">
+      <thead>
+        <tr>
+          <th>Journal</th>
+          <th>Recent (7d)</th>
+          <th>Total Feed Items</th>
+          <th>Status</th>
+          <th>Error</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr>
+          <td>AER</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>QJE</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>JPE</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>REStud</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>Econometrica</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>AEJ-Applied</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>AEJ-Micro</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>AEJ-Macro</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>AEJ-Policy</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>REStat</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>JEEA</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>EJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>ExpEcon</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>ManagementScience</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>JEBO</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>GEB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>NBER</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>PsychScience</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>NatureHB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+        <tr>
+          <td>JExpPsychGen</td>
+          <td>0</td>
+          <td>0</td>
+          <td>n/a</td>
+          <td class="diag-ok">ok</td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </div>
+  
+</body>
+</html>
