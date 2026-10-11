@@ -1,0 +1,1784 @@
+{
+  "title": "Behavioral & Experimental Economics Weekly",
+  "weekOf": "2026-10-11",
+  "publishDate": "2026-10-11",
+  "issueNumber": 14,
+  "intro": {
+    "kicker": "Editor's Note",
+    "text": "This week we tracked 84 papers across major economics and related journals."
+  },
+  "papers": [
+    {
+      "title": "Collective Activism",
+      "authors": [
+        "Craig Doidge",
+        "Alexander Dyck",
+        "Liyan Yang"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-10-09",
+      "doi": "10.1287/mnsc.2025.02975",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.02975?af=R",
+      "abstract": "Can investor stewardship codes that call for coordinated activism be satisfied by an Investor Collective Action Organization (ICAO)? In an ICAO, investors work collectively, like a large shareholder, to monitor management and increase value. We analyze the endogenous formation of an ICAO and its equilibrium size, considering free-rider problems and coordination costs. While the ICAO overcomes free-rider problems among its members, it exacerbates them between the ICAO and solo activists. The benefit of joining an ICAO is hump-shaped in size. With moderate coordination costs, ICAO formation features multiple equilibria. Small changes in coordination costs significantly influence ICAO formation and activism.\n This paper was accepted by Will Cong, finance.\n Funding: L. Yang thanks the support from the Social Sciences and Humanities Research Council of Canada [Grants 435-2021-0040, 435-2026-0060] and the Bank of Canada [Fellowship].\n Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.02975 .",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Predicted Incrementality by Experimentation for Ad Measurement",
+      "authors": [
+        "Brett R. Gordon",
+        "Robert Moakler",
+        "Florian Zettelmeyer"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-10-08",
+      "doi": "10.1287/mnsc.2023.01108",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.01108?af=R",
+      "abstract": "Randomized controlled trials (RCTs) provide the most credible estimates of advertising incrementality but are difficult to scale. We propose Predicted Incrementality by Experimentation (PIE), which reframes ad measurement as a campaign-level prediction problem. PIE uses a sample of RCTs to learn a mapping from campaign features to causal effects, then applies it to campaigns not run as RCTs. Because the RCTs identify the causal effects, PIE can incorporate post-determined features—campaign-level aggregates such as test-group outcomes, exposure rates, and last-click conversions, computed after campaign completion. These metrics reflect the consumer behaviors that generate treatment effects, so they carry predictive information about incrementality, even though they would be invalid controls in a causal model. Using 2,226 Meta ad experiments, PIE achieves an out-of-sample [Formula: see text] for incremental conversions per dollar, compared with [Formula: see text] for industry-standard seven-day last-click attribution. In a decision-making framework, PIE disagrees with RCT-based decisions in only 8%–12% of campaigns, compared with 12%–20% for last-click attribution. We conclude that PIE can help scale causal measurement from a limited number of RCTs to a large set of nonexperimental campaigns.\n This paper was accepted by Raphael Thomadsen, marketing.\n Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01108 .",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Personalization, Engagement, and Content Quality on Social Media: An Evaluation of Reddit’s News Feed",
+      "authors": [
+        "Alex Moehring"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-10-07",
+      "doi": "10.1287/mnsc.2024.06298",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06298?af=R",
+      "abstract": "Digital platforms increasingly curate their content through personalized algorithmic feeds. Platforms have an incentive to promote content that increases the predicted engagement of each user to lift advertising revenues. This paper studies how ranking content to maximize engagement affects the credibility of news content with which users engage. In addition, I evaluate how the ranking algorithm itself can be designed to promote engagement with high-credibility content. Using data from the Reddit politics community, I exploit a novel discontinuity in the ranking algorithm to identify the causal effect of a post’s rank on the number of comments it receives. I use this discontinuity to identify a model of user comment decisions and estimate the credibility of news content that users engage with under a personalized engagement-maximizing algorithm. The personalized engagement-maximizing algorithm exacerbates differences in the credibility of news content with which users engage. I then evaluate a credibility-aware algorithm that explicitly promotes credible news publishers and find the platform can substantially increase the share of engagement with high-credibility publishers for a small reduction in total engagement. These findings suggest algorithmic interventions can be a useful tool for managers to balance engagement quantity and content quality.\n This paper was accepted by Hemant Bhargava, information systems.\n Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.06298 .",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Using Representation Learning and Website Text to Identify Competitor Networks",
+      "authors": [
+        "Gerard Hoberg",
+        "Craig Knoblock",
+        "Gordon Phillips",
+        "Jay Pujara",
+        "Zhiqiang Qiu",
+        "Louiqa Raschid"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-10-07",
+      "doi": "10.1287/mnsc.2024.06516",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06516?af=R",
+      "abstract": "This paper introduces a new approach to identify competitors using company websites to map competitive relationships among public and private firms. We apply representation learning techniques to create embeddings of companies based on website content, emphasizing information about industry-specific products and services. By placing all firms, public and private, within the same embedding space, we construct a peer competitor network that supports analysis of company interactions and market evolution. We label this new approach and set of network competitors as the website text-based network industry classification (WTNIC). We evaluate the quality of the network using multiple ground truth datasets and benchmarks and show that it offers a robust alternative for understanding competition at scale. Despite using noisy website data, WTNIC matches or outperforms prior approaches that rely on curated data. We demonstrate the value of WTNIC through a case study examining how competition from China affects the public and private peers of a focal firm, highlighting the importance of placing both public and private companies within the same embedding space.\n Funding: This work was supported by the National Science Foundation [Grants 1561068 and 1937153], the Tuck School of Business at Dartmouth College, the USC Marshall Institute for Outlier Research in Business (iORB), and the Smith School of Business at the University of Maryland.\n Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06516 .",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Money Creation for Crypto Space: Stablecoins or Central Bank Digital Currencies?",
+      "authors": [
+        "Jonathan Chiu",
+        "Cyril Monnet"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-10-06",
+      "doi": "10.1287/mnsc.2024.08420",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.08420?af=R",
+      "abstract": "Stablecoins are the current go-to digital money to settle transactions on the blockchain. We explore the implications of introducing competing tokenized public digital monies (i.e., tokenized central bank digital currencies (CBDCs)). When they pay a moderate interest rate and guarantee users’ anonymity, tokenized CBDCs crowd out stablecoins. However, when they pay a high interest rate and have low anonymity features, stablecoin issuers could use tokenized CBDCs as collateral, promoting the creation of stablecoins. We identify conditions under which introducing a CBDC to compete with stablecoins in the crypto sector would be socially optimal.\n This paper was accepted by Will Cong for the Virtual Special Issue on Digital Finance.\n Funding: Support from Swiss National Science Foundation (SNSF) [Grant 100018 219835].",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Trading Off Business and Family Investments: Evidence from U.S. Entrepreneurial Households",
+      "authors": [
+        "Olivia S. Kim"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-10-06",
+      "doi": "10.1287/mnsc.2024.04789",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.04789?af=R",
+      "abstract": "Investing in children’s human capital reduces business investments for U.S. entrepreneurial households. Using financial account data of 90,000 small businesses linked to their owners and a regression discontinuity design that compares the business performance of households with college-aged dependents (18–22) to those with near-college-aged dependents (14–17), I show that business revenues and expenses decline sharply when owners’ children reach age 18. Despite the declines, profitability and productivity remain largely unaffected, suggesting a general downsizing rather than a loss in efficiency. Heterogeneity analysis shows that downsizing is concentrated among highly indebted owner households and businesses with volatile cash flows. For each dollar increase in household spending associated with a child turning 18, business expenses decline by $2.26. These findings are consistent with entrepreneurial parents reallocating capital from business investments toward their children’s human capital, as both compete for the same pool of internal family financial resources.\n This paper was accepted by Camelia Kuhnen, finance.\n Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04789 .",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "The Welfare Effects of Selling Leads in a Two-Sided Marketplace",
+      "authors": [
+        "Peng Shi"
+      ],
+      "journal": "ManagementScience",
+      "publishedDate": "2026-10-05",
+      "doi": "10.1287/mnsc.2024.07399",
+      "sourceUrl": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.07399?af=R",
+      "abstract": "Digital platforms that connect customers with service providers often monetize by selling customer leads to interested providers. Examples include Bark, Google Local Services, HomeAdvisor, Modernize, Porch, and Thumbtack. This paper develops a game-theoretic model to analyze how lead pricing affects customer and provider welfare. When the platform raises the fee-per-lead for a customer-type, those customers—conditional on receiving the same number of provider quotes—are quoted lower prices. However, if the fee is sufficiently high, providers purchase fewer of these leads, which can reduce the number of quotes and diminish customer surplus. To maximize social welfare, a simple policy that sets a market-clearing fee-per-lead for each customer-type guarantees at least [Formula: see text] of the first-best welfare and at least [Formula: see text] of the welfare under the welfare-optimal fees. The first-best outcome can be achieved by subsidizing providers for each job well done, so that experienced providers with cheaper sources of leads do not exit the platform. Understanding these welfare trade-offs can help platforms design policies that support balanced marketplace growth and preserve a sustainable revenue stream. This paper was accepted by Srikanth Jagabathula, market design, platform, and demand analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07399 .",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "A new partial-equilibrium approach to approximating the welfare effects of market power and taxes",
+      "authors": [
+        "Till Gross",
+        "Paul Klein"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:b021b14e7d94",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003343?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Till Gross, Paul Klein",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "A walk down memory lane: How memories influence stock investment and information processing",
+      "authors": [
+        "Giovanni Burro",
+        "Alessandro Castagnetti",
+        "Alessandra Cillo",
+        "Giovanni Paolo Crespi"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:89db3dd54b13",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003471?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Giovanni Burro, Alessandro Castagnetti, Alessandra Cillo, Giovanni Paolo Crespi",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Ancestral origins of democratic preferences: The role of state experience",
+      "authors": [
+        "Jaeyoung Hur",
+        "Yeonha Jung"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:bf073950cd0f",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003409?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Jaeyoung Hur, Yeonha Jung",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Annual overseas migration and housing markets: Evidence from Australian neighborhoods",
+      "authors": [
+        "Marcel Peruffo",
+        "Madeleine Check"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:150331cbe270",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003112?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Marcel Peruffo, Madeleine Check",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Approximately efficient resource allocation: A theoretical and experimental evaluation",
+      "authors": [
+        "Nicole Immorlica",
+        "Robizon Khubulashvili",
+        "Sera Linardi",
+        "Brendan Lucier",
+        "Joshua Mollner",
+        "Glen Weyl"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:6b671598cfc7",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003379?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Nicole Immorlica, Robizon Khubulashvili, Sera Linardi, Brendan Lucier, Joshua Mollner, Glen Weyl",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Biometric responses to unjustified and justified-envy in school choice allocations",
+      "authors": [
+        "Valon Vitaku",
+        "Alexander L. Brown",
+        "Marco A. Palma"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:6a428e697e0c",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003835?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Valon Vitaku, Alexander L. Brown, Marco A. Palma",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Communication failure: The hidden face of the tragedy of the commons",
+      "authors": [
+        "Philippe Colo",
+        "Guillaume Pommey"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:26e75999ab16",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003616?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Philippe Colo, Guillaume Pommey",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Competing for commoditization or platforming for de-commoditization: The role of salient thinking",
+      "authors": [
+        "Qingyuan Zhu",
+        "Jiong Sun",
+        "Guowei Liu"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:0d85bc1db7b6",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003446?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Qingyuan Zhu, Jiong Sun, Guowei Liu",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Consumer sophistication and firm strategy when social feedback is untrustworthy",
+      "authors": [
+        "Bikram Ghosh",
+        "Michael R. Galbreth"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:fc6f6fd60589",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003811?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Bikram Ghosh, Michael R. Galbreth",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Coordination and leadership: The impact of artificial intelligence",
+      "authors": [
+        "Maria Bigoni",
+        "Damiano Paoli"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:a72f88072785",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003549?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Maria Bigoni, Damiano Paoli",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Corporate contributions and political selection: Evidence from Brazil",
+      "authors": [
+        "Julieta Peveri"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:85b69949e4b2",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003422?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Julieta Peveri",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Diversity in teams: Collaboration and performance in experiments with different tasks",
+      "authors": [
+        "Ornella Darova",
+        "Anne Duchene"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:968913079d78",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003069?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Ornella Darova, Anne Duchene",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Do individualists and collectivists cooperate differently?",
+      "authors": [
+        "Aidin Hajikhameneh",
+        "Erik O. Kimbrough",
+        "Brock Stoddard"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:050746cdba6f",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003203?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Aidin Hajikhameneh, Erik O. Kimbrough, Brock Stoddard",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Do you remember? Prosocial behavior declines in memory-based decisions",
+      "authors": [
+        "Sebastian Olschewski"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:36bbc22322e3",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003227?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Sebastian Olschewski",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Does LaTeX enhance perceptions of research quality in economics?",
+      "authors": [
+        "Alexander James",
+        "Tyler Kjorstad"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:8040fa3d3daa",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003392?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Alexander James, Tyler Kjorstad",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Does happiness spread within organizations? Evidence from a field experiment in Norway",
+      "authors": [
+        "Torbjørn Hanson",
+        "Åshild A. Johnsen",
+        "Andreas Kotsadam",
+        "Alberto Prati"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:7c86929cda85",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003100?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Torbjørn Hanson, Åshild A. Johnsen, Andreas Kotsadam, Alberto Prati",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Does slow strategizing indicate optimal behavior or uncertainty?",
+      "authors": [
+        "Ian Krajbich"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:bae2b9ba0f4f",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003173?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Ian Krajbich",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Dynamic resource allocation with karma: An experimental study",
+      "authors": [
+        "Ezzat Elokda",
+        "Saverio Bolognani",
+        "Florian Dörfler",
+        "Heinrich H. Nax"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:c948ad6ad9c2",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003586?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Ezzat Elokda, Saverio Bolognani, Florian Dörfler, Heinrich H. Nax",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Emergency department visits and temperature: Evidence from Mexico",
+      "authors": [
+        "Luis Sarmiento",
+        "Francesco Pietro Colelli",
+        "Filippo Pavanello"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:c81684fc5e0e",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S016726812600315X?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Luis Sarmiento, Francesco Pietro Colelli, Filippo Pavanello",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Endogenous depopulation and economic growth",
+      "authors": [
+        "Alberto Bucci",
+        "Klaus Prettner"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:1e5d0a745739",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003355?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Alberto Bucci, Klaus Prettner",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Endogenous syndicate formation in (rent-seeking) contests",
+      "authors": [
+        "Kyung Hwan Baik",
+        "Dongwoo Lee"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:b6a9111bd5b0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003239?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Kyung Hwan Baik, Dongwoo Lee",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Energy poverty and health: Evidence from European countries",
+      "authors": [
+        "Martina Celidoni",
+        "Raffaele Miniaci",
+        "Paola Valbonesi"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:0ef7fba87b21",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003215?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Martina Celidoni, Raffaele Miniaci, Paola Valbonesi",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Finite foresight in Chomp",
+      "authors": [
+        "Zachary Breig",
+        "Hai Anh Pham"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:524c6e73a419",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S016726812600380X?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Zachary Breig, Hai Anh Pham",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Frontier technology adopters and the aggregate decline of routine jobs",
+      "authors": [
+        "Melanie Arntz",
+        "Sabrina Genz",
+        "Terry Gregory",
+        "Florian Lehmer",
+        "Ulrich Zierahn-Weilage"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:be02c33789df",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003197?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Melanie Arntz, Sabrina Genz, Terry Gregory, Florian Lehmer, Ulrich Zierahn-Weilage",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Global inequality in vaccine access, mortality and economy: An agent-based exploration",
+      "authors": [
+        "Patrick Mellacher",
+        "Simon Plakolb"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:9f00dc8facf0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003495?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Patrick Mellacher, Simon Plakolb",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "How confirmation bias makes persuaders more honest",
+      "authors": [
+        "Minseo Choi",
+        "Daeyoung Jeong"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:0a40b4089dd4",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003641?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Minseo Choi, Daeyoung Jeong",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "How cultural norms affect attitudes toward immigration",
+      "authors": [
+        "Yvonne Giesing",
+        "Björn Kauder",
+        "Lukas Mergele",
+        "Niklas Potrafke",
+        "Panu Poutvaara"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:afc567088fd6",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003513?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Yvonne Giesing, Björn Kauder, Lukas Mergele, Niklas Potrafke, Panu Poutvaara",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "How does information about inequalities affect fairness views and policy preferences?: Evidence from a randomized survey experiment",
+      "authors": [
+        "Julia Baarck",
+        "Mathias Dolls",
+        "Lisa Windsteiger"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:e712c5c00b08",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003367?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Julia Baarck, Mathias Dolls, Lisa Windsteiger",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Human accuracy in social network analysis: The role of network characteristics in infection risk assessment",
+      "authors": [
+        "Martijn Stroom",
+        "Roselinde Kessels",
+        "Ingrid Rohde",
+        "Martin Strobel"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:02b1f3ba54db",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003161?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Martijn Stroom, Roselinde Kessels, Ingrid Rohde, Martin Strobel",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Information, goal setting and performance: Experimental evidence",
+      "authors": [
+        "Haoran He",
+        "Marcus Roel",
+        "Ronghai Su",
+        "Qian Weng"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:f029e72c2e76",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003598?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Haoran He, Marcus Roel, Ronghai Su, Qian Weng",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Learning and probability matching in newsvendor decisions",
+      "authors": [
+        "Weiwei Han",
+        "Xun Wang"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:b8a0518e9dc0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S016726812600363X?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Weiwei Han, Xun Wang",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Market versus state in driving growth: An institutional interpretation of TFP changes in China",
+      "authors": [
+        "Harry X. Wu",
+        "Xiang Li"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:d5f94bb3c707",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126001939?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Harry X. Wu, Xiang Li",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Matching for risk-taking: Overconfident bankers and government-protected banks",
+      "authors": [
+        "Andreas Haufler",
+        "Bernhard Kassner"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:8beab5e37e6b",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003483?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Andreas Haufler, Bernhard Kassner",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Organizational culture and habit formation in public procurement",
+      "authors": [
+        "Janne Tukiainen",
+        "Vesa Soini",
+        "Susmita Baulia",
+        "Jan Jääskeläinen"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:6415da3dd76c",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003148?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Janne Tukiainen, Vesa Soini, Susmita Baulia, Jan Jääskeläinen",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Peer comparisons and the cost of pro-social behavior: Evidence from the lab",
+      "authors": [
+        "David Campoverde",
+        "Todd L. Cherry",
+        "David M. McEvoy",
+        "Tanga Mohr",
+        "Klaas van 't Veld"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:f0f63c3f1917",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003185?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): David Campoverde, Todd L. Cherry, David M. McEvoy, Tanga Mohr, Klaas van 't Veld",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Perceptions of inequality and group-specific public goods",
+      "authors": [
+        "Maurizio Bussolo",
+        "Akshay Govind Dixit"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:325bd63d7e23",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003458?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Maurizio Bussolo, Akshay Govind Dixit",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Perceptions of own social class and local affluence: Effects on preferences for redistribution",
+      "authors": [
+        "Javier Olivera",
+        "Paola Villa-Paro"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:183314be5e35",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003537?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Javier Olivera, Paola Villa-Paro",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Power outages, multi-product firms, and firm productivity: Theory and evidence from China",
+      "authors": [
+        "Jian Yu",
+        "Chen Zhao",
+        "Ying Li",
+        "Nan Wu"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:c016a0dd44c6",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003653?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Jian Yu, Chen Zhao, Ying Li, Nan Wu",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Reputation, punishment and the enforcement of social norms",
+      "authors": [
+        "David F. Jackson"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:695c6865ee12",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003240?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): David F. Jackson",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Retaking to succeed: Causal evidence on optional course retaking in college",
+      "authors": [
+        "Kelly Chen",
+        "Yingying Dong",
+        "Xuan Jiang"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:7984207ea929",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003562?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Kelly Chen, Yingying Dong, Xuan Jiang",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Revealing tax evasion: Experimental evidence from a representative survey of Indonesian firms",
+      "authors": [
+        "Christopher Hoy",
+        "Filip Jolevski",
+        "Anthony Obeyesekere"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:9905f69ef374",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003823?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Christopher Hoy, Filip Jolevski, Anthony Obeyesekere",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Shared parental leave, male board directors, and firm performance: A corporate governance perspective",
+      "authors": [
+        "Ylva Baeckström",
+        "Onur Kemal Tosun"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:9494545c605f",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003136?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Ylva Baeckström, Onur Kemal Tosun",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Social control and the dispersion of beliefs: Evidence from cross-country data and German reunification",
+      "authors": [
+        "Mark Gradstein",
+        "Luigi Ventura"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:52a72c56e585",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003628?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Mark Gradstein, Luigi Ventura",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Structural shocks and political participation in the US",
+      "authors": [
+        "Marina Chugunova",
+        "Klaus Keller",
+        "Sampsa Samila"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:b1ec57a63a0f",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003574?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Marina Chugunova, Klaus Keller, Sampsa Samila",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Sustainable public procurement and firm dynamics: Evidence from Spanish contracts",
+      "authors": [
+        "Enrique Carreras",
+        "Marco Sanfilippo",
+        "Davide Vannoni"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:08e40bc7429c",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003501?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Enrique Carreras, Marco Sanfilippo, Davide Vannoni",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Targeted bidders in government tenders",
+      "authors": [
+        "Matilde Cappelletti",
+        "Leonardo M. Giuffrida"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:779b79df4464",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003665?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Matilde Cappelletti, Leonardo M. Giuffrida",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "The heterogeneous impacts of the residential component of a training program: A semiparametric analysis",
+      "authors": [
+        "Jun Cai",
+        "Alfonso Flores-Lagunes",
+        "Xintong Wang"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:948b7843c633",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003550?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Jun Cai, Alfonso Flores-Lagunes, Xintong Wang",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "The persistent legacy: Colonial railroads and agricultural productivity in Africa",
+      "authors": [
+        "Andu Berha",
+        "Sandeep Mohapatra"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:9f70e34ef7c1",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S016726812600346X?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Andu Berha, Sandeep Mohapatra",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Variations in the two-step norm elicitation procedure: timing, incentives, and scope",
+      "authors": [
+        "Sabrina Plaß"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:185bd9aef068",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003380?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Sabrina Plaß",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "When women take all: Direct election and female leadership",
+      "authors": [
+        "Davide Cipullo"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:d81782d810e8",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003781?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Journal of Economic Behavior & Organization, Volume 251Author(s): Davide Cipullo",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Who is concerned about climate change when forests are burning? Evidence from Swedish forest fires",
+      "authors": [
+        "Xiao Hu"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:9b9baef43918",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003434?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Xiao Hu",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Willing to pay for security: A discrete choice experiment to analyse labour supply preferences",
+      "authors": [
+        "Nikhil Datta"
+      ],
+      "journal": "JEBO",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:50124065b57f",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0167268126003410?dgcid=rss_sd_all",
+      "abstract": "Publication date: October 2026Source: Journal of Economic Behavior & Organization, Volume 250Author(s): Nikhil Datta",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Competing for power in multilateral negotiations under majority and unanimity rules",
+      "authors": [
+        "Andrzej Baranski",
+        "Ernesto Reuben"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:5c628bc3a4e2",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001399?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Andrzej Baranski, Ernesto Reuben",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Corrigendum to “Two-person bargaining when the disagreement point is private information” [Games and Economic Behavior, Volume 150 (2025), 387-400]",
+      "authors": [
+        "Eric van Damme",
+        "Xu Lang"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:7a7b8dc93d23",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001430?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Eric van Damme, Xu Lang",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Does increasing inequality threaten social stability? Evidence from the lab",
+      "authors": [
+        "Fabrizio Adriani",
+        "Abigail Barr",
+        "Anna Hochleitner",
+        "Silvia Sonderegger"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:591ad000e49b",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001570?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 10 October 2026Source: Games and Economic BehaviorAuthor(s): Fabrizio Adriani, Abigail Barr, Anna Hochleitner, Silvia Sonderegger",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Elections with job-motivated bureaucrats",
+      "authors": [
+        "Jean Guillaume Forand"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:3436ec92c8cd",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001272?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Jean Guillaume Forand",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Eliciting moral preferences under image concerns: Theory and experiment",
+      "authors": [
+        "Roland Bénabou",
+        "Armin Falk",
+        "Luca Henkel",
+        "Jean Tirole"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:8b422ba4b3e6",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001405?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Roland Bénabou, Armin Falk, Luca Henkel, Jean Tirole",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Experience-based pairwise comparison dynamics",
+      "authors": [
+        "Jiabin Wu"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:e2328b2103a9",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001478?dgcid=rss_sd_all",
+      "abstract": "Publication date: January 2027Source: Games and Economic Behavior, Volume 161Author(s): Jiabin Wu",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Legitimate decision authority and motivation in organizations",
+      "authors": [
+        "Holger Herz",
+        "Christian Zihlmann"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:0d11e171c217",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001260?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Holger Herz, Christian Zihlmann",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Maxmin expected utility as resulting from disagreement among experts",
+      "authors": [
+        "Shiri Alon",
+        "Gabrielle Gayer"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:9b2e79bca558",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001429?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Shiri Alon, Gabrielle Gayer",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Motivation complementarities in prosocial behavior: Evidence from social networks of blood donors",
+      "authors": [
+        "Adrian Bruhin",
+        "Simon Haenni",
+        "Lingqing Jiang",
+        "Adrian Roethlisberger",
+        "Regula Buchli",
+        "Beat M. Frey",
+        "Lorenz Goette"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:73395efe77d0",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001284?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Adrian Bruhin, Simon Haenni, Lingqing Jiang, Adrian Roethlisberger, Regula Buchli, Beat M. Frey, Lorenz Goette",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Multi-agent contract design with a budget",
+      "authors": [
+        "Sumit Goel",
+        "Wade Hann-Caruthers"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:b9b094a7eef2",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001351?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Sumit Goel, Wade Hann-Caruthers",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Obvious strategy-proofness with respect to a partition",
+      "authors": [
+        "R. Pablo Arribillaga",
+        "Jordi Massó",
+        "Alejandro Neme"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:390d394e47ce",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001466?dgcid=rss_sd_all",
+      "abstract": "Publication date: January 2027Source: Games and Economic Behavior, Volume 161Author(s): R. Pablo Arribillaga, Jordi Massó, Alejandro Neme",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Optimal investment-based crowdfunding: crowdblessing versus scale",
+      "authors": [
+        "Matthew Ellman",
+        "Sjaak Hurkens"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:8598e08643cd",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S089982562600148X?dgcid=rss_sd_all",
+      "abstract": "Publication date: Available online 7 October 2026Source: Games and Economic BehaviorAuthor(s): Matthew Ellman, Sjaak Hurkens",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Regulating investments when both costs and need are private",
+      "authors": [
+        "Daniel F. Garrett",
+        "Elena Panova"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:63b3bafac604",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001132?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Daniel F. Garrett, Elena Panova",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Secure and efficient networks",
+      "authors": [
+        "Oleh Stupak"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:8291dd1cc59a",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001454?dgcid=rss_sd_all",
+      "abstract": "Publication date: January 2027Source: Games and Economic Behavior, Volume 161Author(s): Oleh Stupak",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Single and multi-winner auctions with performance obligation",
+      "authors": [
+        "Marin Coerts",
+        "Florian Heine",
+        "Frank van Ommeren",
+        "Arjen van Witteloostuijn"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:870b1384b9f4",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001442?dgcid=rss_sd_all",
+      "abstract": "Publication date: January 2027Source: Games and Economic Behavior, Volume 161Author(s): Marin Coerts, Florian Heine, Frank van Ommeren, Arjen van Witteloostuijn",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Stochastic sequential screening",
+      "authors": [
+        "Hao Li",
+        "Xianwen Shi"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:3462fce669be",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001259?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Hao Li, Xianwen Shi",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "The effects of global and local heterogeneity on cooperation in multi-level public goods: experimental evidence",
+      "authors": [
+        "Tjaša Bjedov",
+        "Simon Lapointe",
+        "Thierry Madiès",
+        "David Masclet",
+        "Jean-Christian Tisserand"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:1f0c910b6410",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001417?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Tjaša Bjedov, Simon Lapointe, Thierry Madiès, David Masclet, Jean-Christian Tisserand",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Tournaments with managerial discretion",
+      "authors": [
+        "Peiran Xiao",
+        "Hashim Zaman"
+      ],
+      "journal": "GEB",
+      "publishedDate": "2026-10-11",
+      "doi": "hash:c114df5e0e2d",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0899825626001363?dgcid=rss_sd_all",
+      "abstract": "Publication date: November 2026Source: Games and Economic Behavior, Volume 160Author(s): Peiran Xiao, Hashim Zaman",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Commentary on Alister et al. (2025): Individual Differences or Unsystematic Noise?",
+      "authors": [
+        "Peter ShepherdsonUniversity of Akureyri"
+      ],
+      "journal": "PsychScience",
+      "publishedDate": "2026-10-07",
+      "doi": "10.1177/09567976261485960",
+      "sourceUrl": "https://journals.sagepub.com/doi/abs/10.1177/09567976261485960?ai=2b4&mi=ehikzz&af=R",
+      "abstract": "Psychological Science, Ahead of Print. Alister et al. (2025) reported individual differences in the extent to which people find source-dependent and source-independent claims persuasive, but an exploratory analysis showed no discernible relationship between these individual differences and ...",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Do Children Who Develop Faster Go on to Age Faster in Midlife?",
+      "authors": [
+        "J. Kathy Xie, Avshalom Caspi, Kathleen Mullan Harris, Allison E. Aiello, HonaLee Harrington, Renate Houts, Christopher Kositzke, Daniel W. Belsky, Laurel Raffington, Jay Belsky, Sandhya Ramrakha, Reremoana F. Theodore, Terrie E. Moffitt"
+      ],
+      "journal": "PsychScience",
+      "publishedDate": "2026-10-07",
+      "doi": "10.1177/09567976261483545",
+      "sourceUrl": "https://journals.sagepub.com/doi/abs/10.1177/09567976261483545?ai=2b4&mi=ehikzz&af=R",
+      "abstract": "Psychological Science, Ahead of Print. We quantified the association between rate of child development and pace of midlife aging in the Dunedin Study and the Add Health Study. Physical development was quantified in Dunedin participants (N= 1,037; age 45) using a composite comprised of (1) ...",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Face-Matching Lineups: A Method to Control Mistaken Identifications in Video Evidence",
+      "authors": [
+        "Camryn N. Yuen, Daniel M. Bernstein, Andrew M. Smith, Rebecca C. Ying, Ryan J. Fitzgerald"
+      ],
+      "journal": "PsychScience",
+      "publishedDate": "2026-10-07",
+      "doi": "10.1177/09567976261487962",
+      "sourceUrl": "https://journals.sagepub.com/doi/abs/10.1177/09567976261487962?ai=2b4&mi=ehikzz&af=R",
+      "abstract": "Psychological Science, Ahead of Print. When crime is caught on video, suspects can be identified by matching their faces to the perpetrator in the footage. However, errors in face-matching decisions have led to wrongful arrests. We tested face-matching in a nonprofessional student sample from ...",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Microdelays disrupt online learning",
+      "authors": [
+        "Asaf Mazar",
+        "Geoff Tomaino",
+        "Abubakir Siedahmed",
+        "Ahmad Abdolsaheb",
+        "Neil T. Heffernan",
+        "Ziv Carmon",
+        "Angela L. Duckworth"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-10-08",
+      "doi": "hash:6c43a33781a3",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02598-y",
+      "abstract": "Nature Human Behaviour, Published online: 08 October 2026; doi:10.1038/s41562-026-02598-yAnalysing data from more than 80,000 students and aspiring coders, Mazar et al. show that microdelays, brief loading lags caused by slow internet connections, can impair online learning.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Recreational screen use and internalizing problems from preadolescence to young adulthood in a longitudinal twin cohort with co-twin comparison",
+      "authors": [
+        "Tong Gong",
+        "Emma Frans",
+        "Anna Ohlis",
+        "Shuyang Yao",
+        "Ruyue Zhang",
+        "Anders Nilsson",
+        "Yasmina Molero",
+        "Miriam A. Mosing",
+        "Isabell Brikell",
+        "Henrik Larsson",
+        "Paul Lichtenstein",
+        "Lisa B. Thorell",
+        "Patrik KE Magnusson",
+        "Ralf Kuja-Halkola",
+        "Yi Lu"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-10-08",
+      "doi": "hash:5d16ace2c5e2",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02607-0",
+      "abstract": "Nature Human Behaviour, Published online: 08 October 2026; doi:10.1038/s41562-026-02607-0Using longitudinal twin data, this study finds that associations between youth recreational screen use and internalizing problems are substantially reduced within twin pairs, suggesting shared familial contributions to the observed association.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Algorithm-assisted personalized risk communication to encourage flu vaccination in the USA: three randomized field trials",
+      "authors": [
+        "Gail M. Rosenbaum",
+        "Amir Goren",
+        "Maheen Shermohammed",
+        "Donna M. Wolk",
+        "Ann Marie Tice",
+        "Joseph J. Doyle Jr.",
+        "Michelle N. Meyer",
+        "Christopher F. Chabris"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-10-05",
+      "doi": "hash:cc75a86713b3",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02603-4",
+      "abstract": "Nature Human Behaviour, Published online: 05 October 2026; doi:10.1038/s41562-026-02603-4Rosenbaum et al. show that targeted communications highlighting patients’ high-risk status increased influenza vaccination uptake. However, they did not find an additional effect of informing patients that a computer algorithm was used to identify their risk status.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    },
+    {
+      "title": "Contract incentives and behaviours of medical consultants in Ireland",
+      "authors": [
+        "Xidong Guo",
+        "Eóin T. Flaherty",
+        "Huihui Li",
+        "Jiming Zhu"
+      ],
+      "journal": "NatureHB",
+      "publishedDate": "2026-10-05",
+      "doi": "hash:b27a4a9bebdc",
+      "sourceUrl": "https://www.nature.com/articles/s41562-026-02592-4",
+      "abstract": "Nature Human Behaviour, Published online: 05 October 2026; doi:10.1038/s41562-026-02592-4Using Irish inpatient data, this study finds that private practice within public hospitals, when paired with contractual ratio limits, can incentivize consultants to increase public admissions, but may reduce care quality for public patients.",
+      "rq": "",
+      "method": "",
+      "keyFinding": "",
+      "whyItMatters": "",
+      "isBehavioral": false,
+      "tags": []
+    }
+  ],
+  "journalOrder": [
+    "AER",
+    "QJE",
+    "JPE",
+    "Econometrica",
+    "REStud",
+    "AEJ-Applied",
+    "AEJ-Micro",
+    "AEJ-Policy",
+    "REStat",
+    "JEEA",
+    "EJ",
+    "NBER",
+    "ExpEcon",
+    "ManagementScience",
+    "JEBO",
+    "GEB",
+    "PsychScience",
+    "NatureHB",
+    "JExpPsychGen",
+    "AEJ-Macro",
+    "Other"
+  ],
+  "journalCounts": {
+    "ManagementScience": 7,
+    "JEBO": 52,
+    "GEB": 18,
+    "PsychScience": 3,
+    "NatureHB": 4
+  },
+  "feedDiagnostics": [
+    {
+      "journal": "AER",
+      "url": "https://www.aeaweb.org/journals/aer/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "QJE",
+      "url": "https://academic.oup.com/rss/site_5504/3365.xml",
+      "status": 200,
+      "totalEntries": 15,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JPE",
+      "url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
+      "status": 200,
+      "totalEntries": 19,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "REStud",
+      "url": "https://academic.oup.com/rss/site_5508/3369.xml",
+      "status": 200,
+      "totalEntries": 18,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "Econometrica",
+      "url": "https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss",
+      "status": 200,
+      "totalEntries": 14,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Applied",
+      "url": "https://www.aeaweb.org/journals/app/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Micro",
+      "url": "https://www.aeaweb.org/journals/mic/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Macro",
+      "url": "https://www.aeaweb.org/journals/mac/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "AEJ-Policy",
+      "url": "https://www.aeaweb.org/journals/pol/issues/rss",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "REStat",
+      "url": "https://direct.mit.edu/rest/pages/rss.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "JEEA",
+      "url": "https://academic.oup.com/rss/site_5523/3388.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "EJ",
+      "url": "https://academic.oup.com/rss/site_5488/3348.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "ExpEcon",
+      "url": "https://link.springer.com/search.rss?facet-journal-id=10683",
+      "status": 200,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "ManagementScience",
+      "url": "https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc",
+      "status": 200,
+      "totalEntries": 327,
+      "recentEntries": 8,
+      "error": ""
+    },
+    {
+      "journal": "JEBO",
+      "url": "https://rss.sciencedirect.com/publication/science/01672681",
+      "status": 200,
+      "totalEntries": 53,
+      "recentEntries": 53,
+      "error": ""
+    },
+    {
+      "journal": "GEB",
+      "url": "https://rss.sciencedirect.com/publication/science/08998256",
+      "status": 200,
+      "totalEntries": 19,
+      "recentEntries": 19,
+      "error": ""
+    },
+    {
+      "journal": "NBER",
+      "url": "https://nber.org/rss/new_working_papers.xml",
+      "status": 301,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    },
+    {
+      "journal": "PsychScience",
+      "url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=pssa&type=etoc&feed=rss",
+      "status": 200,
+      "totalEntries": 9,
+      "recentEntries": 3,
+      "error": ""
+    },
+    {
+      "journal": "NatureHB",
+      "url": "https://www.nature.com/nathumbehav.rss",
+      "status": 200,
+      "totalEntries": 8,
+      "recentEntries": 4,
+      "error": ""
+    },
+    {
+      "journal": "JExpPsychGen",
+      "url": "https://www.apa.org/pubs/journals/xge/rss.xml",
+      "status": 404,
+      "totalEntries": 0,
+      "recentEntries": 0,
+      "error": ""
+    }
+  ]
+}
